@@ -2,9 +2,8 @@
 {
     "file_name" : "Prompt feature f:or AI prompter",
     "author" : "Ray Lee",
-    "email" : "raymondhekk@gmail.com",
+    "email" : "raykkncc@gmail.com",
     "date" : "2023-4-20",
-   
     "dimension": [
         { "name": "genre", "caption": "体裁",  "type":"" },
         { "name": "style", "caption": "风格",   "type":"" },
@@ -41,9 +40,7 @@
             { "name": "illustration","caption": "插画",  "alias": "illustration style" },
             { "name": "painting_form", "caption": "绘画形式", "alias": "painting" },
             { "name": "painting_style","caption": "绘画风格",  "alias": "painting style" },
-            { "name": "artist","caption": "艺术家",  "alias": "artist style" },
-       
-            
+            { "name": "artist","caption": "艺术家",  "alias": "artist style" }
         ],
         "photo" : [
             { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style, real style, realistic, reality" },
@@ -66,7 +63,7 @@
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" },
             { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style" },
             { "name": "manga_style",   "caption": "日本漫画书", "type":"cartoon", "alias": "manga style" },
-            { "name": "Ghibli_style",  "caption": "吉卜力动画", "type":"cartoon", "alias": "Ghibli style" },
+            { "name": "Ghibli_style",  "caption": "吉卜力动画", "type":"cartoon", "alias": "Ghibli style" }
           
         ],
         "illustration" : [
@@ -75,7 +72,7 @@
             { "name": "animal_illustration", "caption": "动物插画",     "type":"illustration", "alias": "animal illustration style" },  
             { "name": "advertising_illustration", "caption": "广告插画", "type":"illustration", "alias": "ad illustration style" },  
             { "name": "science_illustration", "caption": "科学插画",     "type":"illustration", "alias": "science illustration style" },
-            { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style" }, 
+            { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style" }
           ],
         "painting_form": [
             { "name": "oil_paiting",    "caption": "油画",       "type":"painting_form", "alias": "oil paiting style" },
@@ -86,7 +83,7 @@
             { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style" },
             { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style" },
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout" },
-            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": "Chinese painting" },
+            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": "Chinese painting" }
            ]
     }
     
