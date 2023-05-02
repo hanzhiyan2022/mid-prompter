@@ -20,17 +20,18 @@
             { "name": "creature", "caption": "生物",  "alias": "creature"  },     
             { "name": "scenario", "caption": "场景",  "alias": "scenario" }
         ],
-        "features" : [
+        "figure" : [
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait" }, 
             { "name": "full_body", "caption": "全身像", "type" : "figure",  "alias": "full body" },  
             { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "profile" },  
-            { "name": "other",   "caption": "其他",   "type" : "figure",  "alias": "profile" },
-
+            { "name": "other",   "caption": "其他",   "type" : "figure",  "alias": "profile" }
+        ],
+        "landscape": [
             { "name": "moutain", "caption": "山",     "type" : "landscape",  "alias": "portrait" }, 
             { "name": "forest", "caption": "森林",    "type" : "landscape",  "alias": "full body" },  
             { "name": "profile",   "caption": "侧像", "type" : "landscape",  "alias": "profile" },  
             { "name": "other", "caption": "其他",     "type" : "landscape",  "alias": "profile" }
-        ] 
+        ]
     },
     "style": {
         "featureTypes" :   [
