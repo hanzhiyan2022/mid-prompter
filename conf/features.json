@@ -7,7 +7,7 @@
     "dimension": [
         { "name": "genre", "caption": "体裁",  "type":"" },
         { "name": "style", "caption": "风格",   "type":"" },
-        { "name": "element"  , "caption": "要素","type":"" },
+       
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
 
