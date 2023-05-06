@@ -27,14 +27,14 @@
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
         "landscape": [
-            { "name": "mountain", "caption": "山",  "type" : "landscape",  "alias": "mountain view" , "image":"" }, 
-            { "name": "forest", "caption": "森林",  "type" : "landscape",  "alias": "full body" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104402808054227015/Less_Create_a_youtube_banner_of_a_very_beautiful_forest_very_re_567b97c0-4c83-4a6a-8b57-362065caeb6a.png" },  
+            { "name": "mountain", "caption": "山",  "type" : "landscape",  "alias": "mountain view" , "image":"https://cdn.discordapp.com/attachments/1103870787145973802/1104415280702161047/vera_bing_So_he_continued_on_his_way_over_mountains_through_eb63c103-af8d-4257-9eee-6c8574c447c0.png" }, 
+            { "name": "forest", "caption": "森林",  "type" : "landscape",  "alias": "full body" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104439365125537912/luckth2022_summerhappypeacefulforest--ar44--v5_f28e8def-8952-42b2-b44a-d1d195194913.png" },  
             { "name": "sea",    "caption": "海洋",  "type" : "landscape",  "alias": "sea view" ,"image":"" },
             { "name": "sightseeing", "caption": "观光",  "type" : "landscape",  "alias": "sightseeing, sight of view", "image": "https://media.discordapp.net/attachments/1072899954525356072/1103980840532328549/bestbally_Thailand_Ranong_travel_sightseeing_569eeadc-6e67-4e95-98cb-3f3deaae2fa4.png" } 
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
-            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104414721379152043/korolev_nickolay_3d_bottle_cap_flip_realistic_black_background_cdf53d2e-4a82-4527-83e0-e86ef5c50fea.png" },
+            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
             { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104425092974383124/und3rverse_a_logo_for_a_website_that_has_a_stylized_pen_nib_or__3b08d21b-adb7-4a66-9eb3-4510b82563dd.png" },
             { "name": "clothes",         "caption": "服装设计",      "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
             { "name": "architecture",           "caption": "建筑设计",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418880090279998/zahyn_Big_luxury_vacation_house_at_Alps_sunrise_in_winter_hyper_bde4145e-dc51-4688-911c-0a33a0a118e1.png" }
@@ -86,7 +86,7 @@
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
             { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
             { "name": "manga_style",   "caption": "日本漫画书", "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_style",  "caption": "吉卜力动画", "type":"cartoon", "alias": "Ghibli style" , "image":"" }
+            { "name": "Ghibli_style",  "caption": "吉卜力动画", "type":"cartoon", "alias": "Ghibli studio style" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
           
         ],
         "illustration" : [
