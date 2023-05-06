@@ -13,24 +13,24 @@
 
     "genre": {
         "featureTypes" : [
-            { "name": "figure", "caption": "人物",   "alias": "figure" },  
-            { "name": "landscape", "caption": "风景",  "alias": "scenery"  },   
-            { "name": "design", "caption": "设计",   "alias": "design"  },            
-            { "name": "object", "caption": "物体",   "alias": "object"  },  
-            { "name": "creature", "caption": "生物",  "alias": "creature"  },     
-            { "name": "scenario", "caption": "场景",  "alias": "scenario" }
+            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1097992276753518733/Volthurno_subjectmuscular_womanblonde_braidvikingValkyrieleathe_d85ce86e-3020-40af-8340-485b00500f37.png" },  
+            { "name": "landscape", "caption": "风景",  "alias": "scenery", "image": "https://cdn.discordapp.com/attachments/1014157453824376835/1061390663943475220/Antonio9238445_paradise_lauterbrunnen_valley_wengen_eiger_summe_1ec87fca-4c34-4a3d-9c20-af2754a156a8.png" },   
+            { "name": "design", "caption": "设计",   "alias": "design", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },            
+            { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
+            { "name": "animal_plant", "caption": "生物",  "alias": "creature" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  },     
+            { "name": "scenario", "caption": "场景",  "alias": "scenario","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
         ],
         "figure" : [
-            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait" }, 
-            { "name": "full_body", "caption": "全身像", "type" : "figure",  "alias": "full body" },  
-            { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "profile" },  
-            { "name": "other",   "caption": "其他",   "type" : "figure",  "alias": "profile" }
+            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png" }, 
+            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/953413844183683082/1104111182425641101/emptysea_surrealist_portrait_full_body_including_head_and_feet__caec009a-66bf-4557-85fb-25db9e0cf975.png"},  
+            { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "profile","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
+            { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
         "landscape": [
-            { "name": "moutain", "caption": "山",     "type" : "landscape",  "alias": "portrait" }, 
-            { "name": "forest", "caption": "森林",    "type" : "landscape",  "alias": "full body" },  
-            { "name": "profile",   "caption": "侧像", "type" : "landscape",  "alias": "profile" },  
-            { "name": "other", "caption": "其他",     "type" : "landscape",  "alias": "profile" }
+            { "name": "mountain", "caption": "山",  "type" : "landscape",  "alias": "mountain view" }, 
+            { "name": "forest", "caption": "森林",  "type" : "landscape",  "alias": "full body" },  
+            { "name": "sea",    "caption": "海洋",  "type" : "landscape",  "alias": "sea view" },
+            { "name": "sightseeing", "caption": "观光",  "type" : "landscape",  "alias": "sightseeing, sight of view" } 
         ]
     },
     "style": {
@@ -50,7 +50,7 @@
           
         ],
         "new_image_style": [
-            { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "" },
+            { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104256886620028948/Kupo_Koda_mirror_that_is_a_portal_to_parallel_universe_mushroom_9c6f2898-006c-4943-a6d7-ecea1680b500.png" },
             { "name": "science fiction",  "caption": "科幻",       "type":"new_image_style", "alias": "sci-fi" },
             { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk" },
             { "name": "futurism",  "caption": "未来主义",          "type":"new_image_style", "alias": "futuristic" },
