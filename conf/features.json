@@ -56,7 +56,7 @@
     },
     "style": {
         "featureTypes" :   [
-            { "name": "photo","caption": "照片", "alias":"real" , "image":""  },
+            { "name": "photo","caption": "照片", "alias":"real" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103860042932965466/veevee06_real_estate_history_16k_1527a470-5aea-43ef-bc38-96751648b401.png"  },
             { "name": "new_image_style","caption": "新图像风格", "alias": "new image style" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104413575151366265/ashraf_Airbus_A380_fly_with_a_fish_in_sky_d8878b3c-a800-42ee-8456-45605391b781.png" },
             { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104430745046503556/markcruz_cute_happy_bunny_in_a_meadow_in_style_of_pixar_4k_41a5b4a1-ef1c-4828-9124-d7d64f07bad7.png" },
             { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png"  },
@@ -96,8 +96,8 @@
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" }
           ],
         "painting_form": [
-            { "name": "oil_paiting",    "caption": "油画",       "type":"painting_form", "alias": "oil paiting style" ,"image": "" },
-            { "name": "drawing",        "caption": "速写",       "type":"painting_form", "alias": "drawing style "  ,"image": "" },
+            { "name": "oil_painting",    "caption": "油画",       "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
+            { "name": "pencil_drawing",  "caption": "素描",       "type":"painting_form", "alias": ""  ,"image": "" },
             { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "" },
             { "name": "line_style",     "caption": "线稿",       "type":"painting_form", "alias": "water color style" ,"image": ""  },
             { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring page style" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
