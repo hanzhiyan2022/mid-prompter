@@ -44,7 +44,7 @@
             { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104430745046503556/markcruz_cute_happy_bunny_in_a_meadow_in_style_of_pixar_4k_41a5b4a1-ef1c-4828-9124-d7d64f07bad7.png" },
             { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1093306482012987564/shamie_childrens_book_illustration_type__flat_color_hand_colori_a5afde57-5d7e-4d2a-9dea-154455352e06.png"  },
             { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410612194345091/nieltae_irina_with_a_cat_on_a_watermelon_2c061752-395a-41a0-bb52-b45f95b4c87a.png"  },
-            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104587176961908786/sillylittlegoose888_beautiful_impressionist_painting_with_impas_412d2097-25ea-4895-9312-006a4c5e182d.png"  },
+            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104698337124417556/HuyIvan_starry_starry_night_modern_version_of_van_gogh_style_07b7802b-6687-4bd5-b004-47ef4908c89a.png"  },
             { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png"  }
         ],
         "photo" : [
@@ -113,6 +113,8 @@
             { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"}
         ],
         "artist": [
+               { "name": "Van_Gogh_style",       "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png" },
+               { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" },
                { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
               
                { "name": " Miyazaki_Hayao_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1078967091836760085/eigenfury_a_car_in_a_clean_setting_with_bright_sunlight_childre_90b7e0c7-298d-4660-9243-afb59ce086a8.png"},
