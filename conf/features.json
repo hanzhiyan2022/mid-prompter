@@ -49,10 +49,13 @@
             { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png"  }
         ],
         "photo" : [
-            { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style,realistic" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104421506546675712/klarea_Chunxi_road_of_Chengdu_in_1995_25183a09-7560-4fba-bf68-a24f4e1ec544.png" },
+            { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style,realistic" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104629161970106369/pikajaly236_Imagina_que_estas_en_un_mercado_de_frutas_y_verdura_d574ba92-88b3-458c-8d2a-f0aa7b2c13b3.png" },
             { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
+            { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104628756573859930/felipe77768_sci-fi_cyberpunk_city_market_cars_flying_cars_signs_e38265b5-2d73-498c-a5d1-9bbb8173e263.png" },
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410604757856287/Tuan_Will_to_Rise_Finding_Strength_in_the_Slums_3b151ce5-a117-41f6-ad3d-e11b2bade8a3.png"  },
-            { "name": "hyperrealistic",   "caption": "超级现实主义", "type":"photo", "alias": "photorealism", "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418880090279998/zahyn_Big_luxury_vacation_house_at_Alps_sunrise_in_winter_hyper_bde4145e-dc51-4688-911c-0a33a0a118e1.png"  },
+            { "name": "hyperrealistic",   "caption": "超级写实主义", "type":"photo", "alias": "hyperreal,ultrareal,ultrarealistic", "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418880090279998/zahyn_Big_luxury_vacation_house_at_Alps_sunrise_in_winter_hyper_bde4145e-dc51-4688-911c-0a33a0a118e1.png"  },
+            { "name": "surreal", "caption": "超现实主义", "type":"photo", "alias": "surrealism,surrealist,surrealistic", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1073575049447088168/patouc13500_Cute_and_adorable_cartoon_fluffy_dinosaur_silver_gl_146230c6-7500-4c6d-9840-22713210526f.png"},
+
             { "name": "retro",   "caption": "复古", "type":"photo", "alias": "retro style", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1089664859504902225/Ivann_retro_full-length_photo_of_retro_dance_rockabilly_style_6_a4994bf0-ff40-4a79-b9c6-9ea606cb457f.png" }
             
         ],
@@ -61,7 +64,7 @@
             { "name": "science_fiction",  "caption": "科幻",       "type":"new_image_style", "alias": "sci-fi" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104415766599708803/thiemo_to_the_moon_and_beyond_outer_space_technology_4k_wallpap_c81876aa-7e75-4a70-8e56-0176069bc508.png" },
             { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
             { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104315357851820072/Lami_Cyberpunk_city_background_2d_scroller_pixel_art_35211bb1-cf55-4061-825a-3ebe5cbbe67f.png"  },
-            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104417431553855548/thiemo_community_crypto_working_together_building_future_money__edc20c0e-354f-48fa-8eb3-ae04568f6100.png" },
+            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104691921139552306/walid_boudalia_walid_boudalia_picture_of_future_clipart_053c1165-b888-4aa2-9452-39a52c46faf0.png" },
             { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" }
         ],
         "cartoon": [
