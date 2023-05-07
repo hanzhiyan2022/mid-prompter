@@ -15,7 +15,7 @@
         "featureTypes" : [
             { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1097992276753518733/Volthurno_subjectmuscular_womanblonde_braidvikingValkyrieleathe_d85ce86e-3020-40af-8340-485b00500f37.png" },  
             { "name": "landscape", "caption": "风景",  "alias": "scenery", "image": "https://cdn.discordapp.com/attachments/1014157453824376835/1061390663943475220/Antonio9238445_paradise_lauterbrunnen_valley_wengen_eiger_summe_1ec87fca-4c34-4a3d-9c20-af2754a156a8.png" },   
-            { "name": "design", "caption": "设计",   "alias": "design", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png"  },            
+            { "name": "design", "caption": "设计",   "alias": "design", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },            
             { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
             { "name": "animal_plant", "caption": "生物",  "alias": "creature" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  },     
             { "name": "scenario", "caption": "场景",  "alias": "scenario","image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104413771901972520/thiemo_Power_to_the_merchants_dad0d1c2-c33f-405c-ad2e-099e24bbbda9.png"  }
@@ -35,7 +35,7 @@
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
             { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
-            { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104425092974383124/und3rverse_a_logo_for_a_website_that_has_a_stylized_pen_nib_or__3b08d21b-adb7-4a66-9eb3-4510b82563dd.png" },
+            { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592682979958854/PatratMatt_a_college_sports_logo_of_a_lilac_flower_inside_of_a__d9672a46-33e9-422b-9f8d-9b9db7062c41.png" },
             { "name": "clothes",         "caption": "服装设计",      "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
             { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
             { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104587317424967820/ibrahim203020302030_designe_cafe_modern_2d81bf38-199f-42fc-979d-c674928a0548.png"}
@@ -69,7 +69,9 @@
             { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style,realistic" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104421506546675712/klarea_Chunxi_road_of_Chengdu_in_1995_25183a09-7560-4fba-bf68-a24f4e1ec544.png" },
             { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410604757856287/Tuan_Will_to_Rise_Finding_Strength_in_the_Slums_3b151ce5-a117-41f6-ad3d-e11b2bade8a3.png"  },
-            { "name": "hyperrealistic",   "caption": "超级现实主义", "type":"photo", "alias": "photorealism", "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418880090279998/zahyn_Big_luxury_vacation_house_at_Alps_sunrise_in_winter_hyper_bde4145e-dc51-4688-911c-0a33a0a118e1.png"  }
+            { "name": "hyperrealistic",   "caption": "超级现实主义", "type":"photo", "alias": "photorealism", "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418880090279998/zahyn_Big_luxury_vacation_house_at_Alps_sunrise_in_winter_hyper_bde4145e-dc51-4688-911c-0a33a0a118e1.png"  },
+            { "name": "retro",   "caption": "复古", "type":"photo", "alias": "retro style", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1089664859504902225/Ivann_retro_full-length_photo_of_retro_dance_rockabilly_style_6_a4994bf0-ff40-4a79-b9c6-9ea606cb457f.png" }
+            
         ],
         "new_image_style": [
             { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104256886620028948/Kupo_Koda_mirror_that_is_a_portal_to_parallel_universe_mushroom_9c6f2898-006c-4943-a6d7-ecea1680b500.png" },
@@ -91,7 +93,7 @@
           
         ],
         "illustration" : [
-            { "name": "children_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children'book illustration, children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104319661790724166/jamyson15_childrens_book_illustration_Sophie_and_the_dragon_pla_1cc4e723-9ef1-4a0b-9125-b27032351110.png" }, 
+            { "name": "children_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children'book illustration, children illustration style" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1104591530720763904/gclark_Noon_grass_a_cute_Q_version_humanoid_white_rabbit_she_is_e2da6533-5039-4efe-91e3-3cf186472be7.png" }, 
             { "name": "plant_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" }
           ],
@@ -110,12 +112,15 @@
         "painting_style" : [
             { "name": "realistic",    "caption": "写实", "type":"painting_style", "alias": "realism" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
             { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104592927210094612/CryptoBridges_surfer_minimalist_d0c097e5-0f18-414a-8e89-3694ffa49d6f.png" },
-            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104351907151106078/chia_mayon_volcano_impressionism_painting_by_van_gogh_e63202df-e0f8-48ac-a929-a0458929a996.png" }
+            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104351907151106078/chia_mayon_volcano_impressionism_painting_by_van_gogh_e63202df-e0f8-48ac-a929-a0458929a996.png" },
+            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"
             
         ],
         "artist": [
                { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
-               { "name": "David_Wiesner_Style", "caption": "David Wiesner风格", "type":"artist", "alias": "" ,"image": ""}
+              
+               { "name": " Miyazaki_Hayao_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1078967091836760085/eigenfury_a_car_in_a_clean_setting_with_bright_sunlight_childre_90b7e0c7-298d-4660-9243-afb59ce086a8.png"} 
+               
                
            ]
     }
