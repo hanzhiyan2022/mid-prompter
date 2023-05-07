@@ -37,8 +37,9 @@
             { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
             { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104425092974383124/und3rverse_a_logo_for_a_website_that_has_a_stylized_pen_nib_or__3b08d21b-adb7-4a66-9eb3-4510b82563dd.png" },
             { "name": "clothes",         "caption": "服装设计",      "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
-            { "name": "architecture",           "caption": "建筑设计",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418880090279998/zahyn_Big_luxury_vacation_house_at_Alps_sunrise_in_winter_hyper_bde4145e-dc51-4688-911c-0a33a0a118e1.png" }
-            
+            { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
+            { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104587317424967820/ibrahim203020302030_designe_cafe_modern_2d81bf38-199f-42fc-979d-c674928a0548.png"}
+           
         ],
         "creature": [ 
             { "name": "plant", "caption": "植物",  "type" : "creature",  "alias": "plant" , "image":"" }, 
@@ -61,7 +62,7 @@
             { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104430745046503556/markcruz_cute_happy_bunny_in_a_meadow_in_style_of_pixar_4k_41a5b4a1-ef1c-4828-9124-d7d64f07bad7.png" },
             { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png"  },
             { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410612194345091/nieltae_irina_with_a_cat_on_a_watermelon_2c061752-395a-41a0-bb52-b45f95b4c87a.png"  },
-            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":""  },
+            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104587176961908786/sillylittlegoose888_beautiful_impressionist_painting_with_impas_412d2097-25ea-4895-9312-006a4c5e182d.png"  },
             { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png"  }
         ],
         "photo" : [
@@ -106,7 +107,12 @@
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
             { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
-        "painting_style" : [],
+        "painting_style" : [
+            { "name": "realistic",    "caption": "写实", "type":"painting_style", "alias": "realism" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
+            { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104592927210094612/CryptoBridges_surfer_minimalist_d0c097e5-0f18-414a-8e89-3694ffa49d6f.png" },
+            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104351907151106078/chia_mayon_volcano_impressionism_painting_by_van_gogh_e63202df-e0f8-48ac-a929-a0458929a996.png" }
+            
+        ],
         "artist": [
                { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
                { "name": "David_Wiesner_Style", "caption": "David Wiesner风格", "type":"artist", "alias": "" ,"image": ""}
