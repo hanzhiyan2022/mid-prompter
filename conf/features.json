@@ -145,19 +145,24 @@
             { "name": "ar_1_1", "caption": "1:1", "prompt":"--ar 1:1"   }
         ],
         "chaos" : [
-            { "name": "chaos_0", "caption": "chaos 0", "prompt":"--chaos 0"   },
-            { "name": "chaos_10", "caption": "chaos 10", "prompt":"--chaos 1"   },   
-            { "name": "chaos_50", "caption": "chaos 50", "prompt":"--chaos 50"   },   
-            { "name": "chaos_100", "caption": "chaos 100", "prompt":"--chaos 100"   }
+            { "name": "chaos_0",  "caption": "0", "prompt":"--chaos 0"     },
+            { "name": "chaos_10", "caption": "10", "prompt":"--chaos 10"   },   
+            { "name": "chaos_10", "caption": "20", "prompt":"--chaos 20"   },  
+            { "name": "chaos_50", "caption": "50", "prompt":"--chaos 50"   },   
+            { "name": "chaos_10", "caption": "70", "prompt":"--chaos 70"   },  
+            { "name": "chaos_100","caption": "100", "prompt":"--chaos 100" }
         ],
         "quality" : [
-            { "name": "quality_025", "caption": "quality 0.25", "prompt":"--q 0.25"   },
-            { "name": "quality_050", "caption": "quality 0.5", "prompt":"--q 0.5"   },
-            { "name": "quality_01", "caption": "quality 1", "prompt":"--q 1"   },
-            { "name": "quality_02", "caption": "quality 2", "prompt":"--q 2"   }
+            { "name": "quality_025", "caption": "0.25", "prompt":"--q 0.25"   },
+            { "name": "quality_050", "caption": "0.5", "prompt":"--q 0.5"   },
+            { "name": "quality_01", "caption": "1", "prompt":"--q 1"   },
+            { "name": "quality_01", "caption": "1.25", "prompt":"--q 1.25"   },
+            { "name": "quality_01", "caption": "1.5", "prompt":"--q 1.5"   },
+            { "name": "quality_01", "caption": "1.75", "prompt":"--q 1.75"   },
+            { "name": "quality_02", "caption": "2", "prompt":"--q 2"   }
         ],
         "seed" : [
-            { "name": "seed_value", "caption": "image seed value", "prompt":"--seed <seed number>"   }
+            { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
          ]
         }
 
