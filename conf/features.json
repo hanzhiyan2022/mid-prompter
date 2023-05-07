@@ -76,7 +76,7 @@
             { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
             { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104315357851820072/Lami_Cyberpunk_city_background_2d_scroller_pixel_art_35211bb1-cf55-4061-825a-3ebe5cbbe67f.png"  },
             { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104417431553855548/thiemo_community_crypto_working_together_building_future_money__edc20c0e-354f-48fa-8eb3-ae04568f6100.png" },
-            { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"" }
+            { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" }
         ],
         "cartoon": [
             { "name": "2d_cartoon", "caption": "动画片",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
@@ -92,23 +92,25 @@
         "illustration" : [
             { "name": "children_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children'book illustration, children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104319661790724166/jamyson15_childrens_book_illustration_Sophie_and_the_dragon_pla_1cc4e723-9ef1-4a0b-9125-b27032351110.png" }, 
             { "name": "plant_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
-            { "name": "advertising_illustration", "caption": "广告插画", "type":"illustration", "alias": "ad illustration style","image": "" },  
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" }
           ],
         "painting_form": [
-            { "name": "oil_painting",    "caption": "油画",       "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
-            { "name": "pencil_drawing",  "caption": "素描",       "type":"painting_form", "alias": ""  ,"image": "" },
-            { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "" },
-            { "name": "line_style",     "caption": "线稿",       "type":"painting_form", "alias": "water color style" ,"image": ""  },
+            { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
+            { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.discordapp.com/attachments/1021189063262351390/1104411759944671282/ihcussssss_watercolor_clipart_princess_castle_high_detail_singl_009fb17e-4c51-4527-924f-d0650f608599.png" },
+            { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
+            { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104565070509383761/HUFO_Create_a_graffiti_artwork_using_spray_paint_that_includes__ad4d725f-2216-45f4-b3c7-81b19a070b64.png" },
             { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring page style" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
-            { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "" },
-            { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "" },
-            { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "" },
-            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": "Chinese painting"  ,"image": "" }
+            { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
+          
+            { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104424249952845874/Rehan_Anand_a_vector_illustration_art_of_people_practicing_Trau_4c21a5cf-6a20-413d-8efe-842eabc3f422.png" },
+            { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
+            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [],
         "artist": [
-               { "name": "Rayman_style",    "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" }
+               { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
+               { "name": "David_Wiesner_Style", "caption": "David Wiesner风格", "type":"artist", "alias": "" ,"image": ""}
+               
            ]
     }
     
