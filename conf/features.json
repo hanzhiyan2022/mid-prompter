@@ -26,12 +26,6 @@
             { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "profile","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
-        "landscape": [
-            { "name": "mountain", "caption": "山",  "type" : "landscape",  "alias": "mountain view" , "image":"https://cdn.discordapp.com/attachments/1103870787145973802/1104415280702161047/vera_bing_So_he_continued_on_his_way_over_mountains_through_eb63c103-af8d-4257-9eee-6c8574c447c0.png" }, 
-            { "name": "forest", "caption": "森林",  "type" : "landscape",  "alias": "full body" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104439365125537912/luckth2022_summerhappypeacefulforest--ar44--v5_f28e8def-8952-42b2-b44a-d1d195194913.png" },  
-            { "name": "sea",    "caption": "海洋",  "type" : "landscape",  "alias": "sea view" ,"image":"" },
-            { "name": "sightseeing", "caption": "观光",  "type" : "landscape",  "alias": "sightseeing, sight of view", "image": "https://media.discordapp.net/attachments/1072899954525356072/1103980840532328549/bestbally_Thailand_Ranong_travel_sightseeing_569eeadc-6e67-4e95-98cb-3f3deaae2fa4.png" } 
-        ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
             { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
@@ -40,19 +34,6 @@
             { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
             { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104587317424967820/ibrahim203020302030_designe_cafe_modern_2d81bf38-199f-42fc-979d-c674928a0548.png"}
            
-        ],
-        "creature": [ 
-            { "name": "plant", "caption": "植物",  "type" : "creature",  "alias": "plant" , "image":"" }, 
-            { "name": "animal", "caption": "动物",  "type" : "landscape","alias": "animal" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104418682228179057/ashraf_a_cute_cat_walking_in_a_street_and_her_color_is_white_f09411fb-eed7-49f9-8f3d-eb5a5ef7236b.png" },
-            { "name": "flower", "caption": "花",  "type" : "landscape",  "alias": "blossom" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104404462510018621/Meko_red_gumamela_hibiscus_rosa-sinenses_with_plain_white_backg_dce267a0-de5c-4fe6-a368-c5565fb28d0f.png" }
-        ],
-        "object": [
-            { "name": "digital_product", "caption": "数码产品",  "type" : "object",  "alias": "" , "image": ""},
-            { "name": "science", "caption": "科技",  "type" : "object",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104415174162649178/Swissrock_Old_rocket_ready_for_launch_on_desert_island_Palms_Su_d2660f82-6740-47c9-a81b-1345e3fcc816.png" }
-           
-        ] ,
-        "scenario": [
-            { "name": "event", "caption": "事件",  "type" : "object",  "alias": "" , "image": ""}
         ]
     },
     "style": {
