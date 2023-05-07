@@ -35,8 +35,6 @@
             { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104587317424967820/ibrahim203020302030_designe_cafe_modern_2d81bf38-199f-42fc-979d-c674928a0548.png"},
             { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
             { "name": "sticker",  "caption": "冰箱贴", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1097789399611219968/Decly_japanese_style_Cute_Shiba_Inu_Dog_Sticker_mimi_f14b5cb3-18dc-4a33-9b2c-1353d549b1f2.png" }
-            
-           
         ]
     },
     "style": {
