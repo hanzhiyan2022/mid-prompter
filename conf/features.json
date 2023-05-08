@@ -23,7 +23,7 @@
         "figure" : [
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png" }, 
             { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/953413844183683082/1104111182425641101/emptysea_surrealist_portrait_full_body_including_head_and_feet__caec009a-66bf-4557-85fb-25db9e0cf975.png"},  
-            { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "profile","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
+            { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "side view","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
         "design" : [
@@ -45,7 +45,7 @@
             { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1093306482012987564/shamie_childrens_book_illustration_type__flat_color_hand_colori_a5afde57-5d7e-4d2a-9dea-154455352e06.png"  },
             { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410612194345091/nieltae_irina_with_a_cat_on_a_watermelon_2c061752-395a-41a0-bb52-b45f95b4c87a.png"  },
             { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104698337124417556/HuyIvan_starry_starry_night_modern_version_of_van_gogh_style_07b7802b-6687-4bd5-b004-47ef4908c89a.png"  },
-            { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png"  }
+            { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png"  }
         ],
         "photo" : [
             { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style,realistic" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
@@ -72,7 +72,7 @@
         "cartoon": [
             { "name": "2d_cartoon", "caption": "动画片",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
             { "name": "3d_cartoon", "caption": "3D动画片", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
-            { "name": "comic_style ",  "caption": "漫画书",     "type":"cartoon", "alias": "comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
+            { "name": "comic_book_style ",  "caption": "漫画书",     "type":"cartoon", "alias": "comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
             { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
             { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
@@ -147,19 +147,19 @@
         "chaos" : [
             { "name": "chaos_0",  "caption": "0", "prompt":"--chaos 0"     },
             { "name": "chaos_10", "caption": "10", "prompt":"--chaos 10"   },   
-            { "name": "chaos_10", "caption": "20", "prompt":"--chaos 20"   },  
+            { "name": "chaos_20", "caption": "20", "prompt":"--chaos 20"   },  
             { "name": "chaos_50", "caption": "50", "prompt":"--chaos 50"   },   
-            { "name": "chaos_10", "caption": "70", "prompt":"--chaos 70"   },  
+            { "name": "chaos_70", "caption": "70", "prompt":"--chaos 70"   },  
             { "name": "chaos_100","caption": "100", "prompt":"--chaos 100" }
         ],
         "quality" : [
             { "name": "quality_025", "caption": "0.25", "prompt":"--q 0.25"   },
             { "name": "quality_050", "caption": "0.5", "prompt":"--q 0.5"   },
-            { "name": "quality_01", "caption": "1", "prompt":"--q 1"   },
-            { "name": "quality_01", "caption": "1.25", "prompt":"--q 1.25"   },
-            { "name": "quality_01", "caption": "1.5", "prompt":"--q 1.5"   },
-            { "name": "quality_01", "caption": "1.75", "prompt":"--q 1.75"   },
-            { "name": "quality_02", "caption": "2", "prompt":"--q 2"   }
+            { "name": "quality_100", "caption": "1", "prompt":"--q 1"   },
+            { "name": "quality_125", "caption": "1.25", "prompt":"--q 1.25"   },
+            { "name": "quality_150", "caption": "1.5", "prompt":"--q 1.5"   },
+            { "name": "quality_175", "caption": "1.75", "prompt":"--q 1.75"   },
+            { "name": "quality_200", "caption": "2", "prompt":"--q 2"   }
         ],
         "seed" : [
             { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
