@@ -127,15 +127,20 @@
   ,
     "parameter": {
         "featureTypes" : [
-            { "name": "aspect_ratio","caption": "画幅", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
-            { "name": "chaos","caption": "混乱" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
-            { "name": "quality","caption": "质量", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
-            { "name": "seed","caption": "种子", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
-            { "name": "version","caption": "版本" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
-            { "name": "stylish","caption": "风格化" ,"prompt":"--stylize" , "description": "The proximity of image to the style you specified" , "image": "no"},
-            { "name": "no_outline","caption": "无边框" ,"prompt":"--stylize" , "description":"Do not add some elements in the image" ,"image": "no"  }
+            { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
+            { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
+            { "name": "chaos",       "caption": "chaos" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
+            { "name": "quality","caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
+            { "name": "seed","caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
+            { "name": "stylish","caption": "stylish" ,"prompt":"--stylize" , "description": "The proximity of image to the style you specified" , "image": "no"},
+            { "name": "no_outline","caption": "no_outline" ,"prompt":"--no_outline" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
-
+        "version" : [
+            { "name": "version_3", "caption": "v3", "prompt":"--v 3"   },
+            { "name": "version_4", "caption": "v4", "prompt":"--v 4"   },
+            { "name": "version_5", "caption": "v5", "prompt":"--v 5"   },
+            { "name": "version_5.1","caption": "v5.1", "prompt":"--v 5.1"   }
+        ],
         "aspect_ratio" : [
             { "name": "ar_2_3", "caption": "2:3", "prompt":"--ar 2:3"   },
             { "name": "ar_3_2", "caption": "3:2", "prompt":"--ar 3:2"   },
