@@ -24,7 +24,7 @@
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png" }, 
             { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "side view","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
             { "name": "headshot",   "caption": "证件照",   "type" : "figure",  "alias": "","image": "https://cdn.discordapp.com/attachments/1008571240858009620/1102261203453095946/Abhi_a_headshot_of_Emma_Johnson_Title_Full_Stack_Web_Developer__091ab6d8-6470-45ed-9af4-f8408c8d225d.png" },
-            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/953413844183683082/1104111182425641101/emptysea_surrealist_portrait_full_body_including_head_and_feet__caec009a-66bf-4557-85fb-25db9e0cf975.png"}, 
+            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1106579992407711794/mslnyang_Galadriel_wearing_an_elegant_royal_gown_standing_in_a__b08b994d-d548-427a-a932-107d3675fd41.png"}, 
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
         "design" : [
@@ -70,7 +70,7 @@
         "new_image_style": [
             { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104256886620028948/Kupo_Koda_mirror_that_is_a_portal_to_parallel_universe_mushroom_9c6f2898-006c-4943-a6d7-ecea1680b500.png" },
             { "name": "science_fiction",  "caption": "科幻",       "type":"new_image_style", "alias": "sci-fi" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104415766599708803/thiemo_to_the_moon_and_beyond_outer_space_technology_4k_wallpap_c81876aa-7e75-4a70-8e56-0176069bc508.png" },
-            { "name": "surreal", "caption": "超现实主义", "type":"painting_style", "alias": "surrealism,surrealistic" ,"image": "https://cdn.discordapp.com/attachments/953413844183683082/1104616610376982528/tenagliac_Leda_must_choose_the_right_abstract_swan_as_a_surreal_48224490-752f-4e12-85cf-3b169ecd2401.png" },
+            { "name": "surreal", "caption": "超现实主义", "type":"painting_style", "alias": "surrealism,surrealistic" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906321838481440/Dick_Sucking_Ron_surreal_orange_elephant_dressed_as_Kate_Middle_2ce1ab32-8b85-4b11-ae24-30de2c1b657f.png" },
             { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104315357851820072/Lami_Cyberpunk_city_background_2d_scroller_pixel_art_35211bb1-cf55-4061-825a-3ebe5cbbe67f.png"  },
             { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1094808688927182878/JurassicEl_minimalistic_interior_entry_with_decorative_moldings_79fd4a86-c561-4128-8d2f-efc20e2680eb.png" },
             { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
@@ -110,6 +110,8 @@
             { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104565070509383761/HUFO_Create_a_graffiti_artwork_using_spray_paint_that_includes__ad4d725f-2216-45f4-b3c7-81b19a070b64.png" },
             { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104424249952845874/Rehan_Anand_a_vector_illustration_art_of_people_practicing_Trau_4c21a5cf-6a20-413d-8efe-842eabc3f422.png" },
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
+            { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png" },
+            
             { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [
@@ -122,7 +124,7 @@
             { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"},
 
             { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
-            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104866527376838767/Qolonna_Frame_floral_foliage_plant_shapes__Subjectcolorful_flor_47825dba-1f32-4740-a645-cd4a4c281e2a.png" }
+            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906077176336464/VintedxSo_Frame_floral_foliage_plant_shapes__Subjectcolorful_fl_6709f355-1084-407f-b379-7f7129c84bab.png" }
             
         ],
         "artist": [
@@ -135,6 +137,9 @@
                { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1074181094229934140/1104707184035643392/Cassia_visualize_hand-draw_illustration_by_Tim_Burton_style_wit_fc8319dc-4616-45f7-8f40-2f0ba152780c.png" }
                
 
+           ],
+           "art_form" :  [
+                 { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "" }
            ]
     }
     
