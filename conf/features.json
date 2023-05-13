@@ -139,7 +139,9 @@
 
            ],
            "art_form" :  [
-                 { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "" }
+                { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1105688076157714462/katkat42_a_celestial_garden_floating_in_the_vastness_of_space_f_8288c084-8be4-4408-88cd-a82dd5469ad4.png" },
+                { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" }
+                 
            ]
     }
     
