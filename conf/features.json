@@ -22,22 +22,25 @@
         ],
         "figure" : [
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png" }, 
-            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/953413844183683082/1104111182425641101/emptysea_surrealist_portrait_full_body_including_head_and_feet__caec009a-66bf-4557-85fb-25db9e0cf975.png"},  
             { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "side view","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
+            { "name": "headshot",   "caption": "证件照",   "type" : "figure",  "alias": "","image": "https://cdn.discordapp.com/attachments/1008571240858009620/1102261203453095946/Abhi_a_headshot_of_Emma_Johnson_Title_Full_Stack_Web_Developer__091ab6d8-6470-45ed-9af4-f8408c8d225d.png" },
+            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/953413844183683082/1104111182425641101/emptysea_surrealist_portrait_full_body_including_head_and_feet__caec009a-66bf-4557-85fb-25db9e0cf975.png"}, 
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
             { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
-            { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592682979958854/PatratMatt_a_college_sports_logo_of_a_lilac_flower_inside_of_a__d9672a46-33e9-422b-9f8d-9b9db7062c41.png" },
+            { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1106802224253894666/DT_starfish_app_icon_logo_for_a_social_media_company_simple_har_164de9ff-5d01-4a75-9d5a-23c12ef15c6c.png" },
+            { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106918490826362910/hisoka9794_text_abm_creatives_5e93e89f-89b2-48d2-b70e-fdef984bd50f.png" },
             { "name": "clothing",         "caption": "服装",      "type" : "design",  "alias": "clothes" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
+            { "name": "car",  "caption": "汽车", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106862262037270549/smoothAIoperator_white_stylish_coupe_with_fancy_wheels_5b7ad2db-004f-4aaf-8580-bc2eb2deffc4.png"},
             { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
             { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1038329663187062804/1104544748489941112/Ailnoth_a_clean_and_modern_apartment_in_the_city_centre_in_the__cf5643c4-bcf7-4e8f-bc4a-4e060fea4433.png"},
             { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
-            { "name": "sticker",  "caption": "冰箱贴", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1097789399611219968/Decly_japanese_style_Cute_Shiba_Inu_Dog_Sticker_mimi_f14b5cb3-18dc-4a33-9b2c-1353d549b1f2.png" },
+            { "name": "sticker",  "caption": "冰箱贴", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106266723180621948/ega_A_peeker_sticker_a_front_facing_headshot_portrait_of_a_fren_879945a9-0116-40ca-ab0f-0393cd8c3347.png" },
 
             { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106776142058377216/aprilmay_mudcloth_pattern_from_Mali_c1341f96-8c04-4ab3-8784-f052a6d870a8.png" }
-            
+
         ]
     },
     "style": {
@@ -48,7 +51,10 @@
             { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1093306482012987564/shamie_childrens_book_illustration_type__flat_color_hand_colori_a5afde57-5d7e-4d2a-9dea-154455352e06.png"  },
             { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410612194345091/nieltae_irina_with_a_cat_on_a_watermelon_2c061752-395a-41a0-bb52-b45f95b4c87a.png"  },
             { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104698337124417556/HuyIvan_starry_starry_night_modern_version_of_van_gogh_style_07b7802b-6687-4bd5-b004-47ef4908c89a.png"  },
-            { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png"  }
+            { "name": "artist","caption": "艺术家",  "alias": "artist style", "image":"https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png"  },
+
+            { "name": "art_form","caption": "艺术形式",  "alias": "artform", "image":"https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png"  }
+         
         ],
         "photo" : [
             { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style,realistic" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
@@ -98,6 +104,7 @@
             { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
             { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1097237429611675759/SwagQueen_watercolor_succulent_plants_and_Peony_flowers--no_tex_e319610f-c0db-4e8b-ace8-48c0df763f97.png" },
             { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring page style" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
+            { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106863026214281316/smoothAIoperator_extremely_simple_cartoon_colouring_page_plane_a5a005af-804e-43d5-a43d-bb2bef73ac0e.png" },
             { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
             { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
             { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104565070509383761/HUFO_Create_a_graffiti_artwork_using_spray_paint_that_includes__ad4d725f-2216-45f4-b3c7-81b19a070b64.png" },
@@ -112,7 +119,11 @@
             { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
             { "name": "abstraction", "caption": "抽象", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1044046333033582693/1104150871362773142/xyzy_oil_painting_fine_art_beatiful_flowing_brushstrokes_contem_68f69f9f-a32b-4a49-ba5c-a146b7277b79.png" },
             { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
-            { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"}
+            { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"},
+
+            { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
+            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104866527376838767/Qolonna_Frame_floral_foliage_plant_shapes__Subjectcolorful_flor_47825dba-1f32-4740-a645-cd4a4c281e2a.png" }
+            
         ],
         "artist": [
                { "name": "Van_Gogh_style",       "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png" },
@@ -185,7 +196,8 @@
             { "name": "no_outline",    "caption": "no outline", "prompt":"--no outline"   },
             { "name": "no_background", "caption": "no backgound", "prompt":"--no backgound"   },
             { "name": "no_outline",    "caption": "no sky", "prompt":"--no sky"   },
-            { "name": "no_outline",    "caption": "no people", "prompt":"--no people"   }
+            { "name": "no_outline",    "caption": "no people", "prompt":"--no people"   },
+            { "name": "no_outline",    "caption": "no shading", "prompt":"--no shading"   }
          ]
     }
 }
