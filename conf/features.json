@@ -26,6 +26,9 @@
             { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "side view","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
             { "name": "headshot",   "caption": "证件照",   "type" : "figure",  "alias": "","image": "https://cdn.discordapp.com/attachments/1008571240858009620/1102261203453095946/Abhi_a_headshot_of_Emma_Johnson_Title_Full_Stack_Web_Developer__091ab6d8-6470-45ed-9af4-f8408c8d225d.png" },
             { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1106579992407711794/mslnyang_Galadriel_wearing_an_elegant_royal_gown_standing_in_a__b08b994d-d548-427a-a932-107d3675fd41.png"}, 
+            { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.discordapp.com/attachments/1014464667017555998/1107296165403316254/yuval_lev_selfie_photograph_of_Theodor_Herzl_looks_down_on_the__0a16e615-9bb5-4e4d-92d6-daa4e3ea3a13.png" },
+            
+
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
         ],
         "design" : [
@@ -45,9 +48,6 @@
 
             { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" },
             { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" }
-
-
-            
         ]
     },
     "style": {
@@ -84,6 +84,7 @@
            
             { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104691921139552306/walid_boudalia_walid_boudalia_picture_of_future_clipart_053c1165-b888-4aa2-9452-39a52c46faf0.png" },
             { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" }
+        
         ],
         "cartoon": [
             { "name": "2d_cartoon", "caption": "动画片",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
@@ -114,12 +115,16 @@
             { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106863026214281316/smoothAIoperator_extremely_simple_cartoon_colouring_page_plane_a5a005af-804e-43d5-a43d-bb2bef73ac0e.png" },
             { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
             { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
+            { "name": "collage",  "caption": "拼接画", "type":"painting_form", "alias": "abstract collage","image":  "https://cdn.discordapp.com/attachments/1072899954525356072/1107047092951724162/loljoi_simple_cartoon_flower_and_leaf_collage_with_transparent__b79df701-85fe-4274-a518-e48157b438b4.png" },
+            
+
             { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104565070509383761/HUFO_Create_a_graffiti_artwork_using_spray_paint_that_includes__ad4d725f-2216-45f4-b3c7-81b19a070b64.png" },
             { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104424249952845874/Rehan_Anand_a_vector_illustration_art_of_people_practicing_Trau_4c21a5cf-6a20-413d-8efe-842eabc3f422.png" },
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
             { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png" },
             { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" },
-            
+            { "name": "ASCII_art",        "caption": "ASCII艺术",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1055259701408972911/NicoBellic_ASCII-Art_of_a_man_with_dreadlocks_european_with_bea_87e4267b-f795-4e53-983f-6577c6e222a0.png" },
+        
             { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [
@@ -132,11 +137,14 @@
             { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"},
 
             { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
-            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906077176336464/VintedxSo_Frame_floral_foliage_plant_shapes__Subjectcolorful_fl_6709f355-1084-407f-b379-7f7129c84bab.png" }
+            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906077176336464/VintedxSo_Frame_floral_foliage_plant_shapes__Subjectcolorful_fl_6709f355-1084-407f-b379-7f7129c84bab.png" },
+
+            { "name": "cubism", "caption": "立体主义", "type":"painting_style", "alias": "cubist,cubistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1107209231997878332/coffeebuffed_trompe_loeil_orchid_cubism_origami_68741bf4-af04-42b0-97d0-d1502174e6dd.png" }
             
         ],
         "artist": [
                { "name": "Van_Gogh_style",       "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png" },
+               { "name": "Picasso_style", "caption": "Picasso", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.discordapp.com/attachments/1026630987750322216/1106521253654827018/jezocoh_a_lof_of_human_faces_6fe0beae-099e-46d6-8153-b715abb3c412.png" },
                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" },
                { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
               
@@ -146,17 +154,17 @@
                { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106583801989169232/Vladimir_Badenov__painting_by_Salvador_Dali_db30d934-d7fd-4b60-9fda-5b7a25452b3d.png" },
                { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "" },
                { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106222778362896504/ierevan_a_street_kid_with_a_hood_a_sturdy_kid_with_a_baseball_h_2ebf3b5c-50fa-4375-8585-f252cd1e015a.png" }
-               
-               
 
            ],
            "art_form" :  [
                  { "name": "sculpture",   "caption": "雕塑", "type":"art_form", "alias": "sculpture art" ,"image": "https://cdn.discordapp.com/attachments/1008571120242409472/1106642733877170258/FirstLlama_a_one_color_flower_sculpture_designed_by_balenciaga__526e2df6-8104-4d33-ac7c-ab636b81ee44.png" },
+                 { "name": "patchwork",   "caption": "拼布", "type":"art_form", "alias": "patchwork" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106745506794852423/KinosJourney_patchwork_quilting_zydeco_kaleidoscope_spaghetti_s_de1ecc55-0002-452e-98b2-1e1d1d742931.png" },
+                 { "name": "origami",   "caption": "折纸", "type":"art_form", "alias": "paper origami" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106988879128580106/Fishcake_a_full_size_panda_made_from_paper_origami._Plain_backg_6720fbd1-c5df-4b0d-a967-d8007743e33d.png" },
                  { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png" },
                 { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106558844429144255/GibroWalker_paper_quilling____in_a_japanese_garden_style_of_Ste_f515fc7b-a7bd-4bcd-bba1-e480bc84d1c8.png" },
                 { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" },
                 { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.discordapp.com/attachments/1065709974577233931/1105585486258512012/Krait72_vice_city_lego_paradise_987f6af8-7321-45e5-b319-faf64a6983e0.png" }
-                
+         
            ]
     },
     "control" : {
