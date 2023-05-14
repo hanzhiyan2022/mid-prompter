@@ -43,7 +43,9 @@
 
             { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106776142058377216/aprilmay_mudcloth_pattern_from_Mali_c1341f96-8c04-4ab3-8784-f052a6d870a8.png" },
 
-            { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" }
+            { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" },
+            { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" }
+
 
             
         ]
@@ -108,7 +110,7 @@
         "painting_form": [
             { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
             { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1097237429611675759/SwagQueen_watercolor_succulent_plants_and_Peony_flowers--no_tex_e319610f-c0db-4e8b-ace8-48c0df763f97.png" },
-            { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring page style" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
+            { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring book" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
             { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106863026214281316/smoothAIoperator_extremely_simple_cartoon_colouring_page_plane_a5a005af-804e-43d5-a43d-bb2bef73ac0e.png" },
             { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
             { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
@@ -142,7 +144,8 @@
                { "name": " Peaky_Blinders_style", "caption": "Peaky Blinders", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104053219094708224/Swissrock_Lion_in_Peaky_Blinders_Style_55e23fdb-b016-4815-88c7-a5c85dd272e1.png" },
                { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1074181094229934140/1104707184035643392/Cassia_visualize_hand-draw_illustration_by_Tim_Burton_style_wit_fc8319dc-4616-45f7-8f40-2f0ba152780c.png" },
                { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106583801989169232/Vladimir_Badenov__painting_by_Salvador_Dali_db30d934-d7fd-4b60-9fda-5b7a25452b3d.png" },
-               { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "" }
+               { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "" },
+               { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106222778362896504/ierevan_a_street_kid_with_a_hood_a_sturdy_kid_with_a_baseball_h_2ebf3b5c-50fa-4375-8585-f252cd1e015a.png" }
                
                
 
@@ -151,7 +154,9 @@
                  { "name": "sculpture",   "caption": "雕塑", "type":"art_form", "alias": "sculpture art" ,"image": "https://cdn.discordapp.com/attachments/1008571120242409472/1106642733877170258/FirstLlama_a_one_color_flower_sculpture_designed_by_balenciaga__526e2df6-8104-4d33-ac7c-ab636b81ee44.png" },
                  { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png" },
                 { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106558844429144255/GibroWalker_paper_quilling____in_a_japanese_garden_style_of_Ste_f515fc7b-a7bd-4bcd-bba1-e480bc84d1c8.png" },
-                { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" }
+                { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" },
+                { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.discordapp.com/attachments/1065709974577233931/1105585486258512012/Krait72_vice_city_lego_paradise_987f6af8-7321-45e5-b319-faf64a6983e0.png" }
+                
            ]
     },
     "control" : {
@@ -173,6 +178,7 @@
             { "name": "resolution_2k",           "caption": "2k",       "prompt":"2k resolution"   },
             { "name": "resolution_4k",           "caption": "4k",       "prompt":"4k resolution"   },
             { "name": "resolution_8k",           "caption": "8k",       "prompt":"8k resolution"   },
+            { "name": "resolution_16k",          "caption": "16k",       "prompt":"16k resolution"   },
             { "name": "high_resolution",         "caption": "high",     "prompt":"high resolution"   },
             { "name": "super_resolution",         "caption": "super",   "prompt":"super resolution"   }
          ]
