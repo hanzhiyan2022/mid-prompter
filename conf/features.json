@@ -47,7 +47,12 @@
             { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106776142058377216/aprilmay_mudcloth_pattern_from_Mali_c1341f96-8c04-4ab3-8784-f052a6d870a8.png" },
 
             { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" },
-            { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" }
+            { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" },
+
+            { "name": "web_ui_ux",  "caption": "web界面设计", "type" : "design", "alias": "web UI/UX", "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1107217786519953428/acidnico_Stunning_web_design_UIUX_for_the_landing_page_of_an_im_266cffd7-4451-4883-a056-5c2d9a813591.png" },
+
+            { "name": "phone_ui_ux",  "caption": "web界面设计", "type" : "design", "alias": "phone UI/UX", "image": "" }
+
         ]
     },
     "style": {
@@ -78,7 +83,9 @@
             { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104256886620028948/Kupo_Koda_mirror_that_is_a_portal_to_parallel_universe_mushroom_9c6f2898-006c-4943-a6d7-ecea1680b500.png" },
             { "name": "science_fiction",  "caption": "科幻",       "type":"new_image_style", "alias": "sci-fi" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104415766599708803/thiemo_to_the_moon_and_beyond_outer_space_technology_4k_wallpap_c81876aa-7e75-4a70-8e56-0176069bc508.png" },
             { "name": "surreal", "caption": "超现实主义", "type":"painting_style", "alias": "surrealism,surrealistic" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906321838481440/Dick_Sucking_Ron_surreal_orange_elephant_dressed_as_Kate_Middle_2ce1ab32-8b85-4b11-ae24-30de2c1b657f.png" },
-            { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104315357851820072/Lami_Cyberpunk_city_background_2d_scroller_pixel_art_35211bb1-cf55-4061-825a-3ebe5cbbe67f.png"  },
+            { "name": "steam_punk", "caption": "蒸汽朋克", "type":"painting_style", "alias": "steam punk" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106061736559255562/titan_epic_steam_punk_surrealistic_oleo_paint_on_William_Blake__800a1071-69f4-4678-899b-a996624836d7.png" },
+            
+            { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk", "image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107313783531130950/Mikhail_cyber_punk_city_theme_f57e83d1-49f0-473d-9cee-b618305912a2.png"  },
             { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1094808688927182878/JurassicEl_minimalistic_interior_entry_with_decorative_moldings_79fd4a86-c561-4128-8d2f-efc20e2680eb.png" },
             { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
            
