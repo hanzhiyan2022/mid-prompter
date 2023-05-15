@@ -183,9 +183,19 @@
     },
     "control" : {
         "featureTypes" : [
-            { "name": "detailed",  "caption":"细节度","prompt":"detailed","description":"How much to render the details" ,"image": "no"},
-            { "name": "resolution","caption": "清晰度","prompt":"resolution","description":"Image resolution in pixels" ,"image": "no"}
+            { "name": "background",  "caption":"背景",  "description":"" ,"image": "no"},
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "no"},
+            { "name": "detailed",  "caption":"细节度",  "description":"How much to render the details" ,"image": "no"},
+            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"}
           
+        ],
+        "background" :[
+            { "name": "white_background",    "caption": "white background",  "image": "" },
+            { "name": "black_background",    "caption": "black background",  "image": "" }
+        ],
+        "color_theme" : [
+            { "name": "light_color ", "caption": "浅色",  "image": "" },
+            { "name": "flat_color",   "caption": "柔色",  "image": "" }
         ],
 
         "detailed" : [
