@@ -228,9 +228,13 @@
             { "name": "far_shot",  "caption": "远景" , "description":"far view, far distance" ,  "image": ""  },
             { "name": "medium_shot",  "caption": "中景" , "description":"" ,  "image": ""  },
             { "name": "close_shot",  "caption": "近景" , "description":"" ,  "image": ""  },
-            { "name": "close_up_shot",  "caption": "" , "description":"" ,  "image": ""  },
-            { "name": "macro_shot",  "caption": "" , "description":"" ,  "image": ""  },
-            { "name": "microscopic",  "caption": "" , "description":"" ,  "image": ""  }
+            { "name": "close_up_shot",  "caption": "特写" , "description":"" ,  "image": ""  },
+            { "name": "macro_shot",  "caption": "微距" , "description":"" ,  "image": ""  },
+            { "name": "microscopic",  "caption": "显微镜" , "description":"" ,  "image": ""  }
+        ],
+        "focal_length" : [
+            { "name": "24mm",  "caption": "24mm" , "description":"" ,  "image": ""  },
+            { "name": "35mm",  "caption": "35mm" , "description":"" ,  "image": ""  }
         ],
         "aperture" : [
             { "name": "f/1.4",  "caption": "f/1.4"    },
@@ -241,6 +245,10 @@
             { "name": "f/3.2",  "caption": "f/3.2"    },
             { "name": "f/5.6",  "caption": "f/5.6"    },
             { "name": "f/8",    "caption": "f/8"      }
+        ],
+        "iso": [
+            { "name": "iso_10",  "caption": "iso 10"    },
+            { "name": "iso_50",  "caption": "iso 50"    }
         ]
     },
     "parameter": {
