@@ -10,8 +10,12 @@ scenario: https://cdn.discordapp.com/attachments/1072899954525356072/11042451990
 
 #1.1 ~ 1.10
 # figure
-portrait: https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png
+portrait: https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png, 
+          https://cdn.discordapp.com/attachments/952712667498422272/1102013008340844564/StopItRyan_portrait_photograph_of_Maxwell_27_year_old_man_from__5f04914d-27cd-4eef-9bac-8795416a3b4a.png
+
 full_body: https://cdn.discordapp.com/attachments/953413844183683082/1104111182425641101/emptysea_surrealist_portrait_full_body_including_head_and_feet__caec009a-66bf-4557-85fb-25db9e0cf975.png
+https://cdn.discordapp.com/attachments/945077390839787570/1106579992407711794/mslnyang_Galadriel_wearing_an_elegant_royal_gown_standing_in_a__b08b994d-d548-427a-a932-107d3675fd41.png
+
 profile: https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png
 sitting: https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png
 
