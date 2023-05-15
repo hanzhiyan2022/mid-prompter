@@ -208,9 +208,21 @@
     },
     "camare" : {
         "featureTypes" : [ 
+            { "name": "angle_of_view",    "caption": "视角" , "description":"" , "image": ""},
+            { "name": "subject_distance", "caption": "距离" , "description":"" ,"image": ""},
             { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "images/aperture-1.png"},
-            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"}
+            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"},
+            { "name": "iso",           "caption": "感光" , "description":"" ,"image": "i"}
            
+        ],
+        "angle_of_view": [
+            { "name": "standard_lens",  "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "wide_angle",  "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "ultra_wide_angle",  "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "macro",  "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "super_macro",  "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "narrow_angle",  "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "medium_angle",  "caption": "" , "description":"" ,  "image": ""  }
         ],
         "aperture" : [
             { "name": "f/1.4",  "caption": "f/1.4"    },
