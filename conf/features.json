@@ -8,6 +8,7 @@
         { "name": "subject",   "caption": "体裁",  "type":"" },
         { "name": "style",     "caption": "风格",  "type":"" },
         { "name": "control",   "caption": "控制",  "type":"" },
+        { "name": "camare",    "caption": "相机",  "type":"" },
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
 
@@ -29,7 +30,9 @@
             { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.discordapp.com/attachments/1014464667017555998/1107296165403316254/yuval_lev_selfie_photograph_of_Theodor_Herzl_looks_down_on_the__0a16e615-9bb5-4e4d-92d6-daa4e3ea3a13.png" },
             
 
-            { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"}
+            { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"},
+            { "name": "close_up",   "caption": "特写",   "type" : "figure",  "alias": "close up shot" ,"image": "https://cdn.discordapp.com/attachments/1068732441029791825/1106985710461911131/Timo_an_incredible_detailed_close_up_macro_shot_of_a_blonde_fem_f64813d7-20f1-48f1-90a3-7dc4d773d283.png" }
+            
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
@@ -181,8 +184,8 @@
     "control" : {
         "featureTypes" : [
             { "name": "detailed",  "caption":"细节度","prompt":"detailed","description":"How much to render the details" ,"image": "no"},
-            { "name": "resolution","caption": "清晰度","prompt":"resolution","description":"Image resolution in pixels" ,"image": "no"},
-            { "name": "aperture",  "caption": "光圈" , "prompt":"aperture","description":"" ,"image": "images/aperture-1.png"}
+            { "name": "resolution","caption": "清晰度","prompt":"resolution","description":"Image resolution in pixels" ,"image": "no"}
+          
         ],
 
         "detailed" : [
@@ -201,16 +204,25 @@
             { "name": "resolution_16k",          "caption": "16k",       "prompt":"16k resolution"   },
             { "name": "high_resolution",         "caption": "high",     "prompt":"high resolution"   },
             { "name": "super_resolution",         "caption": "super",   "prompt":"super resolution"   }
-         ],
-         "aperture" : [
-            { "name": "f/1.4",           "caption": "f/1.4"    },
-            { "name": "f/1.5",           "caption": "f/1.5"    },
-            { "name": "f/1.8",           "caption": "f/1.8"    },
-            { "name": "f/2.0",           "caption": "f/2.0"    },
-            { "name": "f/2.2",           "caption": "f/2.2"    }
          ]
     },
-
+    "camare" : {
+        "featureTypes" : [ 
+            { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "images/aperture-1.png"},
+            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"}
+           
+        ],
+        "aperture" : [
+            { "name": "f/1.4",  "caption": "f/1.4"    },
+            { "name": "f/1.8",  "caption": "f/1.8"    },
+            { "name": "f/2.0",  "caption": "f/2.0"    },
+            { "name": "f/2.2",  "caption": "f/2.2"    },
+            { "name": "f/2.8",  "caption": "f/2.8"    },
+            { "name": "f/3.2",  "caption": "f/3.2"    },
+            { "name": "f/5.6",  "caption": "f/5.6"    },
+            { "name": "f/8",    "caption": "f/8"      }
+        ]
+    },
     "parameter": {
         "featureTypes" : [
             { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
