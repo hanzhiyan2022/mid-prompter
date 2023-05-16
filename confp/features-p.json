@@ -36,7 +36,7 @@
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
-            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
+            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1107312119927558255/Fourloko.crypto_crossfit_sneakerslogo_stylewhite_backgroundflat_550e80a7-ea36-4dbd-a8f7-a895a8353ec2.png" },
             { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1106802224253894666/DT_starfish_app_icon_logo_for_a_social_media_company_simple_har_164de9ff-5d01-4a75-9d5a-23c12ef15c6c.png" },
             { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106918490826362910/hisoka9794_text_abm_creatives_5e93e89f-89b2-48d2-b70e-fdef984bd50f.png" },
             { "name": "t-shirt_design",         "caption": "T恤设计",      "type" : "design",  "alias": "t-shirt pattern" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
@@ -190,10 +190,12 @@
           
         ],
         "background" :[
-            { "name": "white_background",    "caption": "white background",  "image": "" },
-            { "name": "black_background",    "caption": "black background",  "image": "" },
-            { "name": "pure_background",     "caption": "pure background",  "image": "" },
-            { "name": "gradient_background", "caption": "gradient background",  "image": "" }
+            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
+            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
+            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
+            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
+            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107649326563479622/petripenula_young_woman_looking_at_her_smartphone_smile_face_su_d4fc44d5-fb88-459b-bf9e-b0b8f2da7446.png" }
+            
         ],
         "color_theme" : [
             { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
@@ -213,16 +215,15 @@
             { "name": "highly_detailed",    "caption": "highly detailed", "prompt":"highly detailed"   },
             { "name": "hyperdetailed",     "caption": "hyperdetailed", "prompt":"hyperdetailed"   },
             { "name": "extremely_detailed", "caption": "extremely detailed", "prompt":"extremely detailed"   },
-            { "name": "extremely_detailed", "caption": "extremely detailed", "prompt":"extremely detailed"   },
             { "name": "low_detailed",       "caption": "low detailed", "prompt":"low detailed"   }
          ],
          "resolution" : [
-            { "name": "resolution_2k",           "caption": "2k",       "prompt":"2k resolution"   },
-            { "name": "resolution_4k",           "caption": "4k",       "prompt":"4k resolution"   },
-            { "name": "resolution_8k",           "caption": "8k",       "prompt":"8k resolution"   },
-            { "name": "resolution_16k",          "caption": "16k",       "prompt":"16k resolution"   },
-            { "name": "high_resolution",         "caption": "high",     "prompt":"high resolution"   },
-            { "name": "super_resolution",         "caption": "super",   "prompt":"super resolution"   }
+            { "name": "resolution_2k",   "caption": "2k",   "prompt":"2k resolution"   },
+            { "name": "resolution_4k",   "caption": "4k",   "prompt":"4k resolution"   },
+            { "name": "resolution_8k",   "caption": "8k",   "prompt":"8k resolution"   },
+            { "name": "resolution_16k",  "caption": "16k",  "prompt":"16k resolution"   },
+            { "name": "high_resolution", "caption": "high", "prompt":"high resolution" ,"alias":"HD,high definition"  },
+            { "name": "super_resolution",  "caption": "super",   "prompt":"super resolution"   }
          ]
     },
     "camare" : {
