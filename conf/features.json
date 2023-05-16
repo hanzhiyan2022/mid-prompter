@@ -206,7 +206,10 @@
     "camare" : {
         "featureTypes" : [ 
             { "name": "angle_of_view",    "caption": "视角" , "description":"" , "image": ""},
+
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""}
+
+            
         ],
         "angle_of_view": [
             { "name": "standard_lens",  "caption": "标准镜头" , "description":"" ,  "image": ""  } ,
