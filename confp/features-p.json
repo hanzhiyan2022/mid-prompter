@@ -191,11 +191,18 @@
         ],
         "background" :[
             { "name": "white_background",    "caption": "white background",  "image": "" },
-            { "name": "black_background",    "caption": "black background",  "image": "" }
+            { "name": "black_background",    "caption": "black background",  "image": "" },
+            { "name": "pure_background",     "caption": "pure background",  "image": "" },
+            { "name": "gradient_background", "caption": "gradient background",  "image": "" }
         ],
         "color_theme" : [
-            { "name": "light_color ", "caption": "浅色",  "image": "" },
-            { "name": "flat_color",   "caption": "柔色",  "image": "" }
+            { "name": "light_color ",   "caption": "浅色",  "image": "" },
+            { "name": "flat_color",     "caption": "柔色",  "image": "" },
+            { "name": "colourful  ",    "caption": "丰富色彩",  "image": "" },
+            { "name": "vibrant_color",  "caption": "生动色彩",  "image": "" },
+            { "name": "retro_color  ",  "caption": "复古色",  "image": "" },
+            { "name": "muted_color  ",  "caption": "哑色",  "image": "" },
+            { "name": "neon_color  ",  "caption": "霓虹色",  "image": "" }
         ],
 
         "detailed" : [
@@ -218,7 +225,7 @@
     },
     "camare" : {
         "featureTypes" : [ 
-            { "name": "angle_of_view",    "caption": "视角" , "description":"" , "image": ""},
+            { "name": "angle",    "caption": "视角" , "description":"" , "image": ""},
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""},
             { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "images/aperture-1.png"},
             { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"},
