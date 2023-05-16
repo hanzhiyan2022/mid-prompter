@@ -209,9 +209,9 @@
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""}
         ],
         "angle_of_view": [
-            { "name": "standard_lens",  "caption": "标准镜头" , "description":"" ,  "image": ""  },
-            { "name": "wide_angle",  "caption": "广角" , "description":"" ,  "image": ""  },
-            { "name": "ultra_wide_angle",  "caption": "超广角" , "description":"" ,  "image": ""  },
+            { "name": "standard_lens",  "caption": "标准镜头" , "description":"" ,  "image": ""  } ,
+            { "name": "wide_angle",  "caption": "广角" , "description":"" ,  "image": ""  } ,
+            { "name": "ultra_wide_angle",  "caption": "超广角" , "description":"" ,  "image": ""  } ,
             { "name": "macro",  "caption": "微距" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
             { "name": "super_macro",  "caption": "" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png"  },
             { "name": "narrow_angle",  "caption": "" , "description":"" ,  "image": ""  },
