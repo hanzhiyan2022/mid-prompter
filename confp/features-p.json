@@ -196,15 +196,15 @@
             { "name": "gradient_background", "caption": "gradient background",  "image": "" }
         ],
         "color_theme" : [
-            { "name": "light_color ",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
-            { "name": "flat_color",     "caption": "素色", "alias":"plain color" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
-            { "name": "pastel_color",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" },
+            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
+            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
+            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" },
             
-            { "name": "colourful  ",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
-            { "name": "vibrant_color",  "caption": "生动色彩",  "image": "" },
-            { "name": "retro_color  ",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
-            { "name": "muted_color  ",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
-            { "name": "neon_color  ",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" }
+            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
+            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
+            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
+            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
+            { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" }
         ],
 
         "detailed" : [
