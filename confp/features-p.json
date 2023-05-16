@@ -183,9 +183,21 @@
     },
     "control" : {
         "featureTypes" : [
+            { "name": "background",  "caption":"背景",  "description":"" ,"image": "no"},
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "no"},
             { "name": "detailed",  "caption":"细节度",  "description":"How much to render the details" ,"image": "no"},
             { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"}
+          
         ],
+        "background" :[
+            { "name": "white_background",    "caption": "white background",  "image": "" },
+            { "name": "black_background",    "caption": "black background",  "image": "" }
+        ],
+        "color_theme" : [
+            { "name": "light_color ", "caption": "浅色",  "image": "" },
+            { "name": "flat_color",   "caption": "柔色",  "image": "" }
+        ],
+
         "detailed" : [
             { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
             { "name": "very_detailed",      "caption": "very detailed",  "prompt":"very detailed"   },
@@ -208,7 +220,9 @@
         "featureTypes" : [ 
             { "name": "angle_of_view",    "caption": "视角" , "description":"" , "image": ""},
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""},
-         
+            { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "images/aperture-1.png"},
+            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"},
+            { "name": "iso",           "caption": "感光" , "description":"" ,"image": ""}
            
         ],
         "angle_of_view": [
@@ -227,8 +241,25 @@
             { "name": "close_up_shot",  "caption": "特写" , "description":"" ,  "image": ""  },
             { "name": "macro_shot",  "caption": "微距" , "description":"" ,  "image": ""  },
             { "name": "microscopic",  "caption": "显微镜" , "description":"" ,  "image": ""  }
+        ],
+        "focal_length" : [
+            { "name": "24mm",  "caption": "24mm" , "description":"" ,  "image": ""  },
+            { "name": "35mm",  "caption": "35mm" , "description":"" ,  "image": ""  }
+        ],
+        "aperture" : [
+            { "name": "f/1.4",  "caption": "f/1.4"    },
+            { "name": "f/1.8",  "caption": "f/1.8"    },
+            { "name": "f/2.0",  "caption": "f/2.0"    },
+            { "name": "f/2.2",  "caption": "f/2.2"    },
+            { "name": "f/2.8",  "caption": "f/2.8"    },
+            { "name": "f/3.2",  "caption": "f/3.2"    },
+            { "name": "f/5.6",  "caption": "f/5.6"    },
+            { "name": "f/8",    "caption": "f/8"      }
+        ],
+        "iso": [
+            { "name": "iso_10",  "caption": "iso 10"    },
+            { "name": "iso_50",  "caption": "iso 50"    }
         ]
-       
     },
     "parameter": {
         "featureTypes" : [
