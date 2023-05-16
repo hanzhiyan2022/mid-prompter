@@ -222,7 +222,7 @@
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""},
             { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "images/aperture-1.png"},
             { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"},
-            { "name": "iso",           "caption": "感光" , "description":"" ,"image": "i"}
+            { "name": "iso",           "caption": "感光" , "description":"" ,"image": ""}
            
         ],
         "angle_of_view": [
