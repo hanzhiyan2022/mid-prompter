@@ -235,7 +235,7 @@
     },
     "camera" : {
         "featureTypes" : [ 
-            { "name": "angle",    "caption": "视角" , "description":"" , "image": ""},
+            { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": ""},
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""},
             { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": ""},
             { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"},
@@ -259,11 +259,21 @@
             { "name": "close_shot",   "caption": "近景" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1108164558335520778/larspars_Modern_Realism._close_shot_of_a_thoughtful_young_woman_90de3005-3644-431d-8ce4-693873d50f31.png"  },
             { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
             { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
-            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
+            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  },
+
+            { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108345977762500748/NikahGeh_Kitchen_Utensil_flying_through_the_air_with_seasoning__29ff61d3-2536-4d12-a0bd-94ecbb2e1139.png" }
+            
         ],
         "focal_length" : [
-            { "name": "24mm",  "caption": "24mm" , "description":"" ,  "image": ""  },
-            { "name": "35mm",  "caption": "35mm" , "description":"" ,  "image": ""  }
+            { "name": "16mm",  "caption": "24mm" ,  "image": ""  },
+            { "name": "24mm",  "caption": "24mm" ,  "image": ""  },
+            { "name": "35mm",  "caption": "35mm" ,  "image": ""  },
+            { "name": "70mm",  "caption": "70mm" ,  "image": ""  },
+            { "name": "85mm",  "caption": "85mm" ,  "image": ""  },
+            { "name": "100mm",  "caption": "100mm" ,  "image": ""  },
+            { "name": "135mm",  "caption": "135mm" ,  "image": ""  },
+            { "name": "200mm",  "caption": "200mm" ,  "image": ""  },
+            { "name": "300mm",  "caption": "300mm" ,  "image": ""  }
         ],
         "aperture" : [
             { "name": "f/1.4",  "caption": "f/1.4"    },
