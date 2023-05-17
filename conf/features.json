@@ -7,8 +7,6 @@
     "dimension": [
         { "name": "subject",   "caption": "体裁",  "type":"" },
         { "name": "style",     "caption": "风格",  "type":"" },
-        { "name": "control",   "caption": "控制",  "type":"" },
-        { "name": "camare",    "caption": "相机",  "type":"" },
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
 
@@ -36,7 +34,7 @@
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
-            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104426360681791510/On_Vidal_Generate_a_highly_detailed_and_photorealistic_3D_rende_001b2900-03b8-4953-9fd9-5ef5d10ab5c9.png" },
+            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1107312119927558255/Fourloko.crypto_crossfit_sneakerslogo_stylewhite_backgroundflat_550e80a7-ea36-4dbd-a8f7-a895a8353ec2.png" },
             { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1106802224253894666/DT_starfish_app_icon_logo_for_a_social_media_company_simple_har_164de9ff-5d01-4a75-9d5a-23c12ef15c6c.png" },
             { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106918490826362910/hisoka9794_text_abm_creatives_5e93e89f-89b2-48d2-b70e-fdef984bd50f.png" },
             { "name": "t-shirt_design",         "caption": "T恤设计",      "type" : "design",  "alias": "t-shirt pattern" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
