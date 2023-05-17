@@ -192,7 +192,10 @@
                  { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png" },
                 { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106558844429144255/GibroWalker_paper_quilling____in_a_japanese_garden_style_of_Ste_f515fc7b-a7bd-4bcd-bba1-e480bc84d1c8.png" },
                 { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" },
-                { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.discordapp.com/attachments/1065709974577233931/1105585486258512012/Krait72_vice_city_lego_paradise_987f6af8-7321-45e5-b319-faf64a6983e0.png" }
+                { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.discordapp.com/attachments/1065709974577233931/1105585486258512012/Krait72_vice_city_lego_paradise_987f6af8-7321-45e5-b319-faf64a6983e0.png" },
+
+                { "name": "miniature",   "caption": "微缩模型", "type":"art_form", "alias": "miniature art" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1106833515313635361/Sexy_Vegan_Madison_Wisconsin_capitol_building_tilt-shift_miniat_4408815f-4f52-46c8-9428-3bb671376230.png" }
+                
          
            ]
     },
@@ -246,8 +249,8 @@
     },
     "camera" : {
         "featureTypes" : [ 
+            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1107024839849545798/interstitialism__A_gigantic_multi-leveled_arcology_at_the_summ_28dabee8-1b9b-4216-bf88-862061977eb9.png"},
             { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": ""},
             { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
             { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
             { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
