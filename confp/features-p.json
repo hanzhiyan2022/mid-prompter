@@ -81,11 +81,14 @@
 
             { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
 
-            { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104628756573859930/felipe77768_sci-fi_cyberpunk_city_market_cars_flying_cars_signs_e38265b5-2d73-498c-a5d1-9bbb8173e263.png" },
+            { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "" },
+
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410604757856287/Tuan_Will_to_Rise_Finding_Strength_in_the_Slums_3b151ce5-a117-41f6-ad3d-e11b2bade8a3.png"  },
+
+            { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104628756573859930/felipe77768_sci-fi_cyberpunk_city_market_cars_flying_cars_signs_e38265b5-2d73-498c-a5d1-9bbb8173e263.png" },
+          
             { "name": "hyperrealistic",   "caption": "超写实主义", "type":"photo", "alias": "hyperreal,ultrareal,ultrarealistic", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104594313071054869/Arrietty_if_Mary_Cassatt_and_Beatrix_Potter_created_a_baby_capy_9ccd51ae-3376-479d-858d-a4eba89e94ca.png"  },
            
-
             { "name": "retro",   "caption": "复古", "type":"photo", "alias": "retro style", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1089664859504902225/Ivann_retro_full-length_photo_of_retro_dance_rockabilly_style_6_a4994bf0-ff40-4a79-b9c6-9ea606cb457f.png" }
             
         ],
@@ -101,7 +104,9 @@
            
             { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104691921139552306/walid_boudalia_walid_boudalia_picture_of_future_clipart_053c1165-b888-4aa2-9452-39a52c46faf0.png" },
             { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" },
-            { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png" } 
+            { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png" } ,
+
+            { "name": "blob_art",  "caption": "泡泡艺术",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/952712667498422272/1095331573852819496/nurbikee_pink_blob_character_e5c3fe6a-a097-4fce-9bfe-07ff0644faa2.png" }
             
         
         ],
@@ -239,11 +244,11 @@
     "camera" : {
         "featureTypes" : [ 
             { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""},
-            { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "no"},
-            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "no"},
-            { "name": "iso",           "caption": "感光" , "description":"" ,"image": "no"}
-           
+            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": ""},
+            { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
+            { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
+            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"}
+            { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
         "angle": [
             { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
@@ -298,6 +303,10 @@
             { "name": "iso_800",  "caption": "iso 800"    },
             { "name": "iso_1600", "caption": "iso 1600"    },
             { "name": "iso_3200", "caption": "iso 3200"    }
+        ], 
+        "camera_product" : [
+            { "name": "Nikon_D5", "type":"camera_product"   }
+          
         ]
     },
     "parameter": {
