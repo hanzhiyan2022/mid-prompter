@@ -33,7 +33,10 @@
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"},
             { "name": "close_up",   "caption": "特写",   "type" : "figure",  "alias": "close up shot" ,"image": "https://cdn.discordapp.com/attachments/1068732441029791825/1106985710461911131/Timo_an_incredible_detailed_close_up_macro_shot_of_a_blonde_fem_f64813d7-20f1-48f1-90a3-7dc4d773d283.png" },
 
-            { "name": "caricature",   "caption": "人物漫画",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" }
+            { "name": "caricature",   "caption": "人物漫画",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" },
+
+            { "name": "avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1107663913237094460/1107687905893302292/sararush_simple_avatar_pixar_3d_rendering_a_pretty_boy_18years__cfc15682-eda4-4ea6-a203-79fab7973fb0.png" }
+            
             
         ],
         "design" : [
@@ -81,7 +84,7 @@
 
             { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
 
-            { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "" },
+            { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/1016397381232754788/1100323243602223244/ultra_photorealistic_street_photography_fashionable_race_mix_52a97506-9883-4205-bbed-e5a3a5d8d3ba.png" },
 
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410604757856287/Tuan_Will_to_Rise_Finding_Strength_in_the_Slums_3b151ce5-a117-41f6-ad3d-e11b2bade8a3.png"  },
 
@@ -247,7 +250,7 @@
             { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": ""},
             { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
             { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
-            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"}
+            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
             { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
         "angle": [
