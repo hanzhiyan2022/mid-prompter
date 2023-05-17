@@ -31,7 +31,9 @@
             
 
             { "name": "sitting",   "caption": "坐姿",   "type" : "figure",  "alias": "sitting" ,"image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png"},
-            { "name": "close_up",   "caption": "特写",   "type" : "figure",  "alias": "close up shot" ,"image": "https://cdn.discordapp.com/attachments/1068732441029791825/1106985710461911131/Timo_an_incredible_detailed_close_up_macro_shot_of_a_blonde_fem_f64813d7-20f1-48f1-90a3-7dc4d773d283.png" }
+            { "name": "close_up",   "caption": "特写",   "type" : "figure",  "alias": "close up shot" ,"image": "https://cdn.discordapp.com/attachments/1068732441029791825/1106985710461911131/Timo_an_incredible_detailed_close_up_macro_shot_of_a_blonde_fem_f64813d7-20f1-48f1-90a3-7dc4d773d283.png" },
+
+            { "name": "caricature",   "caption": "人物漫画",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" }
             
         ],
         "design" : [
@@ -194,7 +196,8 @@
             { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
             { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
             { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
-            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" }
+            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" },
+            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" } 
             
         ],
         "color_theme" : [
