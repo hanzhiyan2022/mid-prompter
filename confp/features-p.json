@@ -212,7 +212,7 @@
             { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
             { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
             { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
-            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1080201652029620284/kidjet_black_and_white_graphic_art_city_scenes_in_valerio_dospi_92e85967-2529-4d1c-adf9-c0127b8e6d9e.png" }
+            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
             
         ],
 
@@ -242,7 +242,7 @@
             { "name": "iso",           "caption": "感光" , "description":"" ,"image": ""}
            
         ],
-        "angle_of_view": [
+        "angle": [
             { "name": "standard_lens",  "caption": "标准镜头" , "description":"" ,  "image": ""  },
             { "name": "wide_angle",  "caption": "广角" , "description":"" ,  "image": ""  },
             { "name": "ultra_wide_angle",  "caption": "超广角" , "description":"" ,  "image": ""  },
