@@ -169,8 +169,10 @@
                { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1074181094229934140/1104707184035643392/Cassia_visualize_hand-draw_illustration_by_Tim_Burton_style_wit_fc8319dc-4616-45f7-8f40-2f0ba152780c.png" },
                { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106583801989169232/Vladimir_Badenov__painting_by_Salvador_Dali_db30d934-d7fd-4b60-9fda-5b7a25452b3d.png" },
                { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1091823988558274710/Elster94_Maniacal_creepy_pirate_gold_prospector_fashion_218141e1-09e0-4f1e-b78b-abf23b64e566.png" },
-               { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106222778362896504/ierevan_a_street_kid_with_a_hood_a_sturdy_kid_with_a_baseball_h_2ebf3b5c-50fa-4375-8585-f252cd1e015a.png" }
+               { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106222778362896504/ierevan_a_street_kid_with_a_hood_a_sturdy_kid_with_a_baseball_h_2ebf3b5c-50fa-4375-8585-f252cd1e015a.png" },
 
+               { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1089250711621075104/Elster94__whimsy_luminosity_artefacts_8bbf9501-c2ee-4322-9b16-297d0bde24b1.png" }
+               
            ],
            "art_form" :  [
                  { "name": "sculpture",   "caption": "雕塑", "type":"art_form", "alias": "sculpture art" ,"image": "https://cdn.discordapp.com/attachments/1008571120242409472/1106642733877170258/FirstLlama_a_one_color_flower_sculpture_designed_by_balenciaga__526e2df6-8104-4d33-ac7c-ab636b81ee44.png" },
@@ -209,7 +211,9 @@
             { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
             { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
             { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
-            { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" }
+            { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
+            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1080201652029620284/kidjet_black_and_white_graphic_art_city_scenes_in_valerio_dospi_92e85967-2529-4d1c-adf9-c0127b8e6d9e.png" }
+            
         ],
 
         "detailed" : [
