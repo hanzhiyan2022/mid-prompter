@@ -265,29 +265,35 @@
             
         ],
         "focal_length" : [
-            { "name": "16mm",  "caption": "24mm" ,  "image": ""  },
+       
             { "name": "24mm",  "caption": "24mm" ,  "image": ""  },
             { "name": "35mm",  "caption": "35mm" ,  "image": ""  },
+            { "name": "50mm",  "caption": "50mm" ,  "image": ""  },
             { "name": "70mm",  "caption": "70mm" ,  "image": ""  },
             { "name": "85mm",  "caption": "85mm" ,  "image": ""  },
             { "name": "100mm",  "caption": "100mm" ,  "image": ""  },
             { "name": "135mm",  "caption": "135mm" ,  "image": ""  },
-            { "name": "200mm",  "caption": "200mm" ,  "image": ""  },
-            { "name": "300mm",  "caption": "300mm" ,  "image": ""  }
+            { "name": "200mm",  "caption": "200mm" ,  "image": ""  }
         ],
         "aperture" : [
             { "name": "f/1.4",  "caption": "f/1.4"    },
             { "name": "f/1.8",  "caption": "f/1.8"    },
             { "name": "f/2.0",  "caption": "f/2.0"    },
-            { "name": "f/2.2",  "caption": "f/2.2"    },
             { "name": "f/2.8",  "caption": "f/2.8"    },
-            { "name": "f/3.2",  "caption": "f/3.2"    },
             { "name": "f/5.6",  "caption": "f/5.6"    },
-            { "name": "f/8",    "caption": "f/8"      }
+            { "name": "f/8",    "caption": "f/8"      },
+            { "name": "f/22",   "caption": "f/22"      },
+            { "name": "f/32",   "caption": "f/32"      }
         ],
         "iso": [
-            { "name": "iso_10",  "caption": "iso 10"    },
-            { "name": "iso_50",  "caption": "iso 50"    }
+        
+            { "name": "iso_50",   "caption": "iso 50"    },
+            { "name": "iso_100",  "caption": "iso 100"    },
+            { "name": "iso_200",  "caption": "iso 200"    },
+            { "name": "iso_400",  "caption": "iso 400"    },
+            { "name": "iso_800",  "caption": "iso 800"    },
+            { "name": "iso_1600", "caption": "iso 1600"    },
+            { "name": "iso_3200", "caption": "iso 3200"    }
         ]
     },
     "parameter": {
