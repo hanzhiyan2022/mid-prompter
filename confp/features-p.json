@@ -19,7 +19,7 @@
             { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.discordapp.com/attachments/1014157453824376835/1061390663943475220/Antonio9238445_paradise_lauterbrunnen_valley_wengen_eiger_summe_1ec87fca-4c34-4a3d-9c20-af2754a156a8.png" },   
          
             { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
-            { "name": "animal_plant", "caption": "动植物",  "alias": "creature" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  },     
+            { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  },     
             { "name": "scenario", "caption": "场景",  "alias": "scenario","image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104413771901972520/thiemo_Power_to_the_merchants_dad0d1c2-c33f-405c-ad2e-099e24bbbda9.png"  }
         ],
         "figure" : [
@@ -115,7 +115,7 @@
         ],
         "illustration" : [
             { "name": "children_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children'book illustration, children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png" }, 
-            { "name": "plant_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
+            { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" },
 
             { "name": "scientific_illustration", "caption": "科学插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104703363699974214/Warden1999_Generate_a_scientific_illustration_of_bulky_tumor_ti_2a0c2fb9-2942-4239-a249-7e4ae41d1e62.png"},
@@ -235,11 +235,11 @@
     },
     "camera" : {
         "featureTypes" : [ 
-            { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": ""},
+            { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "subject_distance", "caption": "距离(景别)" , "description":"" ,"image": ""},
-            { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": ""},
-            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "images/aperture-1.png"},
-            { "name": "iso",           "caption": "感光" , "description":"" ,"image": ""}
+            { "name": "focal_length",  "caption": "焦距" , "description":"" ,"image": "no"},
+            { "name": "aperture",      "caption": "光圈" , "description":"" ,"image": "no"},
+            { "name": "iso",           "caption": "感光" , "description":"" ,"image": "no"}
            
         ],
         "angle": [
@@ -255,13 +255,14 @@
           
             { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.discordapp.com/attachments/1103604972303700010/1105220594867376288/wanx_A_black-haired_Chinese_Hunan_girl_wearing_a_white_vest_and_c184d9ff-6c14-493a-9e8d-cc28e88e3612.png"  },
             { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.discordapp.com/attachments/1059548716312309871/1063504694539993148/Fhinou_extreme_long_shot_grainy_photo_of_a_wolf_in_the_middle_o_350f6a92-3626-4617-95d0-86dae22f19e9.png"  },
+            { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108345977762500748/NikahGeh_Kitchen_Utensil_flying_through_the_air_with_seasoning__29ff61d3-2536-4d12-a0bd-94ecbb2e1139.png" },
             { "name": "medium_shot",  "caption": "中景" , "alias":"medium view" ,  "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1108177910415769681/franco09_model_man_with_oversize_white_shirt_sitting_on_a_bench_13040c59-dadf-435b-becc-228711a328d2.png"  },
             { "name": "close_shot",   "caption": "近景" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1108164558335520778/larspars_Modern_Realism._close_shot_of_a_thoughtful_young_woman_90de3005-3644-431d-8ce4-693873d50f31.png"  },
             { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
             { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
-            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  },
+            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
 
-            { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108345977762500748/NikahGeh_Kitchen_Utensil_flying_through_the_air_with_seasoning__29ff61d3-2536-4d12-a0bd-94ecbb2e1139.png" }
+          
             
         ],
         "focal_length" : [
