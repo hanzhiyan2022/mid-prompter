@@ -121,16 +121,22 @@
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
             { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
             { "name": "manga_style",   "caption": "日本漫画书", "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_style",  "caption": "吉卜力动画", "type":"cartoon", "alias": "Ghibli studio style" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
+            { "name": "Ghibli_studio",  "caption": "吉卜力工作室", "type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
           
         ],
         "illustration" : [
+            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1108570996690124890/LauraP_realistic_portrait_of_female_rocker_headshot_illustratio_7054b694-4507-409a-99d9-b6b6eafac9a5.png" }, 
+
             { "name": "children_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children'book illustration, children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png" }, 
+
             { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
+            
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" },
 
             { "name": "scientific_illustration", "caption": "科学插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104703363699974214/Warden1999_Generate_a_scientific_illustration_of_bulky_tumor_ti_2a0c2fb9-2942-4239-a249-7e4ae41d1e62.png"},
+
             { "name": "digital_illustration", "caption": "数字插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/968967076100325496/1102539088151707719/npnpnp000_Gothic_architecture_flying_in_the_sky_Radiolariafract_f3ed3079-da63-47c7-a700-1bbe631504b8.png"},
+
             { "name": "cartoon_illustration", "caption": "卡通插画",     "type":"illustration", "alias":"", "image":" https://cdn.discordapp.com/attachments/1054162799988834314/1104387014666768426/mangosago_vibrant_old_people_in_nursing_homegreen_plants_are_ev_dcafd6b5-7310-4489-b576-d31f92991bbb.png" }
            
 
@@ -249,8 +255,9 @@
     },
     "camera" : {
         "featureTypes" : [ 
-            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1107024839849545798/interstitialism__A_gigantic_multi-leveled_arcology_at_the_summ_28dabee8-1b9b-4216-bf88-862061977eb9.png"},
+            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
             { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "camera_position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
             { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
             { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
