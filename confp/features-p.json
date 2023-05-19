@@ -264,16 +264,27 @@
             { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
         "angle": [
-            { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
             { "name": "wide_angle",      "caption": "广角" ,   "description":"" ,  "image": ""  },
-            { "name": "ultra_wide_angle","caption": "超广角" , "alias":"extreme wide angle, super wide angle" ,  "image": ""  },
-            { "name": "macro",  "caption": "微距" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
+            { "name": "ultra_wide_angle","caption": "超广角" ,"alias":"extreme wide angle,super wide angle","image": ""},
+            { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
+            { "name": "macro",  "caption": "微距" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
             { "name": "super_macro",  "caption": "" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png"  },
             { "name": "narrow_angle",  "caption": "" , "description":"" ,  "image": ""  },
             { "name": "medium_angle",  "caption": "" , "description":"" ,  "image": ""  }
         ],
+        "camera_position" : [
+            { "name": "front_view",    "caption": "前视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "back_view",     "caption": "后视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "side_view",     "caption": "侧视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "top_view",      "caption": "顶视图" ,   "alias":"" ,  "image": ""  },
+
+            { "name": "top_down_view","caption": "顶向下视图" , "alias":"" ,  "image": ""  },
+            { "name": "up_view",      "caption": "上视图" ,     "alias":"" ,  "image": ""  },
+            { "name": "aerial_view",  "caption": "空中视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "isometric",    "caption": "等距视图" ,   "alias":"" ,  "image": ""  }
+        ],
+
         "subject_distance" : [
-          
             { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.discordapp.com/attachments/1103604972303700010/1105220594867376288/wanx_A_black-haired_Chinese_Hunan_girl_wearing_a_white_vest_and_c184d9ff-6c14-493a-9e8d-cc28e88e3612.png"  },
             { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.discordapp.com/attachments/1059548716312309871/1063504694539993148/Fhinou_extreme_long_shot_grainy_photo_of_a_wolf_in_the_middle_o_350f6a92-3626-4617-95d0-86dae22f19e9.png"  },
             { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108334953919426741/NikahGeh_dates_fruit_Cinematic_Editorial_Photography_Photograph_662eff90-d5d7-455c-8037-1d7f61565547.png" },
@@ -282,9 +293,6 @@
             { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
             { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
             { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
-
-          
-            
         ],
         "focal_length" : [
        
