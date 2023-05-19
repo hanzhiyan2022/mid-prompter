@@ -121,7 +121,7 @@
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
             { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
             { "name": "manga_style",   "caption": "日本漫画书", "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_studio",  "caption": "吉卜力工作室", "type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
+            { "name": "Ghibli_studio",  "caption": "吉卜力工作室", "type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/1008571029804810332/1108760776891695225/organic_Merida_1998_Studio_Ghibli_film_a61bdfad-f0bc-4ae8-8ac9-6fbe135ecd70.png" }
           
         ],
         "illustration" : [
@@ -208,9 +208,8 @@
     "control" : {
         "featureTypes" : [
             { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
-            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
-            { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
-            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"}
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"}
+
           
         ],
         "background" :[
@@ -234,8 +233,37 @@
             { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
             { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
             
-        ],
+        ]
 
+    },
+    "camera" : {
+        "featureTypes" : [ 
+       
+            { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
+            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
+            { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
+        ]
+       
+       
+    },
+    "parameter": {
+        "featureTypes" : [
+            { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
+            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
+
+            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
+            { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "camera_position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
+       
+            { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
+            { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
+            { "name": "chaos",       "caption": "chaos" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
+            { "name": "quality","caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
+            { "name": "seed","caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
+            { "name": "stylish","caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
+            { "name": "no","caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
+        ],
+        
         "detailed" : [
             { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
             { "name": "very_detailed",      "caption": "very detailed",  "prompt":"very detailed"   },
@@ -251,19 +279,10 @@
             { "name": "resolution_16k",  "caption": "16k",  "prompt":"16k resolution"   },
             { "name": "high_resolution", "caption": "high", "prompt":"high resolution" ,"alias":"HD,high definition"  },
             { "name": "super_resolution",  "caption": "super",   "prompt":"super resolution"   }
-         ]
-    },
-    "camera" : {
-        "featureTypes" : [ 
-            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
-            { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "camera_position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
-            { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
-            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
-            { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
-        ],
-        "angle": [
+         ],
+
+
+         "angle": [
             { "name": "wide_angle",      "caption": "广角" ,   "description":"" ,  "image": ""  },
             { "name": "ultra_wide_angle","caption": "超广角" ,"alias":"extreme wide angle,super wide angle","image": ""},
             { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
@@ -293,19 +312,8 @@
             { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
             { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
             { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
-        ]
-       
-    },
-    "parameter": {
-        "featureTypes" : [
-            { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
-            { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
-            { "name": "chaos",       "caption": "chaos" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
-            { "name": "quality","caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
-            { "name": "seed","caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
-            { "name": "stylish","caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
-            { "name": "no","caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
-        ],
+        ], 
+         
         "version" : [
             { "name": "version_3", "caption": "v3", "prompt":"--v 3"   },
             { "name": "version_4", "caption": "v4", "prompt":"--v 4"   },
