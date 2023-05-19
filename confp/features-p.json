@@ -127,7 +127,7 @@
         "illustration" : [
             { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1108570996690124890/LauraP_realistic_portrait_of_female_rocker_headshot_illustratio_7054b694-4507-409a-99d9-b6b6eafac9a5.png" }, 
 
-            { "name": "children_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children'book illustration, children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png" }, 
+            { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png" }, 
 
             { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
             
