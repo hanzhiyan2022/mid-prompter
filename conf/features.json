@@ -8,8 +8,7 @@
     "dimension": [
         { "name": "subject",   "caption": "体裁",  "type":"" },
         { "name": "style",     "caption": "风格",  "type":"" },
-        { "name": "control",   "caption": "控制",  "type":"" },
-        { "name": "camera",    "caption": "相机",  "type":"" },
+     
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
 
