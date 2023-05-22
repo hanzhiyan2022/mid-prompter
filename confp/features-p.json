@@ -82,7 +82,8 @@
          
         ],
         "photo" : [
-            { "name": "real",        "caption": "真实照片", "type":"photo", "alias": "real, photo style,realistic" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
+            { "name": "photo",       "caption": "照片",     "type":"photo", "alias": "real, real photo" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
+            { "name": "realistic",   "caption": "写实主义", "type":"photo",  "alias": "realism, realistic style" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png" },
             { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
 
             { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
@@ -261,7 +262,7 @@
          "engine" : [
             { "name": "octane_render",   "caption": "octane render" },
             { "name": "unreal_engine",   "caption": "unreal engine" },
-            { "name": "c4d",   "caption": "C4D ", "description": "Computer 4 dimensions Engine" }
+            { "name": "c4d",             "caption": "C4D ", "description": "CINEMA 4D Render Engine" }
          ]
     },
     "camera" : {
@@ -345,8 +346,11 @@
             { "name": "iso_3200", "caption": "iso 3200"    }
         ], 
         "camera_product" : [
-            { "name": "Nikon_D5", "type":"camera_product"   }
-          
+            { "name": "Canon_EOS_R5", "caption": "Canon EOS R5" },
+            { "name": "Nikon_D5",     "caption": "Nikon D5"     },
+            { "name": "Sony_A7R",     "caption": "Sony_A7R"     },
+            { "name": "DJI_Mavic_3",  "caption": "DJI Mavic 3"  },
+            { "name": "Canon_EOS_5D", "caption": "Canon EOS 5D" }
         ]
     },
     "parameter": {
