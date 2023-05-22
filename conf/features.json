@@ -211,9 +211,9 @@
     "control" : {
         "featureTypes" : [
             { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
-            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"}
 
-            { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"}
+            
         ],
         "background" :[
             { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
@@ -236,18 +236,8 @@
             { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
             { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
             
-        ],
-        "lighting" : [
-            { "name": "sun_light",         "caption": "太阳光"    },
-            { "name": "nature_lighting",   "caption": "自然光"  },
-            { "name": "dramatic_lighting", "caption": "戏剧光"  },
-            { "name": "volumetric_lighting","caption": "立体光" },
-
-            { "name": "morning_light",     "caption": "晨光"   },
-            { "name": "evening_light ",    "caption": "晚光"    },
-            { "name": "fire_light",        "caption": "火光"    },
-            { "name": "dark_light ",       "caption": "暗光"    }  
-         ]
+        ]
+       
 
     },
     "camera" : {
@@ -262,6 +252,8 @@
     },
     "parameter": {
         "featureTypes" : [
+            { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"},
+
             { "name": "detailed",  "caption": "detailed",  "description":"How much to render the details" ,"image": "no"},
             { "name": "resolution","caption": "resolution", "description":"Image resolution in pixels" ,"image": "no"},
 
@@ -278,7 +270,17 @@
             { "name": "stylish","caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
             { "name": "no","caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
-        
+        "lighting" : [
+            { "name": "sun_light",         "caption": "太阳光"    },
+            { "name": "nature_lighting",   "caption": "自然光"  },
+            { "name": "dramatic_lighting", "caption": "戏剧光"  },
+            { "name": "volumetric_lighting","caption": "立体光" },
+
+            { "name": "morning_light",     "caption": "晨光"   },
+            { "name": "evening_light ",    "caption": "晚光"    },
+            { "name": "fire_light",        "caption": "火光"    },
+            { "name": "dark_light ",       "caption": "暗光"    }  
+         ], 
         "detailed" : [
             { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
             { "name": "very_detailed",      "caption": "very detailed",  "prompt":"very detailed"   },
