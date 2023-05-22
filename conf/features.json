@@ -252,9 +252,9 @@
             { "name": "detailed",  "caption": "detailed",  "description":"How much to render the details" ,"image": "no"},
             { "name": "resolution","caption": "resolution", "description":"Image resolution in pixels" ,"image": "no"},
 
-            { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
-            { "name": "lens",          "caption": "镜头" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "distance",      "caption": "distance" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
+            { "name": "lens",          "caption": "lens" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "position",      "caption": "camera position" , "alias":"angle of view, field of view" , "image": "no"},
           
             { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
             { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
