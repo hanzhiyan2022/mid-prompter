@@ -334,10 +334,10 @@
          ],
          "style" : [
             { "name": "niji_5",   "caption": "niji 5",   "prompt":"--niji 5"     },
-            { "name": "style_default",   "caption": "default",   "prompt":"--style default"     },
             { "name": "style_expressive","caption": "expressive",   "prompt":"--style expressive"     },
             { "name": "style_cute",     "caption": "cute",   "prompt":"--style cute"     },
-            { "name": "style_scenic",   "caption": "scenic",   "prompt":"--style scenic"     }
+            { "name": "style_scenic",   "caption": "scenic",   "prompt":"--style scenic"     },
+            { "name": "style_default",   "caption": "default",   "prompt":"--style default"     }
         ],
         
         "chaos" : [
