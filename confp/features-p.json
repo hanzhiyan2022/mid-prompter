@@ -213,7 +213,10 @@
             { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
             { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
             { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
-            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"}
+            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
+
+            { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"},
+            { "name": "engine","caption": "render engine", "description":"" , "alias": "", "image": "no"}
           
         ],
         "background" :[
@@ -254,6 +257,11 @@
             { "name": "resolution_16k",  "caption": "16k",  "prompt":"16k resolution"   },
             { "name": "high_resolution", "caption": "high", "prompt":"high resolution" ,"alias":"HD,high definition"  },
             { "name": "super_resolution",  "caption": "super",   "prompt":"super resolution"   }
+         ],
+         "engine" : [
+            { "name": "octane_render",   "caption": "octane render" },
+            { "name": "unreal_engine",   "caption": "unreal engine" },
+            { "name": "c4d",   "caption": "C4D ", "description": "Computer 4 dimensions Engine" }
          ]
     },
     "camera" : {
