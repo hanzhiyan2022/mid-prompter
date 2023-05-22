@@ -258,15 +258,25 @@
     },
     "camera" : {
         "featureTypes" : [ 
-            { "name": "subject_distance", "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
-            { "name": "angle",         "caption": "视角" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "camera_position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
+            { "name": "lens",          "caption": "镜头" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
             { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
             { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
             { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
-        "angle": [
+        "distance" : [
+            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.discordapp.com/attachments/1105462185280426014/1107357416519106660/wanx_Under_the_blue_sky_stood_a_rocky_peak_towering_into_the_cl_fc163aca-c931-4de5-876d-aa022f8c2f0a.png"  },
+            { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.discordapp.com/attachments/1059548716312309871/1063504694539993148/Fhinou_extreme_long_shot_grainy_photo_of_a_wolf_in_the_middle_o_350f6a92-3626-4617-95d0-86dae22f19e9.png"  },
+            { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108334953919426741/NikahGeh_dates_fruit_Cinematic_Editorial_Photography_Photograph_662eff90-d5d7-455c-8037-1d7f61565547.png" },
+            { "name": "medium_shot",  "caption": "中景" , "alias":"medium view" ,  "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1108177910415769681/franco09_model_man_with_oversize_white_shirt_sitting_on_a_bench_13040c59-dadf-435b-becc-228711a328d2.png"  },
+            { "name": "close_shot",   "caption": "近景" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1108164558335520778/larspars_Modern_Realism._close_shot_of_a_thoughtful_young_woman_90de3005-3644-431d-8ce4-693873d50f31.png"  },
+            { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
+            { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
+            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
+        ],
+        "lens": [
             { "name": "wide_angle",      "caption": "广角" ,   "description":"" ,  "image": ""  },
             { "name": "ultra_wide_angle","caption": "超广角" ,"alias":"extreme wide angle,super wide angle","image": ""},
             { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
@@ -275,7 +285,7 @@
             { "name": "narrow_angle",  "caption": "" , "description":"" ,  "image": ""  },
             { "name": "medium_angle",  "caption": "" , "description":"" ,  "image": ""  }
         ],
-        "camera_position" : [
+        "position" : [
             { "name": "front_view",    "caption": "前视图" ,   "alias":"" ,  "image": ""  },
             { "name": "back_view",     "caption": "后视图" ,   "alias":"" ,  "image": ""  },
             { "name": "side_view",     "caption": "侧视图" ,   "alias":"" ,  "image": ""  },
@@ -287,16 +297,6 @@
             { "name": "isometric",    "caption": "等距视图" ,   "alias":"" ,  "image": ""  }
         ],
 
-        "subject_distance" : [
-            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.discordapp.com/attachments/1105462185280426014/1107357416519106660/wanx_Under_the_blue_sky_stood_a_rocky_peak_towering_into_the_cl_fc163aca-c931-4de5-876d-aa022f8c2f0a.png"  },
-            { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.discordapp.com/attachments/1059548716312309871/1063504694539993148/Fhinou_extreme_long_shot_grainy_photo_of_a_wolf_in_the_middle_o_350f6a92-3626-4617-95d0-86dae22f19e9.png"  },
-            { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108334953919426741/NikahGeh_dates_fruit_Cinematic_Editorial_Photography_Photograph_662eff90-d5d7-455c-8037-1d7f61565547.png" },
-            { "name": "medium_shot",  "caption": "中景" , "alias":"medium view" ,  "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1108177910415769681/franco09_model_man_with_oversize_white_shirt_sitting_on_a_bench_13040c59-dadf-435b-becc-228711a328d2.png"  },
-            { "name": "close_shot",   "caption": "近景" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1108164558335520778/larspars_Modern_Realism._close_shot_of_a_thoughtful_young_woman_90de3005-3644-431d-8ce4-693873d50f31.png"  },
-            { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
-            { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
-            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
-        ],
         "focal_length" : [
        
             { "name": "24mm",  "caption": "24mm" ,  "image": ""  },
@@ -366,7 +366,7 @@
             { "name": "style_default",   "caption": "default",   "prompt":"--style default"     },
             { "name": "style_expressive","caption": "expressive",   "prompt":"--style expressive"     },
             { "name": "style_cute",     "caption": "cute",   "prompt":"--style cute"     },
-            { "name": "style_scenic",   "caption": "expressive",   "prompt":"--style expressive"     }
+            { "name": "style_scenic",   "caption": "scenic",   "prompt":"--style scenic"     }
         ],
         "chaos" : [
             { "name": "chaos_0",  "caption": "0", "prompt":"--chaos 0"     },
