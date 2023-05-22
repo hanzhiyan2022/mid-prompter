@@ -294,7 +294,15 @@
             { "name": "top_down_view","caption": "顶向下视图" , "alias":"" ,  "image": ""  },
             { "name": "up_view",      "caption": "上视图" ,     "alias":"" ,  "image": ""  },
             { "name": "aerial_view",  "caption": "空中视图" ,   "alias":"" ,  "image": ""  },
-            { "name": "isometric",    "caption": "等距视图" ,   "alias":"" ,  "image": ""  }
+            { "name": "isometric",    "caption": "等距视图" ,   "alias":"" ,  "image": ""  },
+
+            { "name": "high_angle",       "caption": "高角度" ,   "alias":"" ,  "image": ""  },
+            { "name": "low_angle",        "caption": "低角度" ,   "alias":"" ,  "image": ""  },
+            { "name": "ants_eye_view",    "caption": "蚂蚁视角" ,   "alias":"" ,  "image": ""  },
+            { "name": "ground_level_view", "caption": "地面视角" ,   "alias":"" ,  "image": ""  },
+
+            { "name": "birds_eye_view",    "caption": "鸟瞰视角" ,   "alias":"" ,  "image": ""  }
+            
         ],
 
         "focal_length" : [
