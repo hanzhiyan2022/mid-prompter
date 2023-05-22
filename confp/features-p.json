@@ -335,13 +335,14 @@
     },
     "parameter": {
         "featureTypes" : [
-            { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
+            { "name": "version",     "caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
             { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
+            { "name": "seed",        "caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
+            { "name": "style",       "caption": "style" ,"prompt":"--style" ,      "description": "specified niji style" , "image": "no"},
             { "name": "chaos",       "caption": "chaos" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
-            { "name": "quality","caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
-            { "name": "seed","caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
-            { "name": "stylish","caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
-            { "name": "no","caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
+            { "name": "quality",     "caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
+            { "name": "stylish",     "caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
+            { "name": "no",          "caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
         "version" : [
             { "name": "version_3", "caption": "v3", "prompt":"--v 3"   },
@@ -356,6 +357,9 @@
             { "name": "ar_16_9", "caption": "16:9", "prompt":"--ar 16:9"   },
             { "name": "ar_1_1", "caption": "1:1", "prompt":"--ar 1:1"   }
         ],
+        "seed" : [
+            { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
+         ],
         "chaos" : [
             { "name": "chaos_0",  "caption": "0", "prompt":"--chaos 0"     },
             { "name": "chaos_10", "caption": "10", "prompt":"--chaos 10"   },   
@@ -364,6 +368,7 @@
             { "name": "chaos_70", "caption": "70", "prompt":"--chaos 70"   },  
             { "name": "chaos_100","caption": "100", "prompt":"--chaos 100" }
         ],
+
         "quality" : [
             { "name": "quality_025", "caption": "0.25", "prompt":"--q 0.25"   },
             { "name": "quality_050", "caption": "0.5", "prompt":"--q 0.5"   },
@@ -373,9 +378,14 @@
             { "name": "quality_175", "caption": "1.75", "prompt":"--q 1.75"   },
             { "name": "quality_200", "caption": "2", "prompt":"--q 2"   }
         ],
-        "seed" : [
-            { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
-         ],
+        "style" : [
+            { "name": "niji_5",   "caption": "niji 5",   "prompt":"--niji 5"     },
+            { "name": "style_default",   "caption": "默认",   "prompt":"--style default"     },
+            { "name": "style_expressive","caption": "表现力",   "prompt":"--style expressive"     },
+            { "name": "style_cute",     "caption": "可爱",   "prompt":"--style cute"     },
+            { "name": "style_scenic",   "caption": "场景",   "prompt":"--style expressive"     }
+        ],
+
         "stylish" : [
             { "name": "stylish_0",   "caption": "0",   "prompt":"--s 0"     },
             { "name": "stylish_100", "caption": "100", "prompt":"--s 100"   },
