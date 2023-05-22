@@ -337,6 +337,7 @@
             { "name": "style_expressive","caption": "expressive",   "prompt":"--style expressive"     },
             { "name": "style_cute",     "caption": "cute",   "prompt":"--style cute"     },
             { "name": "style_scenic",   "caption": "scenic",   "prompt":"--style scenic"     },
+            { "name": "style_raw",       "caption": "raw",   "prompt":"--style raw"     },
             { "name": "style_default",   "caption": "default",   "prompt":"--style default"     }
         ],
         
