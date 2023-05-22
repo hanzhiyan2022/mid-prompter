@@ -357,9 +357,17 @@
             { "name": "ar_16_9", "caption": "16:9", "prompt":"--ar 16:9"   },
             { "name": "ar_1_1", "caption": "1:1", "prompt":"--ar 1:1"   }
         ],
+        
         "seed" : [
             { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
          ],
+         "style" : [
+            { "name": "niji_5",   "caption": "niji 5",   "prompt":"--niji 5"     },
+            { "name": "style_default",   "caption": "default",   "prompt":"--style default"     },
+            { "name": "style_expressive","caption": "expressive",   "prompt":"--style expressive"     },
+            { "name": "style_cute",     "caption": "cute",   "prompt":"--style cute"     },
+            { "name": "style_scenic",   "caption": "expressive",   "prompt":"--style expressive"     }
+        ],
         "chaos" : [
             { "name": "chaos_0",  "caption": "0", "prompt":"--chaos 0"     },
             { "name": "chaos_10", "caption": "10", "prompt":"--chaos 10"   },   
@@ -376,15 +384,9 @@
             { "name": "quality_125", "caption": "1.25", "prompt":"--q 1.25"   },
             { "name": "quality_150", "caption": "1.5", "prompt":"--q 1.5"   },
             { "name": "quality_175", "caption": "1.75", "prompt":"--q 1.75"   },
-            { "name": "quality_200", "caption": "2", "prompt":"--q 2"   }
+            { "name": "quality_200", "caption": "2",    "prompt":"--q 2"   }
         ],
-        "style" : [
-            { "name": "niji_5",   "caption": "niji 5",   "prompt":"--niji 5"     },
-            { "name": "style_default",   "caption": "默认",   "prompt":"--style default"     },
-            { "name": "style_expressive","caption": "表现力",   "prompt":"--style expressive"     },
-            { "name": "style_cute",     "caption": "可爱",   "prompt":"--style cute"     },
-            { "name": "style_scenic",   "caption": "场景",   "prompt":"--style expressive"     }
-        ],
+        
 
         "stylish" : [
             { "name": "stylish_0",   "caption": "0",   "prompt":"--s 0"     },
