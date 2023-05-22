@@ -271,15 +271,15 @@
             { "name": "no","caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
         "lighting" : [
-            { "name": "sun_light",         "caption": "太阳光"    },
-            { "name": "nature_lighting",   "caption": "自然光"  },
-            { "name": "dramatic_lighting", "caption": "戏剧光"  },
-            { "name": "volumetric_lighting","caption": "立体光" },
+            { "name": "sun_light",         "caption": "sun light"    },
+            { "name": "nature_lighting",   "caption": "nature lighting"  },
+            { "name": "dramatic_lighting", "caption": "dramatic lighting"  },
+            { "name": "volumetric_lighting","caption": "volumetric lighting" },
 
-            { "name": "morning_light",     "caption": "晨光"   },
-            { "name": "evening_light ",    "caption": "晚光"    },
-            { "name": "fire_light",        "caption": "火光"    },
-            { "name": "dark_light ",       "caption": "暗光"    }  
+            { "name": "morning_light",     "caption": "morning light"   },
+            { "name": "evening_light ",    "caption": "evening light"    },
+            { "name": "fire_light",        "caption": "fire light"    },
+            { "name": "dark_light ",       "caption": "dark light"    }  
          ], 
         "detailed" : [
             { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
