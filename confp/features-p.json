@@ -68,7 +68,6 @@
             { "name": "phone_ui_ux",  "caption": "手机界面", "type" : "design", "alias": "phone UI/UX", "image": "https://cdn.discordapp.com/attachments/1027497645050167336/1061529045797441637/Steam_Bun_Invasion_high_quality_image_of_gaming_app_white_iphon_f4e6066f-d96d-4238-beec-cad92e03a56d.png" },
             { "name": " exhibition_design",  "caption": "展台设计", "type" : "design", "alias": "exhibition booth design, exhibition stand design", "image": "https://cdn.discordapp.com/attachments/997224874214965268/1096392050255085568/arazerbaijan_big_rectangle_creative_exhibition_booth_design_for_cc5a0685-8cad-4bc7-8873-4eb370972f18.png" }
             
-
         ]
     },
     "style": {
@@ -123,12 +122,13 @@
         "cartoon": [
             { "name": "2d_cartoon", "caption": "动画片",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
             { "name": "3d_cartoon", "caption": "3D动画片", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
-            { "name": "comic_book_style ",  "caption": "漫画书",     "type":"cartoon", "alias": "comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
             { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
-            { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
-            { "name": "manga_style",   "caption": "日本漫画书", "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_studio",  "caption": "吉卜力工作室", "type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
+            { "name": "comic", "caption": "漫画书",      "type":"cartoon", "alias": "comics, comic book,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
+            { "name": "marvel_comic", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
+            { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
+            { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
+            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
           
         ],
         "illustration" : [
@@ -311,12 +311,14 @@
         ],
         "lens": [
             { "name": "wide_angle",      "caption": "广角" ,   "description":"" ,  "image": ""  },
-            { "name": "ultra_wide_angle","caption": "超广角" ,"alias":"extreme wide angle,super wide angle","image": ""},
+            { "name": "ultra_wide_angle","caption": "超广角" ,  "alias":"extreme wide angle,super wide angle","image": ""},
             { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
-            { "name": "macro",  "caption": "微距" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
+            { "name": "macro",        "caption": "微距" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
             { "name": "super_macro",  "caption": "" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png"  },
-            { "name": "narrow_angle",  "caption": "" , "description":"" ,  "image": ""  },
-            { "name": "medium_angle",  "caption": "" , "description":"" ,  "image": ""  }
+            { "name": "narrow_angle", "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "medium_angle", "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "fisheye", "caption": "fisheye" , "description":"" ,  "image": ""  },  
+            { "name": "tilt-shift_lens", "caption": "tilt-shift_lens" , "description":"" ,  "image": ""  }
         ],
         "position" : [
             { "name": "front_view",    "caption": "前视图" ,   "alias":"" ,  "image": ""  },
