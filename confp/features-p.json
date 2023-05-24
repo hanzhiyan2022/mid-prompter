@@ -120,10 +120,14 @@
         
         ],
         "cartoon": [
-            { "name": "2d_cartoon", "caption": "动画片",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
-            { "name": "3d_cartoon", "caption": "3D动画片", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
+            { "name": "2d_cartoon", "caption": "2D卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
+            { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
+
+            { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
+          
             { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
+
             { "name": "comic", "caption": "漫画书",      "type":"cartoon", "alias": "comics, comic book,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
             { "name": "marvel_comic", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
             { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
@@ -291,6 +295,8 @@
             { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
             { "name": "lens",          "caption": "镜头" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "perspective",   "caption": "透视图" , "alias":"" , "image": "no"},
+            
             { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
             { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
             { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
@@ -336,7 +342,19 @@
             { "name": "ants_eye_view",    "caption": "蚂蚁视角" ,   "alias":"" ,  "image": ""  },
             { "name": "ground_level_view", "caption": "地面视角" ,   "alias":"" ,  "image": ""  },
 
-            { "name": "birds_eye_view",    "caption": "鸟瞰视角" ,   "alias":"" ,  "image": ""  }
+            { "name": "birds_eye_view", "caption": "鸟瞰视角" ,   "alias":"" ,  "image": ""  },
+            
+        ],
+        "perspective" : [
+            { "name": "linear_perspective ",        "caption": "linear perspective" , "image" : "https://cdn.discordapp.com/ephemeral-attachments/1092492867185950852/1110562623017209866/E9FB620B-6DC2-4712-9C15-B7CBA6DDFFB9.jpg" },
+
+            { "name": "foreshortening_perspective", "caption": "foreshortening perspective" , "image" : "https://cdn.discordapp.com/attachments/995431514080813086/1098140116284878918/RHSyn_an_illustrated_friendly_realistic_ostrich_but_wearing_Maa_82dcdd8c-94ed-4563-82f5-8c9b39e72c93.png" },
+
+            { "name": "GoPro_selfie_perspective",   "caption": "GoPro selfie perspective" , "alias":"GoPro selfie",  "image": "https://cdn.discordapp.com/attachments/989274712590917653/1110720010965499904/JOHNNYJET_GoPro_selfie_of_iron_man_floating_in_a_colorful_car_w_f9e394db-e509-4ccb-a4bc-5197ed5bd4d3.png"},
+
+            { "name": "third-person_perspective", "caption": "third-person perspective" , "image" : "https://cdn.discordapp.com/attachments/989274745495240734/1070972721921536070/war_scribe_wide_cinematic_landscape_shot_of_a_snowy_mountain_ra_115fe848-001c-4d95-ae6b-7852de10fc69.png" },
+
+            { "name": "atmospheric_perspective", "caption": "atmospheric perspective" , "image" : "https://cdn.discordapp.com/attachments/941582479117127680/1105318997429321819/EeveeInASweater_scifi_inspired_art_for_desktop_wallpaper_in_the_c24a6cc7-d8e3-4527-a62a-b36436369f9e.png" }
             
         ],
 
@@ -377,6 +395,8 @@
             { "name": "Sony_A7R",     "caption": "Sony_A7R"     },
             { "name": "DJI_Mavic_3",  "caption": "DJI Mavic 3"  },
             { "name": "Canon_EOS_5D", "caption": "Canon EOS 5D" }
+
+           
         ]
     },
     "parameter": {
