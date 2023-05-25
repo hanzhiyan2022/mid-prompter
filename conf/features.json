@@ -1,14 +1,15 @@
 
 {
-    "file_name" : "Prompt features for Image prompter",
-    "version" : "1.0.2",
+    "file_name" : "Prompt features configure for Image prompter",
+    "version" : "1.0.3",
     "author" : "Ray Lee",
-    "date" : "2023-5-10",
+    "date" : "2023-5-20",
     "email" : "raykkncc@gmail.com",
     "dimension": [
         { "name": "subject",   "caption": "体裁",  "type":"" },
         { "name": "style",     "caption": "风格",  "type":"" },
-     
+        { "name": "control",   "caption": "控制",  "type":"" },
+        { "name": "camera",    "caption": "相机",  "type":"" },
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
 
@@ -39,6 +40,7 @@
             
             { "name": "character",   "caption": "角色",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1109060510315454515/SULTAN_cute_man_2D_character._He_is_holding_computer_d85ae6a5-4f36-4609-95e3-1a1cfaa6e8e7.png" }
             
+            
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
@@ -53,8 +55,10 @@
             { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
             { "name": "sticker",  "caption": "贴纸", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106266723180621948/ega_A_peeker_sticker_a_front_facing_headshot_portrait_of_a_fren_879945a9-0116-40ca-ab0f-0393cd8c3347.png" },
 
-            { "name": "pattern_design",  "caption": "图案设计", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1110141300826710098/Balloonalley_cute_rabbits_in_a_forrest_setting_seamless_pattern_d55eaa36-f486-48b4-94b6-6b87c1d8beb7.png" },
-           
+            { "name": "pattern_design",  "caption": "图案设计", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106776142058377216/aprilmay_mudcloth_pattern_from_Mali_c1341f96-8c04-4ab3-8784-f052a6d870a8.png" },
+
+            { "name": "seamless_pattern",  "caption": "无缝图案", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1110141300826710098/Balloonalley_cute_rabbits_in_a_forrest_setting_seamless_pattern_d55eaa36-f486-48b4-94b6-6b87c1d8beb7.png" },
+            
 
             { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" },
             { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" },
@@ -64,7 +68,6 @@
             { "name": "phone_ui_ux",  "caption": "手机界面", "type" : "design", "alias": "phone UI/UX", "image": "https://cdn.discordapp.com/attachments/1027497645050167336/1061529045797441637/Steam_Bun_Invasion_high_quality_image_of_gaming_app_white_iphon_f4e6066f-d96d-4238-beec-cad92e03a56d.png" },
             { "name": " exhibition_design",  "caption": "展台设计", "type" : "design", "alias": "exhibition booth design, exhibition stand design", "image": "https://cdn.discordapp.com/attachments/997224874214965268/1096392050255085568/arazerbaijan_big_rectangle_creative_exhibition_booth_design_for_cc5a0685-8cad-4bc7-8873-4eb370972f18.png" }
             
-
         ]
     },
     "style": {
@@ -83,7 +86,7 @@
         "photo" : [
             { "name": "photo",       "caption": "照片",     "type":"photo", "alias": "real, real photo" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
             { "name": "realistic",   "caption": "写实主义", "type":"photo",  "alias": "realism, realistic style" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png" },
-            { "name": "photography", "caption": "摄影",     "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
+            { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
 
             { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
 
@@ -110,21 +113,23 @@
            
             { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104691921139552306/walid_boudalia_walid_boudalia_picture_of_future_clipart_053c1165-b888-4aa2-9452-39a52c46faf0.png" },
             { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" },
-            { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png" } ,
-
-            { "name": "blob_art",  "caption": "泡泡艺术",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/952712667498422272/1095331573852819496/nurbikee_pink_blob_character_e5c3fe6a-a097-4fce-9bfe-07ff0644faa2.png" }
-            
+          
         
         ],
         "cartoon": [
-            { "name": "2d_cartoon", "caption": "动画片",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
-            { "name": "3d_cartoon", "caption": "3D动画片", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
-            { "name": "comic_book_style ",  "caption": "漫画书",     "type":"cartoon", "alias": "comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
+            { "name": "2d_cartoon", "caption": "2D卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
+            { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
+
+            { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
+          
             { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
-            { "name": "anime_style",   "caption": "日本动漫",   "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
-            { "name": "manga_style",   "caption": "日本漫画书", "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_studio",  "caption": "吉卜力工作室", "type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/1008571029804810332/1108760776891695225/organic_Merida_1998_Studio_Ghibli_film_a61bdfad-f0bc-4ae8-8ac9-6fbe135ecd70.png" }
+
+            { "name": "comic", "caption": "漫画书",      "type":"cartoon", "alias": "comics, comic book,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
+            { "name": "marvel_comic", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
+            { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
+            { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
+            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
           
         ],
         "illustration" : [
@@ -159,9 +164,6 @@
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
             { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png" },
             { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" },
-            { "name": "ASCII_art",        "caption": "ASCII艺术",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1055259701408972911/NicoBellic_ASCII-Art_of_a_man_with_dreadlocks_european_with_bea_87e4267b-f795-4e53-983f-6577c6e222a0.png" },
-        
-            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [
             { "name": "realistic",    "caption": "写实", "type":"painting_style", "alias": "realism" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
@@ -211,76 +213,16 @@
     "control" : {
         "featureTypes" : [
             { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
-            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"}
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
+            { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
+            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
 
-            
-        ],
-        "background" :[
-            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
-            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
-            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
-            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
-            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" },
-            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" } 
-            
-        ],
-        "color_theme" : [
-            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
-            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
-            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" },
-            
-            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
-            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
-            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
-            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
-            { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
-            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
-            
-        ]
-       
-
-    },
-    "camera" : {
-        "featureTypes" : [ 
-       
-            { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
-            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
-            { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
-        ]
-       
-       
-    },
-    "parameter": {
-        "featureTypes" : [
             { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"},
-
-            { "name": "detailed",  "caption": "detailed",  "description":"How much to render the details" ,"image": "no"},
-            { "name": "resolution","caption": "resolution", "description":"Image resolution in pixels" ,"image": "no"},
-
-            { "name": "distance",      "caption": "distance" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
-            { "name": "lens",          "caption": "lens" , "alias":"angle of view, field of view" , "image": "no"},
-            { "name": "position",      "caption": "camera position" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "engine","caption": "render engine", "description":"" , "alias": "", "image": "no"}
           
-            { "name": "version","caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
-            { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
-            { "name": "seed","caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
-            { "name": "style",       "caption": "style" ,"prompt":"--style" ,      "description": "specified niji style" , "image": "no"},
-            { "name": "chaos",       "caption": "chaos" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
-            { "name": "quality","caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
-            { "name": "stylish","caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
-            { "name": "no","caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
-        "lighting" : [
-            { "name": "sun_light",         "caption": "sun light"    },
-            { "name": "nature_lighting",   "caption": "nature lighting"  },
-            { "name": "dramatic_lighting", "caption": "dramatic lighting"  },
-            { "name": "volumetric_lighting","caption": "volumetric lighting" },
+       
 
-            { "name": "morning_light",     "caption": "morning light"   },
-            { "name": "evening_light ",    "caption": "evening light"    },
-            { "name": "fire_light",        "caption": "fire light"    },
-            { "name": "dark_light ",       "caption": "dark light"    }  
-         ], 
         "detailed" : [
             { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
             { "name": "very_detailed",      "caption": "very detailed",  "prompt":"very detailed"   },
@@ -297,43 +239,113 @@
             { "name": "high_resolution", "caption": "high", "prompt":"high resolution" ,"alias":"HD,high definition"  },
             { "name": "super_resolution",  "caption": "super",   "prompt":"super resolution"   }
          ],
+         "lighting" : [
+            { "name": "sun_light",         "caption": "太阳光"    },
+            { "name": "nature_lighting",   "caption": "自然光"  },
+            { "name": "dramatic_lighting", "caption": "戏剧光"  },
+            { "name": "volumetric_lighting","caption": "立体光" }
+         ], 
+         "background" :[
+            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
+            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
+            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
+            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
+            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" },
+            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" }
+        ],
+        "color_theme" : [
+            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
+            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
+            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" }, 
+            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
+           
+            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
+            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
+            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
+            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
+        ],
+         "engine" : [
+            { "name": "octane_render",   "caption": "octane render" },
+            { "name": "unreal_engine",   "caption": "unreal engine" },
+            { "name": "c4d",             "caption": "C4D ", "description": "CINEMA 4D Render Engine" }
+         ]
+    },
+    "camera" : {
+        "featureTypes" : [ 
+            { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
+            { "name": "lens",          "caption": "镜头" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
+            { "name": "perspective",   "caption": "透视图" , "alias":"" , "image": "no"},
+            
+            { "name": "focal_length",  "caption": "焦距" , "alias":"" ,"image": "no"},
+            { "name": "aperture",      "caption": "光圈" , "alias":"" ,"image": "no"},
+            { "name": "iso",           "caption": "感光" , "alias":"" ,"image": "no"},
+            { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
+        ],
+        "distance" : [
+            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.discordapp.com/attachments/1105462185280426014/1107357416519106660/wanx_Under_the_blue_sky_stood_a_rocky_peak_towering_into_the_cl_fc163aca-c931-4de5-876d-aa022f8c2f0a.png"  },
+            { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.discordapp.com/attachments/1059548716312309871/1063504694539993148/Fhinou_extreme_long_shot_grainy_photo_of_a_wolf_in_the_middle_o_350f6a92-3626-4617-95d0-86dae22f19e9.png"  },
+            { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108334953919426741/NikahGeh_dates_fruit_Cinematic_Editorial_Photography_Photograph_662eff90-d5d7-455c-8037-1d7f61565547.png" },
 
-         "distance" : [
-            { "name": "long_shot", "caption": "" , "alias":"far shot,far view,far distance","image": "https://cdn.discordapp.com/attachments/1105462185280426014/1107357416519106660/wanx_Under_the_blue_sky_stood_a_rocky_peak_towering_into_the_cl_fc163aca-c931-4de5-876d-aa022f8c2f0a.png"  },
-            { "name": "extreme_long_shot", "caption": "" , "alias":"","image": "https://cdn.discordapp.com/attachments/1059548716312309871/1063504694539993148/Fhinou_extreme_long_shot_grainy_photo_of_a_wolf_in_the_middle_o_350f6a92-3626-4617-95d0-86dae22f19e9.png"  },
-            { "name": "depth_of_field",  "caption": "" , "alias":"DOF" ,  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1108334953919426741/NikahGeh_dates_fruit_Cinematic_Editorial_Photography_Photograph_662eff90-d5d7-455c-8037-1d7f61565547.png" },
-            { "name": "medium_shot",  "caption": "" , "alias":"medium view" ,  "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1108177910415769681/franco09_model_man_with_oversize_white_shirt_sitting_on_a_bench_13040c59-dadf-435b-becc-228711a328d2.png"  },
-            { "name": "close_shot",   "caption": "" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1108164558335520778/larspars_Modern_Realism._close_shot_of_a_thoughtful_young_woman_90de3005-3644-431d-8ce4-693873d50f31.png"  },
-            { "name": "close_up_shot","caption": "" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
-            { "name": "macro_shot",   "caption": "" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
-            { "name": "microscopic",  "caption": "" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
-        ], 
-         "lens": [
-            { "name": "wide_angle",      "caption": "wide angle" ,   "description":"" ,  "image": ""  },
-            { "name": "ultra_wide_angle","caption": "ultra wide angle" ,"alias":"extreme wide angle,super wide angle","image": ""},
-            { "name": "standard_lens",   "caption": "standard lens", "description":"" ,  "image": ""  },
-            { "name": "macro",  "caption": "macro" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
-            { "name": "super_macro",  "caption": "super macro" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png"  },
-            { "name": "narrow_angle",  "caption": "narrow angle" , "description":"" ,  "image": ""  },
-            { "name": "medium_angle",  "caption": "medium angle" , "description":"" ,  "image": ""  }
+            { "name": "soft_focus",  "caption": "软焦点" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1053397041088319568/1105366804316033055/52laohu_Disney_Pixar_CartoonA_very_lovely_boy_black_hair_glasse_997e8dbe-32df-4eca-8919-a401b9f73744.png" },
+
+            { "name": "medium_shot",  "caption": "中景" , "alias":"medium view" ,  "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1108177910415769681/franco09_model_man_with_oversize_white_shirt_sitting_on_a_bench_13040c59-dadf-435b-becc-228711a328d2.png"  },
+            { "name": "close_shot",   "caption": "近景" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1108164558335520778/larspars_Modern_Realism._close_shot_of_a_thoughtful_young_woman_90de3005-3644-431d-8ce4-693873d50f31.png"  },
+            { "name": "close_up_shot","caption": "特写" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571120242409472/1108060315779866644/Photacropher_Editorial_style_close_up_photograph_shot_on_Fujifi_d3af2783-ceb1-4ab0-96ed-6e1d44a813ef.png"  },
+            { "name": "macro_shot",   "caption": "微距" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/992890843851661442/1107594092378066964/ahmad_wemo_pattern_flower_macro_detail_wide_lens_symmetry_kalei_bbf43b23-f614-4287-974b-4392eae49632.png"  },
+            { "name": "microscopic",  "caption": "显微镜" , "alias":"" ,  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107501648705769562/Gastao_the_microscopic_view_of_surreal_skin_cells_in_cross_sect_51d9e018-1b4b-4771-9127-afe69eca73fc.png"  }
+        ],
+        "lens": [
+            { "name": "wide_angle",      "caption": "广角" ,   "description":"" ,  "image": ""  },
+            { "name": "ultra_wide_angle","caption": "超广角" ,  "alias":"extreme wide angle,super wide angle","image": ""},
+            { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
+            { "name": "macro",        "caption": "微距" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
+            { "name": "super_macro",  "caption": "" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png"  },
+            { "name": "narrow_angle", "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "medium_angle", "caption": "" , "description":"" ,  "image": ""  },
+            { "name": "fisheye", "caption": "fisheye" , "description":"" ,  "image": ""  },  
+            { "name": "tilt-shift_lens", "caption": "tilt-shift_lens" , "description":"" ,  "image": ""  }
         ],
         "position" : [
-            { "name": "front_view",    "caption": "" ,   "alias":"" ,  "image": ""  },
-            { "name": "back_view",     "caption": "" ,   "alias":"" ,  "image": ""  },
-            { "name": "side_view",     "caption": "" ,   "alias":"" ,  "image": ""  },
-            { "name": "top_view",      "caption": "" ,   "alias":"" ,  "image": ""  },
+            { "name": "front_view",    "caption": "前视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "back_view",     "caption": "后视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "side_view",     "caption": "侧视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "top_view",      "caption": "顶视图" ,   "alias":"" ,  "image": ""  },
 
-            { "name": "top_down_view","caption": "" , "alias":"" ,  "image": ""  },
-            { "name": "up_view",      "caption": "" ,     "alias":"" ,  "image": ""  },
-            { "name": "aerial_view",  "caption": "" ,   "alias":"" ,  "image": ""  },
-            { "name": "isometric",    "caption": "" ,   "alias":"" ,  "image": ""  },
+            { "name": "top_down_view","caption": "顶向下视图" , "alias":"" ,  "image": ""  },
+            { "name": "up_view",      "caption": "上视图" ,     "alias":"" ,  "image": ""  },
+            { "name": "aerial_view",  "caption": "空中视图" ,   "alias":"" ,  "image": ""  },
+            { "name": "isometric",    "caption": "等距视图" ,   "alias":"" ,  "image": ""  },
 
             { "name": "high_angle",       "caption": "高角度" ,   "alias":"" ,  "image": ""  },
             { "name": "low_angle",        "caption": "低角度" ,   "alias":"" ,  "image": ""  },
             { "name": "ants_eye_view",    "caption": "蚂蚁视角" ,   "alias":"" ,  "image": ""  },
             { "name": "ground_level_view", "caption": "地面视角" ,   "alias":"" ,  "image": ""  },
 
-            { "name": "birds_eye_view",    "caption": "鸟瞰视角" ,   "alias":"" ,  "image": ""  }
+            { "name": "birds_eye_view", "caption": "鸟瞰视角" ,   "alias":"" ,  "image": ""  }
+            
+        ],
+       
+        "camera_product" : [
+            { "name": "Canon_EOS_R5", "caption": "Canon EOS R5" },
+            { "name": "Nikon_D5",     "caption": "Nikon D5"     },
+            { "name": "Sony_A7R",     "caption": "Sony_A7R"     },
+            { "name": "DJI_Mavic_3",  "caption": "DJI Mavic 3"  },
+            { "name": "Canon_EOS_5D", "caption": "Canon EOS 5D" }
+
+           
+        ]
+    },
+    "parameter": {
+        "featureTypes" : [
+            { "name": "version",     "caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
+            { "name": "aspect_ratio","caption": "aspect ratio", "prompt":"--ar", "description":"The ratio of height to width of the image" , "image": "no"  },
+            { "name": "seed",        "caption": "seed", "prompt":"--seed" ,        "description":"Produce similar images on a specified image"  ,"image": "no"},
+            { "name": "style",       "caption": "style" ,"prompt":"--style" ,      "description": "specified niji style" , "image": "no"},
+            { "name": "chaos",       "caption": "chaos" ,  "prompt":"--chaos",     "description": "How unusual and unexpected  the image will be, 0 to 100, 0 is default" , "image": "no" },
+            { "name": "quality",     "caption": "quality", "prompt":"--q" ,        "description":"How much rendering quality time you want to spend" , "image": "no" },
+            { "name": "stylish",     "caption": "stylish" ,"prompt":"--stylize" , "description": "0-1000, default 100. The proximity of image to the style you specified" , "image": "no"},
+            { "name": "no",          "caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
         "version" : [
             { "name": "version_3", "caption": "v3", "prompt":"--v 3"   },
@@ -348,6 +360,7 @@
             { "name": "ar_16_9", "caption": "16:9", "prompt":"--ar 16:9"   },
             { "name": "ar_1_1", "caption": "1:1", "prompt":"--ar 1:1"   }
         ],
+        
         "seed" : [
             { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
          ],
@@ -359,7 +372,6 @@
             { "name": "style_raw",       "caption": "raw",   "prompt":"--style raw"     },
             { "name": "style_default",   "caption": "default",   "prompt":"--style default"     }
         ],
-        
         "chaos" : [
             { "name": "chaos_0",  "caption": "0", "prompt":"--chaos 0"     },
             { "name": "chaos_10", "caption": "10", "prompt":"--chaos 10"   },   
@@ -368,6 +380,7 @@
             { "name": "chaos_70", "caption": "70", "prompt":"--chaos 70"   },  
             { "name": "chaos_100","caption": "100", "prompt":"--chaos 100" }
         ],
+
         "quality" : [
             { "name": "quality_025", "caption": "0.25", "prompt":"--q 0.25"   },
             { "name": "quality_050", "caption": "0.5", "prompt":"--q 0.5"   },
@@ -375,9 +388,10 @@
             { "name": "quality_125", "caption": "1.25", "prompt":"--q 1.25"   },
             { "name": "quality_150", "caption": "1.5", "prompt":"--q 1.5"   },
             { "name": "quality_175", "caption": "1.75", "prompt":"--q 1.75"   },
-            { "name": "quality_200", "caption": "2", "prompt":"--q 2"   }
+            { "name": "quality_200", "caption": "2",    "prompt":"--q 2"   }
         ],
-     
+        
+
         "stylish" : [
             { "name": "stylish_0",   "caption": "0",   "prompt":"--s 0"     },
             { "name": "stylish_100", "caption": "100", "prompt":"--s 100"   },
