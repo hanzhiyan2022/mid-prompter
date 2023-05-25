@@ -1,9 +1,9 @@
 
 {
-    "file_name" : "Prompt features for Image prompter",
-    "version" : "1.0.2",
+    "file_name" : "Prompt features configure for Image prompter",
+    "version" : "1.0.3",
     "author" : "Ray Lee",
-    "date" : "2023-5-10",
+    "date" : "2023-5-20",
     "email" : "raykkncc@gmail.com",
     "dimension": [
         { "name": "subject",   "caption": "体裁",  "type":"" },
@@ -124,12 +124,14 @@
             { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
 
             { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
-          
+
             { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
 
-            { "name": "comic", "caption": "漫画书",      "type":"cartoon", "alias": "comics, comic book,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
-            { "name": "marvel_comic", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
+            { "name": "comic_book", "caption": "漫画书",      "type":"cartoon", "alias": "comic, comics,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
+
+            { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
+            
             { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
             { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
             { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
@@ -155,10 +157,17 @@
         "painting_form": [
             { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
             { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1097237429611675759/SwagQueen_watercolor_succulent_plants_and_Peony_flowers--no_tex_e319610f-c0db-4e8b-ace8-48c0df763f97.png" },
+
+            { "name": "gouache",        "caption": "水粉画",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269360133230622/kseethreepio_gouache_sunny_beach_campsite_looking_out_across_th_717a09cf-dd28-4ef1-908a-fd6920914b0f.png" },
+
             { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring book" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
+
             { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106863026214281316/smoothAIoperator_extremely_simple_cartoon_colouring_page_plane_a5a005af-804e-43d5-a43d-bb2bef73ac0e.png" },
             { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
             { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
+
+
+
             { "name": "collage",  "caption": "拼接画", "type":"painting_form", "alias": "abstract collage","image":  "https://cdn.discordapp.com/attachments/1072899954525356072/1107047092951724162/loljoi_simple_cartoon_flower_and_leaf_collage_with_transparent__b79df701-85fe-4274-a518-e48157b438b4.png" },
             
 
@@ -167,20 +176,31 @@
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
             { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png" },
             { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" },
+            
+           
+            
             { "name": "ASCII_art",        "caption": "ASCII艺术",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1055259701408972911/NicoBellic_ASCII-Art_of_a_man_with_dreadlocks_european_with_bea_87e4267b-f795-4e53-983f-6577c6e222a0.png" },
         
             { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [
+            { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
+            
             { "name": "realistic",    "caption": "写实", "type":"painting_style", "alias": "realism" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
            
-            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104351907151106078/chia_mayon_volcano_impressionism_painting_by_van_gogh_e63202df-e0f8-48ac-a929-a0458929a996.png" },
-            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
             { "name": "abstraction", "caption": "抽象", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1044046333033582693/1104150871362773142/xyzy_oil_painting_fine_art_beatiful_flowing_brushstrokes_contem_68f69f9f-a32b-4a49-ba5c-a146b7277b79.png" },
-            { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
+
+            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104351907151106078/chia_mayon_volcano_impressionism_painting_by_van_gogh_e63202df-e0f8-48ac-a929-a0458929a996.png" },
+
             { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"},
 
+            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
+         
+            { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
+          
+
             { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
+
             { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906077176336464/VintedxSo_Frame_floral_foliage_plant_shapes__Subjectcolorful_fl_6709f355-1084-407f-b379-7f7129c84bab.png" },
 
             { "name": "cubism", "caption": "立体主义", "type":"painting_style", "alias": "cubist,cubistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1107209231997878332/coffeebuffed_trompe_loeil_orchid_cubism_origami_68741bf4-af04-42b0-97d0-d1502174e6dd.png" }
