@@ -111,7 +111,8 @@
             { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1094808688927182878/JurassicEl_minimalistic_interior_entry_with_decorative_moldings_79fd4a86-c561-4128-8d2f-efc20e2680eb.png" },
             { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
            
-            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104691921139552306/walid_boudalia_walid_boudalia_picture_of_future_clipart_053c1165-b888-4aa2-9452-39a52c46faf0.png" },
+            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/989274745495240734/1111259690198913154/Sandalphon_depict_a_futuristic_house_that_uses_sacred_geometry__78f6b940-b6be-44de-890c-33f627e2446d.png" },
+
             { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" },
             { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png" } ,
 
@@ -131,7 +132,7 @@
             { "name": "comic_book", "caption": "漫画书",      "type":"cartoon", "alias": "comic, comics,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
 
             { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
-            
+
             { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
             { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
             { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
@@ -437,11 +438,14 @@
             { "name": "version_5.1","caption": "v5.1", "prompt":"--v 5.1"   }
         ],
         "aspect_ratio" : [
-            { "name": "ar_2_3", "caption": "2:3", "prompt":"--ar 2:3"   },
-            { "name": "ar_3_2", "caption": "3:2", "prompt":"--ar 3:2"   },
-            { "name": "ar_9_16","caption": "9:16", "prompt":"--ar 9:16"   },
+            { "name": "ar_2_3",  "caption": "2:3", "prompt":"--ar 2:3"   },
+            { "name": "ar_3_2",  "caption": "3:2", "prompt":"--ar 3:2"   },
+            { "name": "ar_9_16", "caption": "9:16", "prompt":"--ar 9:16"   },
             { "name": "ar_16_9", "caption": "16:9", "prompt":"--ar 16:9"   },
-            { "name": "ar_1_1", "caption": "1:1", "prompt":"--ar 1:1"   }
+            { "name": "ar_1_1",  "caption": "1:1", "prompt":"--ar 1:1"   },
+            { "name": "ar_16_9", "caption": "3:4", "prompt":"--ar 3:4"   },
+            { "name": "ar_16_9", "caption": "4:3", "prompt":"--ar 4:3"   },
+            { "name": "ar_16_9", "caption": "8:7", "prompt":"--ar 8:7"   }
         ],
         
         "seed" : [
@@ -467,11 +471,7 @@
         "quality" : [
             { "name": "quality_025", "caption": "0.25", "prompt":"--q 0.25"   },
             { "name": "quality_050", "caption": "0.5", "prompt":"--q 0.5"   },
-            { "name": "quality_100", "caption": "1", "prompt":"--q 1"   },
-            { "name": "quality_125", "caption": "1.25", "prompt":"--q 1.25"   },
-            { "name": "quality_150", "caption": "1.5", "prompt":"--q 1.5"   },
-            { "name": "quality_175", "caption": "1.75", "prompt":"--q 1.75"   },
-            { "name": "quality_200", "caption": "2",    "prompt":"--q 2"   }
+            { "name": "quality_100", "caption": "1", "prompt":"--q 1"   }
         ],
         
 

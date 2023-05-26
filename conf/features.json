@@ -384,11 +384,7 @@
         "quality" : [
             { "name": "quality_025", "caption": "0.25", "prompt":"--q 0.25"   },
             { "name": "quality_050", "caption": "0.5", "prompt":"--q 0.5"   },
-            { "name": "quality_100", "caption": "1", "prompt":"--q 1"   },
-            { "name": "quality_125", "caption": "1.25", "prompt":"--q 1.25"   },
-            { "name": "quality_150", "caption": "1.5", "prompt":"--q 1.5"   },
-            { "name": "quality_175", "caption": "1.75", "prompt":"--q 1.75"   },
-            { "name": "quality_200", "caption": "2",    "prompt":"--q 2"   }
+            { "name": "quality_100", "caption": "1", "prompt":"--q 1"   }
         ],
         
 
