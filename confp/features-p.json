@@ -62,6 +62,23 @@
             { "name": " exhibition_design",  "caption": "展台设计", "type" : "design", "alias": "exhibition booth design, exhibition stand design", "image": "https://cdn.discordapp.com/attachments/997224874214965268/1096392050255085568/arazerbaijan_big_rectangle_creative_exhibition_booth_design_for_cc5a0685-8cad-4bc7-8873-4eb370972f18.png" }
             
         ],
+        "landscape" : [
+            { "name": "landscape",   "caption": "风景", "type" : "landscape",  "alias": "" ,  "image":"https://cdn.midjourney.com/00397ab6-ebbb-4727-85be-3a137c1ef88b/0_0.png" },
+            { "name": "countryside", "caption": "乡村", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/6b68a8a8-5f59-401e-b532-af399a3ba690/0_1.png" },
+            { "name": "mountains",   "caption": "山峰", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/19ca3d17-509a-4869-a39c-4c5e9e57cec0/0_0.png" },
+            { "name": "forest", "caption": "森林", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/32d7dfac-5769-4909-97a2-cdc1287528ac/0_1.png" },
+
+            { "name": "river",   "caption": "河流", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/8f0a66bc-c99e-4c32-8668-ff0fa1c3f4c6/0_2.png" },
+            { "name": "beach",  "caption": "海滩", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/a70ed2b7-fd09-4e44-9742-249068278748/0_0.png" },
+            { "name": "lake",   "caption": "湖泊", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/508f7c41-0d16-4b41-bbb3-8e10acd05cca/0_2.png" },  
+            { "name": "canyon",   "caption": "峡谷", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/c8f5a87a-a8a1-45db-8ad6-d9a1b21648a1/0_0.png" },
+     
+
+            { "name": "valley",   "caption": "山谷", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/db22bb2c-3b6c-486d-a22d-230e499353bd/0_1.png" },
+            { "name": "snow_landscape",   "caption": "雪景", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/e4a55aa8-9f50-49f2-998a-566e7cd57ff8/0_1.png" },
+            { "name": "cliff",   "caption": "悬崖", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/5d31f55f-fccc-41f2-a2aa-5cefb3555223/0_2.png" },
+            { "name": "desert",   "caption": "沙漠", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/85f355c2-dbde-451b-bd9d-12d74fd135b5/0_1.png" }
+        ],
         "scene" : [
             { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/6be180ba-0946-4b64-9c0f-6cfed014cb85/0_0.png" },
             { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/6a395965-8ee4-4bf9-8d29-911e082e59dc/0_3.png" },
@@ -73,23 +90,8 @@
             { "name": "adventure_scene",   "caption": "探险场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/acae1920-6fc2-4a41-a892-8a07bde826ce/0_0.png" },        
             { "name": "mysterious_scene",   "caption": "神秘场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/3d43aaf3-bb82-4523-8384-0770f3a7f9a6/0_2.png" }
 
-        ],
-        "landscape" : [
-            { "name": "landscape",   "caption": "风景", "type" : "landscape",  "alias": "" ,  "image":"https://cdn.midjourney.com/00397ab6-ebbb-4727-85be-3a137c1ef88b/0_0.png" },
-            { "name": "countryside", "caption": "乡村", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/6b68a8a8-5f59-401e-b532-af399a3ba690/0_1.png" },
-            { "name": "mountains",   "caption": "山峰", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/19ca3d17-509a-4869-a39c-4c5e9e57cec0/0_0.png" },
-            { "name": "river",   "caption": "河流", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/8f0a66bc-c99e-4c32-8668-ff0fa1c3f4c6/0_2.png" },
-           
-            
-            { "name": "forest", "caption": "森林", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/32d7dfac-5769-4909-97a2-cdc1287528ac/0_1.png" },
-            { "name": "beach",  "caption": "海滩", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/a70ed2b7-fd09-4e44-9742-249068278748/0_0.png" },
-            { "name": "canyon",   "caption": "峡谷", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/c8f5a87a-a8a1-45db-8ad6-d9a1b21648a1/0_0.png" },
-            { "name": "lake",   "caption": "湖泊", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/c4df8fc7-ce8b-4616-a3a2-9af533e93ccb/0_2.png" },  
-
-            { "name": "valley",   "caption": "山谷", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/db22bb2c-3b6c-486d-a22d-230e499353bd/0_1.png" },
-            { "name": "desert",   "caption": "沙漠", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/85f355c2-dbde-451b-bd9d-12d74fd135b5/0_1.png" }
-
         ]
+       
     },
     "style": {
         "featureTypes" :   [
