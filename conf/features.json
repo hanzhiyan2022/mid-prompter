@@ -193,24 +193,29 @@
             { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" }
         ],
         "painting_style" : [
+            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.midjourney.com/903a5bea-1d09-4366-a25a-652e5b7eb422/0_2.png" },
+
             { "name": "realism",    "caption": "写实主义", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
            
-            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104351907151106078/chia_mayon_volcano_impressionism_painting_by_van_gogh_e63202df-e0f8-48ac-a929-a0458929a996.png" },
             { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
             { "name": "abstraction", "caption": "抽象", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1044046333033582693/1104150871362773142/xyzy_oil_painting_fine_art_beatiful_flowing_brushstrokes_contem_68f69f9f-a32b-4a49-ba5c-a146b7277b79.png" },
             { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
             { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"},
 
             { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
-            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "abstract expressionism" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906077176336464/VintedxSo_Frame_floral_foliage_plant_shapes__Subjectcolorful_fl_6709f355-1084-407f-b379-7f7129c84bab.png" },
+            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "https://cdn.midjourney.com/aa374317-4d15-4d5f-b892-0892b3dfc472/0_1.png" },
 
             { "name": "cubism", "caption": "立体主义", "type":"painting_style", "alias": "cubist,cubistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1107209231997878332/coffeebuffed_trompe_loeil_orchid_cubism_origami_68741bf4-af04-42b0-97d0-d1502174e6dd.png" }
             
         ],
         "artist": [
                { "name": "Van_Gogh_style",       "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png" },
+               { "name": "Claude_Monet_style", "caption": "莫奈风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/903a5bea-1d09-4366-a25a-652e5b7eb422/0_2.png" },
+
                { "name": "Picasso_style", "caption": "Picasso", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.discordapp.com/attachments/1026630987750322216/1106521253654827018/jezocoh_a_lof_of_human_faces_6fe0beae-099e-46d6-8153-b715abb3c412.png" },
+
                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" },
+               
                { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
               
                { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png"},
