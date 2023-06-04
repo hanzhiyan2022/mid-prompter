@@ -47,22 +47,19 @@
             { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1107312119927558255/Fourloko.crypto_crossfit_sneakerslogo_stylewhite_backgroundflat_550e80a7-ea36-4dbd-a8f7-a895a8353ec2.png" },
             { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1106802224253894666/DT_starfish_app_icon_logo_for_a_social_media_company_simple_har_164de9ff-5d01-4a75-9d5a-23c12ef15c6c.png" },
             { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106918490826362910/hisoka9794_text_abm_creatives_5e93e89f-89b2-48d2-b70e-fdef984bd50f.png" },
+
             { "name": "t-shirt_design",         "caption": "T恤设计",      "type" : "design",  "alias": "t-shirt pattern" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
             { "name": "clothing_design",         "caption": "服装设计",      "type" : "design",  "alias": "clothes" , "image":"https://media.discordapp.net/attachments/945077390839787570/1109617615376240680/la_SHEIN_Model_moebius_strip_clothing_design_ef5390c4-eb06-44be-b624-3c935c4970ac.png" },
             { "name": "car",  "caption": "汽车", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106862262037270549/smoothAIoperator_white_stylish_coupe_with_fancy_wheels_5b7ad2db-004f-4aaf-8580-bc2eb2deffc4.png"},
             { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
+            
             { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1038329663187062804/1104544748489941112/Ailnoth_a_clean_and_modern_apartment_in_the_city_centre_in_the__cf5643c4-bcf7-4e8f-bc4a-4e060fea4433.png"},
             { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
+          
             { "name": "sticker",  "caption": "贴纸", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106266723180621948/ega_A_peeker_sticker_a_front_facing_headshot_portrait_of_a_fren_879945a9-0116-40ca-ab0f-0393cd8c3347.png" },
-
-            { "name": "pattern_design",  "caption": "图案设计", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106776142058377216/aprilmay_mudcloth_pattern_from_Mali_c1341f96-8c04-4ab3-8784-f052a6d870a8.png" },
-
-            { "name": "seamless_pattern",  "caption": "无缝图案", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1110141300826710098/Balloonalley_cute_rabbits_in_a_forrest_setting_seamless_pattern_d55eaa36-f486-48b4-94b6-6b87c1d8beb7.png" },
+            { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/35c7b734-68f3-48bc-a49a-1f9349985643/0_1.png" }, 
             
-
-            { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" },
             { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" },
-
             { "name": "web_ui_ux",  "caption": "web界面", "type" : "design", "alias": "web UI/UX", "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1107217786519953428/acidnico_Stunning_web_design_UIUX_for_the_landing_page_of_an_im_266cffd7-4451-4883-a056-5c2d9a813591.png" },
 
             { "name": "phone_ui_ux",  "caption": "手机界面", "type" : "design", "alias": "phone UI/UX", "image": "https://cdn.discordapp.com/attachments/1027497645050167336/1061529045797441637/Steam_Bun_Invasion_high_quality_image_of_gaming_app_white_iphon_f4e6066f-d96d-4238-beec-cad92e03a56d.png" },

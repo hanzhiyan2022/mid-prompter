@@ -1,9 +1,9 @@
 
 {
     "file_name" : "Prompt features configure for Image prompter",
-    "version" : "1.0.3",
+    "version" : "1.0.5",
     "author" : "Ray Lee",
-    "date" : "2023-5-20",
+    "date" : "2023-6-1",
     "email" : "raykkncc@gmail.com",
     "dimension": [
         { "name": "subject",   "caption": "体裁",  "type":"" },
@@ -55,12 +55,8 @@
             { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
             { "name": "sticker",  "caption": "贴纸", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106266723180621948/ega_A_peeker_sticker_a_front_facing_headshot_portrait_of_a_fren_879945a9-0116-40ca-ab0f-0393cd8c3347.png" },
 
-            { "name": "pattern_design",  "caption": "图案设计", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106776142058377216/aprilmay_mudcloth_pattern_from_Mali_c1341f96-8c04-4ab3-8784-f052a6d870a8.png" },
+            { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/35c7b734-68f3-48bc-a49a-1f9349985643/0_1.png" },
 
-            { "name": "seamless_pattern",  "caption": "无缝图案", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1110141300826710098/Balloonalley_cute_rabbits_in_a_forrest_setting_seamless_pattern_d55eaa36-f486-48b4-94b6-6b87c1d8beb7.png" },
-            
-
-            { "name": "blueprint",  "caption": "设计草图", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106719119895699466/JustinCerniuk_grunge_blueprint_for_a_gear_machine_v_5_b5e13429-2e80-44d9-9563-48a1d15f4156.png" },
             { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" },
 
             { "name": "web_ui_ux",  "caption": "web界面", "type" : "design", "alias": "web UI/UX", "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1107217786519953428/acidnico_Stunning_web_design_UIUX_for_the_landing_page_of_an_im_266cffd7-4451-4883-a056-5c2d9a813591.png" },
