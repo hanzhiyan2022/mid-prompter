@@ -69,7 +69,7 @@
             { "name": " exhibition_design",  "caption": "展台设计", "type" : "design", "alias": "exhibition booth design, exhibition stand design", "image": "https://cdn.discordapp.com/attachments/997224874214965268/1096392050255085568/arazerbaijan_big_rectangle_creative_exhibition_booth_design_for_cc5a0685-8cad-4bc7-8873-4eb370972f18.png" }
             
         ],
-        "scence" : [
+        "scene" : [
             { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/6be180ba-0946-4b64-9c0f-6cfed014cb85/0_0.png" },
 
             { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1109490275161743474/1110963836619591691/raykkncc_Elon_Musk_as_a_superhero_in_a_battle__action_scene_gra_2af06900-cfae-4dcf-a6be-53a86614cd72.png" },
