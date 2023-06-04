@@ -224,8 +224,8 @@
     },
     "artist" : {
         "featureTypes" : [
-            { "name": "classic_artist", "caption":"古典艺术家",  "description":"" ,"image": "" },
-            { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "" }
+            { "name": "classic_artist", "caption":"古典艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/85cdafbe-c7a9-4633-8fc0-bc8f1431ceca/0_2.png" },
+            { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/ad758111-59b9-41ec-8e0e-c2bb5d8bd1b1/0_1.png" }
         ],
         "classic_artist" : [
                 { "name": "Van_Gogh_style",    "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png" },
