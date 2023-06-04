@@ -108,7 +108,7 @@
         ],
         "photo" : [
             { "name": "photo",       "caption": "照片",     "type":"photo", "alias": "real, real photo" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
-            { "name": "realistic",   "caption": "写实主义", "type":"photo",  "alias": "realism, realistic style" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png" },
+            { "name": "realistic",   "caption": "写实", "type":"photo",  "alias": "realism, realistic style" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png" },
             { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
 
             { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
@@ -144,7 +144,7 @@
         
         ],
         "cartoon": [
-            { "name": "2d_cartoon", "caption": "2D卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
+            { "name": "cartoon", "caption": "卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
             { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
 
             { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
@@ -156,9 +156,11 @@
 
             { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
 
+            { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
+            
             { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
             { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.discordapp.com/attachments/989265640869204028/1101010163185487912/pepperoni-pizza_A_big_tree_is_planted_and_a_small_green_rabbit__ff67a335-b47b-4e5a-ba96-f6cc07620b10.png" }
+            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png" }
           
         ],
         "illustration" : [
@@ -208,9 +210,8 @@
             { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [
-            { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
-            
-            { "name": "realistic",    "caption": "写实", "type":"painting_style", "alias": "realism" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
+        
+            { "name": "realism",    "caption": "写实主义", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
            
             { "name": "abstraction", "caption": "抽象", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1044046333033582693/1104150871362773142/xyzy_oil_painting_fine_art_beatiful_flowing_brushstrokes_contem_68f69f9f-a32b-4a49-ba5c-a146b7277b79.png" },
 
@@ -236,7 +237,7 @@
                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" },
                { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
               
-               { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1078967091836760085/eigenfury_a_car_in_a_clean_setting_with_bright_sunlight_childre_90b7e0c7-298d-4660-9243-afb59ce086a8.png"},
+               { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png"},
                { "name": "Peaky_Blinders_style", "caption": "Peaky Blinders", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104053219094708224/Swissrock_Lion_in_Peaky_Blinders_Style_55e23fdb-b016-4815-88c7-a5c85dd272e1.png" },
                { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1074181094229934140/1104707184035643392/Cassia_visualize_hand-draw_illustration_by_Tim_Burton_style_wit_fc8319dc-4616-45f7-8f40-2f0ba152780c.png" },
                { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106583801989169232/Vladimir_Badenov__painting_by_Salvador_Dali_db30d934-d7fd-4b60-9fda-5b7a25452b3d.png" },
