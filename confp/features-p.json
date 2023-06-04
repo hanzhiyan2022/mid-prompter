@@ -18,10 +18,10 @@
             { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1097992276753518733/Volthurno_subjectmuscular_womanblonde_braidvikingValkyrieleathe_d85ce86e-3020-40af-8340-485b00500f37.png" },  
             { "name": "design", "caption": "设计",   "alias": "business design", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },   
             { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.discordapp.com/attachments/1014157453824376835/1061390663943475220/Antonio9238445_paradise_lauterbrunnen_valley_wengen_eiger_summe_1ec87fca-4c34-4a3d-9c20-af2754a156a8.png" },   
-         
+            { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104413771901972520/thiemo_Power_to_the_merchants_dad0d1c2-c33f-405c-ad2e-099e24bbbda9.png"  },
+
             { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
-            { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  },     
-            { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104413771901972520/thiemo_Power_to_the_merchants_dad0d1c2-c33f-405c-ad2e-099e24bbbda9.png"  }
+            { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
         ],
         "figure" : [
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png" }, 
@@ -71,20 +71,13 @@
         ],
         "scene" : [
             { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/6be180ba-0946-4b64-9c0f-6cfed014cb85/0_0.png" },
-
-            { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1109490275161743474/1110963836619591691/raykkncc_Elon_Musk_as_a_superhero_in_a_battle__action_scene_gra_2af06900-cfae-4dcf-a6be-53a86614cd72.png" },
+            { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/6a395965-8ee4-4bf9-8d29-911e082e59dc/0_3.png" },
             { "name": "battle_scene",    "caption": "战斗场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/419e3a10-41b9-47b1-92bc-ba285ea6cc8d/0_1.png" },
-
-            { "name": "romantic_scene",   "caption": "浪漫场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/419e3a10-41b9-47b1-92bc-ba285ea6cc8d/0_1.png" },
-
-            { "name": "dialogue_scene",   "caption": "对话场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/c7949249-05c6-4ac5-be29-c36263e2c85d/0_2.png" },
-
-            { "name": "outdoor_scene",   "caption": "户外场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/e16a7327-f956-4230-8096-0aaf3dbc4d0f/0_1.png" },
+            { "name": "family_scene",   "caption": "家庭场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/41f9e835-1ccb-435d-a1a3-4394c322956b/0_3.png" },
             
-            { "name": "indoor_scene",   "caption": "室内场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/15ea975e-0742-4fbb-ab24-d99062c3ca92/0_1.png" },
-           
-            { "name": "adventure_scene",   "caption": "探险场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/acae1920-6fc2-4a41-a892-8a07bde826ce/0_0.png" },
-         
+            { "name": "romantic_scene",   "caption": "浪漫场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/f3dd619e-9bb5-41d2-84f8-69e1e55ea8be/0_0.png" },
+            { "name": "dialogue_scene",   "caption": "对话场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/c7949249-05c6-4ac5-be29-c36263e2c85d/0_2.png" },          
+            { "name": "adventure_scene",   "caption": "探险场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/acae1920-6fc2-4a41-a892-8a07bde826ce/0_0.png" },        
             { "name": "mysterious_scene",   "caption": "神秘场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/3d43aaf3-bb82-4523-8384-0770f3a7f9a6/0_2.png" }
 
         ],
