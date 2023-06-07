@@ -16,7 +16,7 @@
 
     "subject": {
         "featureTypes" : [
-            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1097992276753518733/Volthurno_subjectmuscular_womanblonde_braidvikingValkyrieleathe_d85ce86e-3020-40af-8340-485b00500f37.png" },  
+            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/057defa9-51fb-4301-97ec-fd29253018c8/0_3_384_N.webp" },  
             { "name": "design", "caption": "设计",   "alias": "business design", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },   
             { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.discordapp.com/attachments/1014157453824376835/1061390663943475220/Antonio9238445_paradise_lauterbrunnen_valley_wengen_eiger_summe_1ec87fca-4c34-4a3d-9c20-af2754a156a8.png" },   
             { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104413771901972520/thiemo_Power_to_the_merchants_dad0d1c2-c33f-405c-ad2e-099e24bbbda9.png"  },
@@ -25,9 +25,9 @@
             { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
         ],
         "figure" : [
-            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1097992299985776691/Gwen-Hrq_Face_marked_by_years_and_trials_white_hair_and_beard_a_df614903-0b45-4247-8c2f-d10b8b7e3d03.png" }, 
-            { "name": "avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1107663913237094460/1107687905893302292/sararush_simple_avatar_pixar_3d_rendering_a_pretty_boy_18years__cfc15682-eda4-4ea6-a203-79fab7973fb0.png" },
-            { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.discordapp.com/attachments/1014464667017555998/1107296165403316254/yuval_lev_selfie_photograph_of_Theodor_Herzl_looks_down_on_the__0a16e615-9bb5-4e4d-92d6-daa4e3ea3a13.png" },
+            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/057defa9-51fb-4301-97ec-fd29253018c8/0_3_384_N.webp" }, 
+            { "name": "personal_avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/df6fe931-f1bf-4be3-8b73-543814eb1a20/0_3_384_N.webp" },
+            { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.midjourney.com/981d20fd-cfec-4913-9272-21b084b4e3c6/0_1_384_N.webp" },
             { "name": "headshot",   "caption": "头像照",   "type" : "figure",  "alias": "","image": "https://cdn.midjourney.com/44f703d8-2292-4314-ba50-c8d3fe50d5ea/0_0.png" },
 
             { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1106579992407711794/mslnyang_Galadriel_wearing_an_elegant_royal_gown_standing_in_a__b08b994d-d548-427a-a932-107d3675fd41.png"}, 
@@ -262,8 +262,8 @@
                 { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" }
         ],
         "modern_artist" : [
-            { "name": "Picasso_style", "caption": "Picasso", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.discordapp.com/attachments/1026630987750322216/1106521253654827018/jezocoh_a_lof_of_human_faces_6fe0beae-099e-46d6-8153-b715abb3c412.png" },
-            
+            { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.discordapp.com/attachments/1026630987750322216/1106521253654827018/jezocoh_a_lof_of_human_faces_6fe0beae-099e-46d6-8153-b715abb3c412.png" },
+
             { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
                
             { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png"},
