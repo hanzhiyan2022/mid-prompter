@@ -16,7 +16,7 @@
 
     "subject": {
         "featureTypes" : [
-            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/057defa9-51fb-4301-97ec-fd29253018c8/0_3_384_N.webp" },  
+            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" },  
             { "name": "design", "caption": "设计",   "alias": "business design", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },   
             { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.discordapp.com/attachments/1014157453824376835/1061390663943475220/Antonio9238445_paradise_lauterbrunnen_valley_wengen_eiger_summe_1ec87fca-4c34-4a3d-9c20-af2754a156a8.png" },   
             { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104413771901972520/thiemo_Power_to_the_merchants_dad0d1c2-c33f-405c-ad2e-099e24bbbda9.png"  },
@@ -25,17 +25,17 @@
             { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
         ],
         "figure" : [
-            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/057defa9-51fb-4301-97ec-fd29253018c8/0_3_384_N.webp" }, 
+            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" }, 
             { "name": "personal_avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/df6fe931-f1bf-4be3-8b73-543814eb1a20/0_3_384_N.webp" },
             { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.midjourney.com/981d20fd-cfec-4913-9272-21b084b4e3c6/0_1_384_N.webp" },
-            { "name": "headshot",   "caption": "头像照",   "type" : "figure",  "alias": "","image": "https://cdn.midjourney.com/44f703d8-2292-4314-ba50-c8d3fe50d5ea/0_0.png" },
+            { "name": "headshot",   "caption": "头像照",   "type" : "figure",  "alias": "","image": "https://cdn.midjourney.com/44f703d8-2292-4314-ba50-c8d3fe50d5ea/0_0_640_N.webp" },
 
-            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1106579992407711794/mslnyang_Galadriel_wearing_an_elegant_royal_gown_standing_in_a__b08b994d-d548-427a-a932-107d3675fd41.png"}, 
-            { "name": "profile",   "caption": "侧像",   "type" : "figure",  "alias": "side view","image":"https://cdn.discordapp.com/attachments/945077390839787570/1103602941589454908/Aleksey_Shmatko_dot_matrix_art_left_profile_baroness_portrait_o_0abe1fcc-c9d8-4d72-882e-5621e91f3a8c.png" },  
+            { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.midjourney.com/68527a32-1b19-45ac-8cde-2c8d046f5057/0_2_384_N.webp"}, 
+            { "name": "profile",   "caption": "侧面像",   "type" : "figure",  "alias": "side view","image":"https://cdn.midjourney.com/f1504c76-26d1-4d40-9290-c9c719889beb/0_0_384_N.webp" },  
          
-            { "name": "close_up",   "caption": "特写",   "type" : "figure",  "alias": "close up shot" ,"image": "https://cdn.discordapp.com/attachments/1068732441029791825/1106985710461911131/Timo_an_incredible_detailed_close_up_macro_shot_of_a_blonde_fem_f64813d7-20f1-48f1-90a3-7dc4d773d283.png" },
+            { "name": "close_up",   "caption": "特写",   "type" : "figure",  "alias": "close up shot" ,"image": "https://cdn.midjourney.com/33942e0b-f0d3-4165-bfbe-4c789f827b28/0_2_384_N.webp" },
 
-            { "name": "character",   "caption": "角色",   "type" : "figure",  "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1109060510315454515/SULTAN_cute_man_2D_character._He_is_holding_computer_d85ae6a5-4f36-4609-95e3-1a1cfaa6e8e7.png" },
+            { "name": "character",   "caption": "角色",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/623befea-2a3f-4851-b259-1aaba3754676/0_1_384_N.webp" },
 
             { "name": "caricature",   "caption": "人物漫画",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/243708b8-b6a4-4f15-9b67-b9d0dfea56a5/0_0.png" }
             
