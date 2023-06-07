@@ -26,7 +26,7 @@
         ],
         "figure" : [
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" }, 
-            { "name": "personal_avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/df6fe931-f1bf-4be3-8b73-543814eb1a20/0_3_384_N.webp" },
+            { "name": "personal_avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/825149a9-3aba-452b-a0fe-1171329f1d07/0_1_384_N.webp" },
             { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.midjourney.com/981d20fd-cfec-4913-9272-21b084b4e3c6/0_1_384_N.webp" },
             { "name": "headshot",   "caption": "头像照",   "type" : "figure",  "alias": "","image": "https://cdn.midjourney.com/44f703d8-2292-4314-ba50-c8d3fe50d5ea/0_0_640_N.webp" },
 
@@ -37,7 +37,7 @@
 
             { "name": "character",   "caption": "角色",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/623befea-2a3f-4851-b259-1aaba3754676/0_1_384_N.webp" },
 
-            { "name": "caricature",   "caption": "人物漫画",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/243708b8-b6a4-4f15-9b67-b9d0dfea56a5/0_0.png" }
+            { "name": "caricature",   "caption": "人物漫画",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/16a97f69-e854-46cd-9f45-17e06c6509a8/0_1_384_N.webp" }
             
         ],
         "design" : [
