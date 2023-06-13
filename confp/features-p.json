@@ -112,10 +112,12 @@
         ],
         "photo" : [
             { "name": "photo",       "caption": "照片",     "type":"photo", "alias": "real, real photo" , "image":"https://cdn.midjourney.com/9d8dedae-a095-40bb-b774-72e412aa7cf0/0_2_384_N.webp" },
-            { "name": "realistic",   "caption": "写实", "type":"photo",  "alias": "https://cdn.midjourney.com/f34b3424-c104-41b5-9ce0-4307695aab9a/0_1_384_N.webp" },
+            { "name": "realistic",   "caption": "写实", "type":"photo",  "alias": "https://cdn.midjourney.com/61beaf87-b34f-4799-8f0a-7447304ea315/0_2_384_N.webp" },
             { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.midjourney.com/4b5cd3ca-611d-4606-8cc0-aa0bedbd5f85/0_1_384_N.webp"  },
-            { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
+            { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/db5c7651-8825-4362-84d5-9fd5b73d2150/0_0_384_N.webp" },
 
+            { "name": "commercial_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/db5c7651-8825-4362-84d5-9fd5b73d2150/0_0_384_N.webp" },
+            
             { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/0021da50-87c5-43cd-9a4e-32d057ee71a6/0_3_384_N.webp" },
 
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.midjourney.com/60027e2b-5e07-4819-9d4f-e0e794288502/0_2_384_N.webp"  },
@@ -175,19 +177,18 @@
 
             { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.midjourney.com/a1cc4779-c7a7-41a4-8640-24fae67fd7ca/0_2_384_N.webp" },  
             
+            { "name": "digital_illustration", "caption": "数字插画",     "type":"illustration", "alias":"", "image": "https://cdn.midjourney.com/283d084f-856d-49eb-b1f0-51887a9e768b/0_2_384_N.webp"},
+
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" },
 
             { "name": "scientific_illustration", "caption": "科学插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104703363699974214/Warden1999_Generate_a_scientific_illustration_of_bulky_tumor_ti_2a0c2fb9-2942-4239-a249-7e4ae41d1e62.png"},
 
-            { "name": "digital_illustration", "caption": "数字插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/968967076100325496/1102539088151707719/npnpnp000_Gothic_architecture_flying_in_the_sky_Radiolariafract_f3ed3079-da63-47c7-a700-1bbe631504b8.png"},
-
             { "name": "cartoon_illustration", "caption": "卡通插画",     "type":"illustration", "alias":"", "image":" https://cdn.discordapp.com/attachments/1054162799988834314/1104387014666768426/mangosago_vibrant_old_people_in_nursing_homegreen_plants_are_ev_dcafd6b5-7310-4489-b576-d31f92991bbb.png" }
            
-
           ],
         "painting_form": [
             { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
-            { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1097237429611675759/SwagQueen_watercolor_succulent_plants_and_Peony_flowers--no_tex_e319610f-c0db-4e8b-ace8-48c0df763f97.png" },
+            { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.midjourney.com/ba0c845a-0906-44f4-96a8-8ddfb561378e/0_2_384_N.webp" },
 
             { "name": "gouache",        "caption": "水粉画",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269360133230622/kseethreepio_gouache_sunny_beach_campsite_looking_out_across_th_717a09cf-dd28-4ef1-908a-fd6920914b0f.png" },
 
