@@ -149,17 +149,17 @@
         
         ],
         "cartoon": [
-            { "name": "cartoon", "caption": "卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
-            { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
+            { "name": "cartoon", "caption": "卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.midjourney.com/675b8256-4f83-42b5-8047-def530eb13e6/0_2_640_N.webp" },
+            { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.midjourney.com/958e4c7b-bfb0-4258-aaca-4d229772a879/0_0_640_N.webp" },
 
             { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
 
-            { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
-            { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
+            { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.midjourney.com/25cc6143-c0e5-4afe-a579-9eddf8d0f484/0_0_640_N.webp" },
+            { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.midjourney.com/bb7d8942-fb2a-425b-a694-db5cc6eca188/0_0_640_N.webp" },
 
-            { "name": "comic_book", "caption": "漫画书",      "type":"cartoon", "alias": "comic, comics,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
+            { "name": "comic_book", "caption": "漫画书",      "type":"cartoon", "alias": "comic, comics,  comic style" , "image":"https://cdn.midjourney.com/71eaee5a-1441-4ece-ae3f-28f90e6a842c/0_1_640_N.webp" },
 
-            { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
+            { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.midjourney.com/8884edf9-8d8a-46ef-8732-2d0c16ab9098/0_0_640_N.webp" },
 
             { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
             
@@ -169,11 +169,11 @@
           
         ],
         "illustration" : [
-            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1108570996690124890/LauraP_realistic_portrait_of_female_rocker_headshot_illustratio_7054b694-4507-409a-99d9-b6b6eafac9a5.png" }, 
+            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
 
-            { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png" }, 
+            { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
 
-            { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
+            { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.midjourney.com/a1cc4779-c7a7-41a4-8640-24fae67fd7ca/0_2_384_N.webp" },  
             
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" },
 
