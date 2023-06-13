@@ -106,10 +106,10 @@
     "style": {
         "featureTypes" :   [
             { "name": "photo","caption": "照片", "alias":"real" , "image":"https://cdn.midjourney.com/a222b41c-8dd1-4428-b1f9-69f9dbf1413a/0_1_384_N.webp"  },
-            { "name": "new_image_style","caption": "新图像风格", "alias": "new image style" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104413575151366265/ashraf_Airbus_A380_fly_with_a_fish_in_sky_d8878b3c-a800-42ee-8456-45605391b781.png" },
-            { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104430745046503556/markcruz_cute_happy_bunny_in_a_meadow_in_style_of_pixar_4k_41a5b4a1-ef1c-4828-9124-d7d64f07bad7.png" },
-            { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1093306482012987564/shamie_childrens_book_illustration_type__flat_color_hand_colori_a5afde57-5d7e-4d2a-9dea-154455352e06.png"  },
-            { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410612194345091/nieltae_irina_with_a_cat_on_a_watermelon_2c061752-395a-41a0-bb52-b45f95b4c87a.png"  },
+            { "name": "new_image_style","caption": "新图像风格", "alias": "new image style" , "image":"https://cdn.midjourney.com/c07dbb97-04a4-465a-a3d4-cd0bf4014235/0_3_384_N.webp" },
+            { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.midjourney.com/958e4c7b-bfb0-4258-aaca-4d229772a879/0_0_640_N.webp" },
+            { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.midjourney.com/888412fa-ab14-4dab-b427-00c28a097dd4/0_0_640_N.webp"  },
+            { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.midjourney.com/ba0c845a-0906-44f4-96a8-8ddfb561378e/0_2_384_N.webp"  },
             { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104698337124417556/HuyIvan_starry_starry_night_modern_version_of_van_gogh_style_07b7802b-6687-4bd5-b004-47ef4908c89a.png"  },
          
 
@@ -180,6 +180,7 @@
             { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
 
             { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
+            { "name": "business_illustration", "caption": "商业插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/888412fa-ab14-4dab-b427-00c28a097dd4/0_0_640_N.webp" }, 
 
             { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.midjourney.com/a1cc4779-c7a7-41a4-8640-24fae67fd7ca/0_2_384_N.webp" },  
             
@@ -205,8 +206,6 @@
             { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.midjourney.com/850ba52a-d34b-4784-966b-19b309f7c943/0_3_384_N.webp"},
 
             { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.midjourney.com/f5d4b523-a410-41e2-8225-b6fe7ce6c4e8/0_0_384_N.webp" },
-
-
 
             { "name": "collage",  "caption": "拼接画", "type":"painting_form", "alias": "abstract collage","image":  "https://cdn.discordapp.com/attachments/1072899954525356072/1107047092951724162/loljoi_simple_cartoon_flower_and_leaf_collage_with_transparent__b79df701-85fe-4274-a518-e48157b438b4.png" },
             
@@ -270,8 +269,8 @@
     },
     "artist" : {
         "featureTypes" : [
-            { "name": "classic_artist", "caption":"古典艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/85cdafbe-c7a9-4633-8fc0-bc8f1431ceca/0_2.png" },
-            { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/ad758111-59b9-41ec-8e0e-c2bb5d8bd1b1/0_1.png" }
+            { "name": "classic_artist", "caption":"古典艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/85cdafbe-c7a9-4633-8fc0-bc8f1431ceca/0_2_640_N.webp" },
+            { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/b7d9f5f1-9516-4588-9d3e-e39b11f5e689/0_0_640_N.webp" }
         ],
         "classic_artist" : [
                 { "name": "Van_Gogh_style",    "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp" },
