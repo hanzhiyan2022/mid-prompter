@@ -187,16 +187,18 @@
            
           ],
         "painting_form": [
-            { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
+            { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.midjourney.com/61675ea9-dc48-4e52-924a-16b297ba5b4d/0_1_384_N.webp" },
             { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.midjourney.com/ba0c845a-0906-44f4-96a8-8ddfb561378e/0_2_384_N.webp" },
 
-            { "name": "gouache",        "caption": "水粉画",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269360133230622/kseethreepio_gouache_sunny_beach_campsite_looking_out_across_th_717a09cf-dd28-4ef1-908a-fd6920914b0f.png" },
+            { "name": "gouache",        "caption": "水粉画",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.midjourney.com/98741975-5727-48f8-b30f-d5081d22f852/0_1_384_N.webp" },
 
-            { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring book" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
+            { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring book" , "image": "https://cdn.midjourney.com/cb03d9d9-5afa-42af-983f-584a78b2086d/0_2_384_N.webp" },
 
-            { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106863026214281316/smoothAIoperator_extremely_simple_cartoon_colouring_page_plane_a5a005af-804e-43d5-a43d-bb2bef73ac0e.png" },
-            { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
-            { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
+            { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.midjourney.com/2044de8d-e55c-442e-9c72-ceb6baf1679c/0_0_384_N.webp" },
+
+            { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.midjourney.com/850ba52a-d34b-4784-966b-19b309f7c943/0_3_384_N.webp"},
+
+            { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.midjourney.com/f5d4b523-a410-41e2-8225-b6fe7ce6c4e8/0_0_384_N.webp" },
 
 
 
