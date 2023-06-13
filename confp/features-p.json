@@ -284,16 +284,17 @@
         ],
         "modern_artist" : [
             { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.midjourney.com/8e3401d5-fd13-409e-9641-108c57bc0032/0_2_640_N.webp" },
+            { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/b6bb5eda-7ba8-495d-83a7-cfa2395fa649/0_3_640_N.webp"},
+            { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/94d8110f-acc3-4247-92dc-fb8f0faeaa48/0_3_640_N.webp" },
+            { "name": "Peaky_Blinders_style", "caption": "Peaky Blinders", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/a8af237e-9643-422e-b9ae-4ad0c27573ff/0_0_640_N.webp" },
 
-            { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
+            { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.midjourney.com/0f62861d-34fd-4c24-8999-69cee900621a/0_3_640_N.webp" },
                
-            { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png"},
-            { "name": "Peaky_Blinders_style", "caption": "Peaky Blinders", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104053219094708224/Swissrock_Lion_in_Peaky_Blinders_Style_55e23fdb-b016-4815-88c7-a5c85dd272e1.png" },
-            { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1074181094229934140/1104707184035643392/Cassia_visualize_hand-draw_illustration_by_Tim_Burton_style_wit_fc8319dc-4616-45f7-8f40-2f0ba152780c.png" },
-            { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106583801989169232/Vladimir_Badenov__painting_by_Salvador_Dali_db30d934-d7fd-4b60-9fda-5b7a25452b3d.png" },
-            { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1091823988558274710/Elster94_Maniacal_creepy_pirate_gold_prospector_fashion_218141e1-09e0-4f1e-b78b-abf23b64e566.png" },
-            { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106222778362896504/ierevan_a_street_kid_with_a_hood_a_sturdy_kid_with_a_baseball_h_2ebf3b5c-50fa-4375-8585-f252cd1e015a.png" },
-            { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1089250711621075104/Elster94__whimsy_luminosity_artefacts_8bbf9501-c2ee-4322-9b16-297d0bde24b1.png" }
+            { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "https://cdn.midjourney.com/191b4d16-23ea-4ce1-8b87-02972a55ee24/0_0_640_N.webp" },
+
+            { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.midjourney.com/a496672e-97c6-4382-b4b9-536fbd2b1ccd/0_0_640_N.webp" },
+
+            { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.midjourney.com/a17dc336-fc41-498a-9026-00c8eee61fcf/0_3_640_N.webp" }
         ]
     },
     "control" : {
