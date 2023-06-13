@@ -13,13 +13,12 @@
         { "name": "camera",    "caption": "相机",  "type":"" },
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
-
       "subject": {
         "featureTypes" : [
-            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" },  
-            { "name": "design", "caption": "设计",   "alias": "business design", "image": "https://cdn.midjourney.com/e2dcf591-3e2f-406e-812d-6421a25c3677/0_3_384_N.webp"  },   
-            { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.midjourney.com/1dd3191e-917d-47cf-a8a5-fb5534579ef6/0_3_384_N.webp" },   
-            { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.midjourney.com/d70890b5-79cb-470a-a172-3f2cbba5169b/0_2_384_N.webp"  },
+            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/825149a9-3aba-452b-a0fe-1171329f1d07/0_1_384_N.webp" },  
+            { "name": "design", "caption": "设计",   "alias": "business design", "image": "https://cdn.midjourney.com/f9f4992f-c862-4baf-a468-d41fb32a7979/0_2_640_N.webp"  },   
+            { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.midjourney.com/70a33e7f-c20d-45e3-bfb3-e909f567ebfd/0_1_384_N.webp" },   
+            { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp"  },
 
             { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
             { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
@@ -41,27 +40,33 @@
             
         ],
         "design" : [
-            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.midjourney.com/e2dcf591-3e2f-406e-812d-6421a25c3677/0_3_384_N.webp" },
             { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.midjourney.com/5bf24a85-1445-4bdf-b763-2da8d7784fc6/0_1_384_N.webp" },
-            { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106918490826362910/hisoka9794_text_abm_creatives_5e93e89f-89b2-48d2-b70e-fdef984bd50f.png" },
-            { "name": "t-shirt_design",         "caption": "T恤设计",      "type" : "design",  "alias": "t-shirt pattern" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
-            { "name": "clothing_design",         "caption": "服装设计",      "type" : "design",  "alias": "clothes" , "image":"https://media.discordapp.net/attachments/945077390839787570/1109617615376240680/la_SHEIN_Model_moebius_strip_clothing_design_ef5390c4-eb06-44be-b624-3c935c4970ac.png" },
-            { "name": "car",  "caption": "汽车", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106862262037270549/smoothAIoperator_white_stylish_coupe_with_fancy_wheels_5b7ad2db-004f-4aaf-8580-bc2eb2deffc4.png"},
-            { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
+            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.midjourney.com/e2dcf591-3e2f-406e-812d-6421a25c3677/0_3_384_N.webp" },
+            { "name": "t-shirt_design",         "caption": "T恤设计",      "type" : "design",  "alias": "t-shirt pattern" , "image":"https://cdn.midjourney.com/f9ef005f-520e-4af1-bf03-33bfad30cd59/0_2_640_N.webp" },
+            { "name": "clothing_design",         "caption": "服装设计",      "type" : "design",  "alias": "clothes" , "image":"https://cdn.midjourney.com/1be9a99f-9c9f-476b-bf11-89097f60f2f0/0_2_640_N.webp" },
+            
+            { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.midjourney.com/ab2e4ada-4536-4002-9b1b-4707371980c8/0_3_640_N.webp" },
+            { "name": "car_design",  "caption": "汽车设计", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/f9f4992f-c862-4baf-a468-d41fb32a7979/0_2_640_N.webp"},
+
+            { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.midjourney.com/bbd64e3e-31b9-4827-ab2e-66cfbba5e50f/0_0_640_N.webp" },
+
+            { "name": "modern_house",  "caption": "现代房屋设计", "type" : "design", "alias": "", "image":"https://cdn.midjourney.com/825be86b-aa42-43be-8bcb-4d1135058163/0_3_640_N.webp" },
+            { "name": "rural_house",  "caption": "乡村房屋设计", "type" : "design", "alias": "", "image":"https://cdn.midjourney.com/32c8d8a6-addf-41fc-b3a1-f6220b7f6ace/0_3_640_N.webp" },
+            
             { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.midjourney.com/63dbb35a-ea3c-4d4f-ae4a-3b8eb0f8cc04/0_3_384_N.webp"},
             { "name": "floor_plan",  "caption": "平面图", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/56687d9b-6da2-41eb-9ccd-40ca988b6996/0_1_384_N.webp" },
             
-            { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
-            { "name": "sticker",  "caption": "贴纸", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106266723180621948/ega_A_peeker_sticker_a_front_facing_headshot_portrait_of_a_fren_879945a9-0116-40ca-ab0f-0393cd8c3347.png" },
+            { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.midjourney.com/deda1179-26e9-4ab8-9251-53fa7d33ea0f/0_1_640_N.webp" },
+            { "name": "sticker",  "caption": "贴纸", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/c1fa9648-cfa2-41c7-b75d-7e5909f29283/0_3_640_N.webp" },
 
-            { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/35c7b734-68f3-48bc-a49a-1f9349985643/0_1.png" },
+            { "name": "pattern",  "caption": "图案", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/acfd558e-e119-4532-871f-9e4a2ffc49fc/0_1_640_N.webp" },
 
-            { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106233163765788772/mperdue1114_create_a_photograph_based_on_this_6a7158f3-3376-4fbf-9cdf-1316a4ff5ccc.png" },
+            { "name": "advertising",  "caption": "广告设计", "type" : "design", "alias": "advertisement", "image": "https://cdn.midjourney.com/caefaea1-6c4c-44f0-8ba5-4273336c06cc/0_1_640_N.webp" },
 
-            { "name": "web_ui_ux",  "caption": "web界面", "type" : "design", "alias": "web UI/UX", "image": "https://cdn.discordapp.com/attachments/1068732441029791825/1107217786519953428/acidnico_Stunning_web_design_UIUX_for_the_landing_page_of_an_im_266cffd7-4451-4883-a056-5c2d9a813591.png" },
+            { "name": "web_ui_ux",  "caption": "web界面", "type" : "design", "alias": "web UI/UX", "image": "https://cdn.midjourney.com/48dabec9-13af-4d05-925a-00c2f99d3916/0_3_640_N.webp" },
 
-            { "name": "phone_ui_ux",  "caption": "手机界面", "type" : "design", "alias": "phone UI/UX", "image": "https://cdn.discordapp.com/attachments/1027497645050167336/1061529045797441637/Steam_Bun_Invasion_high_quality_image_of_gaming_app_white_iphon_f4e6066f-d96d-4238-beec-cad92e03a56d.png" },
-            { "name": " exhibition_design",  "caption": "展台设计", "type" : "design", "alias": "exhibition booth design, exhibition stand design", "image": "https://cdn.discordapp.com/attachments/997224874214965268/1096392050255085568/arazerbaijan_big_rectangle_creative_exhibition_booth_design_for_cc5a0685-8cad-4bc7-8873-4eb370972f18.png" }
+            { "name": "phone_ui_ux",  "caption": "手机界面", "type" : "design", "alias": "phone UI/UX", "image": "https://cdn.midjourney.com/c11da4a8-1d1e-4586-b26b-4bc061545918/0_1_640_N.webp" },
+            { "name": " exhibition_design",  "caption": "展台设计", "type" : "design", "alias": "exhibition booth design, exhibition stand design", "image": "https://cdn.midjourney.com/ae3db782-a6bf-4b95-8308-d041a9963e5a/0_3_640_N.webp" }
             
         ],
         "landscape" : [
@@ -83,7 +88,7 @@
         ],
         "scene" : [
             { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/d70890b5-79cb-470a-a172-3f2cbba5169b/0_2_384_N.webp" },
-            { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/8100cf14-1421-4002-aca3-76915fcd9c08/0_0_384_N.webp" },
+            { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/8bfb3b22-874f-4d6a-b707-2b1f31472b88/0_0_640_N.webp" },
             { "name": "battle_scene",    "caption": "战斗场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp" },
             { "name": "party_scene",   "caption": "聚会场景", "type" : "scene",  "alias": "" ,  "image": "https://cdn.midjourney.com/e7ad46ca-6e7d-40ad-900c-3e3bf4cec996/0_3_384_N.webp" }, 
 
@@ -95,30 +100,31 @@
             { "name": "mysterious_scene",   "caption": "神秘场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/3d43aaf3-bb82-4523-8384-0770f3a7f9a6/0_2.png" }
 
         ]
-       
     },
     "style": {
         "featureTypes" :   [
-            { "name": "photo","caption": "照片", "alias":"real" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103860042932965466/veevee06_real_estate_history_16k_1527a470-5aea-43ef-bc38-96751648b401.png"  },
-            { "name": "new_image_style","caption": "新图像风格", "alias": "new image style" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104413575151366265/ashraf_Airbus_A380_fly_with_a_fish_in_sky_d8878b3c-a800-42ee-8456-45605391b781.png" },
-            { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104430745046503556/markcruz_cute_happy_bunny_in_a_meadow_in_style_of_pixar_4k_41a5b4a1-ef1c-4828-9124-d7d64f07bad7.png" },
-            { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1093306482012987564/shamie_childrens_book_illustration_type__flat_color_hand_colori_a5afde57-5d7e-4d2a-9dea-154455352e06.png"  },
-            { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410612194345091/nieltae_irina_with_a_cat_on_a_watermelon_2c061752-395a-41a0-bb52-b45f95b4c87a.png"  },
-            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104698337124417556/HuyIvan_starry_starry_night_modern_version_of_van_gogh_style_07b7802b-6687-4bd5-b004-47ef4908c89a.png"  },
-       
-            { "name": "art_form","caption": "艺术形式",  "alias": "artform", "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1106642733877170258/FirstLlama_a_one_color_flower_sculpture_designed_by_balenciaga__526e2df6-8104-4d33-ac7c-ab636b81ee44.png"  }
+            { "name": "photo","caption": "照片", "alias":"real" , "image":"https://cdn.midjourney.com/a222b41c-8dd1-4428-b1f9-69f9dbf1413a/0_1_384_N.webp"  },
+            { "name": "new_image_style","caption": "新图像风格", "alias": "new image style" , "image":"https://cdn.midjourney.com/c07dbb97-04a4-465a-a3d4-cd0bf4014235/0_3_384_N.webp" },
+            { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.midjourney.com/958e4c7b-bfb0-4258-aaca-4d229772a879/0_0_640_N.webp" },
+            { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.midjourney.com/888412fa-ab14-4dab-b427-00c28a097dd4/0_0_640_N.webp"  },
+            { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.midjourney.com/ba0c845a-0906-44f4-96a8-8ddfb561378e/0_2_384_N.webp"  },
+            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.midjourney.com/ba8a1793-282c-47f3-a2fc-77cb4610616b/0_2_640_N.webp"  },
+            { "name": "art_form","caption": "艺术形式",  "alias": "artform", "image":"https://cdn.midjourney.com/1f4ca7a5-b74f-40f5-8ef8-cbcfe544200b/0_0_640_N.webp"  }
          
         ],
         "photo" : [
-            { "name": "photo",       "caption": "照片",     "type":"photo", "alias": "real, real photo" , "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104633619957415976/Vinita_a_bald_man_without_beard_handsome__with_his_18_years_old_ddfaadd2-8d87-495b-918c-5fbe9c4ec513.png" },
-            { "name": "realistic",   "caption": "写实主义", "type":"photo",  "alias": "realism, realistic style" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1103979823900131368/darinarudo_female_digital_fashion_designer_wearing_hi-tech_clot_6b0c93c4-1de9-49fa-a726-e48733b5554d.png" },
-            { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.discordapp.com/attachments/1014464667017555998/1104319829671944315/thanhbkhn_Robin_bird_in_Spring_season_on_a_tree_branch_covered__003090c8-8701-4f34-9107-a516648c6beb.png"  },
+            { "name": "photo",       "caption": "照片",     "type":"photo", "alias": "real, real photo" , "image":"https://cdn.midjourney.com/9d8dedae-a095-40bb-b774-72e412aa7cf0/0_2_384_N.webp" },
+            { "name": "realistic",   "caption": "写实", "type":"photo",  "alias": "p", "image":"https://cdn.midjourney.com/61beaf87-b34f-4799-8f0a-7447304ea315/0_2_384_N.webp" },
+            { "name": "photography",   "caption": "摄影", "type":"photo", "alias": "photography", "image":"https://cdn.midjourney.com/4b5cd3ca-611d-4606-8cc0-aa0bedbd5f85/0_1_384_N.webp"  },
+            { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/db5c7651-8825-4362-84d5-9fd5b73d2150/0_0_384_N.webp" },
 
-            { "name": "product_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/989265640869204028/1108386460056440862/Marrie_Product_photography_Glass_dropper_bottle_with_black_lid__399185c4-32ca-4527-bbb9-139fdc66c216.png" },
+            { "name": "commercial_photography",   "caption": "产品摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/db5c7651-8825-4362-84d5-9fd5b73d2150/0_0_384_N.webp" },
+            
+            { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/0021da50-87c5-43cd-9a4e-32d057ee71a6/0_3_384_N.webp" },
 
-            { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "https://cdn.discordapp.com/attachments/1016397381232754788/1100323243602223244/ultra_photorealistic_street_photography_fashionable_race_mix_52a97506-9883-4205-bbed-e5a3a5d8d3ba.png" },
+            { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.midjourney.com/60027e2b-5e07-4819-9d4f-e0e794288502/0_2_384_N.webp"  },
 
-            { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.discordapp.com/attachments/1077479183611088916/1104410604757856287/Tuan_Will_to_Rise_Finding_Strength_in_the_Slums_3b151ce5-a117-41f6-ad3d-e11b2bade8a3.png"  },
+            { "name": "film_still",   "caption": "电影定格", "type":"photo", "alias": "", "image":"https://cdn.midjourney.com/1f34919c-90e1-40d8-ae90-b82305ccae26/0_3_384_N.webp"  },
 
             { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104628756573859930/felipe77768_sci-fi_cyberpunk_city_market_cars_flying_cars_signs_e38265b5-2d73-498c-a5d1-9bbb8173e263.png" },
           
@@ -128,63 +134,75 @@
             
         ],
         "new_image_style": [
-            { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104256886620028948/Kupo_Koda_mirror_that_is_a_portal_to_parallel_universe_mushroom_9c6f2898-006c-4943-a6d7-ecea1680b500.png" },
-            { "name": "science_fiction",  "caption": "科幻",       "type":"new_image_style", "alias": "sci-fi" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104415766599708803/thiemo_to_the_moon_and_beyond_outer_space_technology_4k_wallpap_c81876aa-7e75-4a70-8e56-0176069bc508.png" },
-            { "name": "surreal", "caption": "超现实主义", "type":"painting_style", "alias": "surrealism,surrealistic" ,"image": "https://cdn.discordapp.com/attachments/1063132653190135818/1104906321838481440/Dick_Sucking_Ron_surreal_orange_elephant_dressed_as_Kate_Middle_2ce1ab32-8b85-4b11-ae24-30de2c1b657f.png" },
-            { "name": "steam_punk", "caption": "蒸汽朋克", "type":"painting_style", "alias": "steam punk" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106061736559255562/titan_epic_steam_punk_surrealistic_oleo_paint_on_William_Blake__800a1071-69f4-4678-899b-a996624836d7.png" },
-            
-            { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "cyber punk", "image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107313783531130950/Mikhail_cyber_punk_city_theme_f57e83d1-49f0-473d-9cee-b618305912a2.png"  },
+            { "name": "fantasy",          "caption": "奇幻",       "type":"new_image_style", "alias": "", "image":"https://cdn.midjourney.com/d3e742da-8ada-487c-9b16-233302dbb969/0_1_384_N.webp" },
+            { "name": "science_fiction",  "caption": "科幻",       "type":"new_image_style", "alias": "sci-fi" , "image":"https://cdn.midjourney.com/83aec96e-7ff2-4f11-a107-8922311f97a0/0_2_384_N.webp" },
+            { "name": "cyberpunk",  "caption": "赛博朋克",         "type":"new_image_style", "alias": "", "image":"https://cdn.midjourney.com/c07dbb97-04a4-465a-a3d4-cd0bf4014235/0_3_384_N.webp"  },
+            { "name": "steampunk", "caption": "蒸汽朋克", "type":"painting_style", "alias": "" ,"image": "https://cdn.midjourney.com/e0b8fd64-ebbc-4f54-8f97-b67c9ac6e622/0_1_384_N.webp" },
+
+            { "name": "surreal", "caption": "超现实主义", "type":"painting_style", "alias": "surrealism,surrealistic" ,"image": "https://cdn.midjourney.com/828cf334-89b7-4a28-9c9a-4e1f4b2c6aee/0_0_384_N.webp" },
             { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1094808688927182878/JurassicEl_minimalistic_interior_entry_with_decorative_moldings_79fd4a86-c561-4128-8d2f-efc20e2680eb.png" },
             { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
            
-            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104691921139552306/walid_boudalia_walid_boudalia_picture_of_future_clipart_053c1165-b888-4aa2-9452-39a52c46faf0.png" },
-            { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" }
-          
+            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/989274745495240734/1111259690198913154/Sandalphon_depict_a_futuristic_house_that_uses_sacred_geometry__78f6b940-b6be-44de-890c-33f627e2446d.png" },
+
+            { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" },
+            { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png" } ,
+
+            { "name": "blob_art",  "caption": "泡泡艺术",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/952712667498422272/1095331573852819496/nurbikee_pink_blob_character_e5c3fe6a-a097-4fce-9bfe-07ff0644faa2.png" }
+            
         
         ],
         "cartoon": [
-            { "name": "cartoon", "caption": "卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104384609644458025/Lamnippos_2d_character_female_cartoon_style_jungle_girl_for_uni_718503b3-49bf-4c6a-ae1c-d1b71b1ef209.png" },
-            { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104420359282896896/nothingmmsp_the_cute_robot_girl_who_had_red_long_hair_and_she_p_9bff62d1-afd0-4d3e-b8ab-d161648d5868.png" },
+            { "name": "cartoon", "caption": "卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.midjourney.com/675b8256-4f83-42b5-8047-def530eb13e6/0_2_640_N.webp" },
+            { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.midjourney.com/958e4c7b-bfb0-4258-aaca-4d229772a879/0_0_640_N.webp" },
 
-            { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
-          
-            { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104190107944239175/ttytttyt_In_a_heartwarming_Disney_Pixar_cartoon_-_style_illustr_87741b5a-c82a-4d10-80fd-bcaf2e7321fb.png" },
-            { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.discordapp.com/attachments/1098140695014944818/1104423698926157895/raj8063r_make_a_logo_of_name_Raj_Patel_which_looks_professional_554b5c64-fb14-43e2-8f3f-2b045652ccf2.png" },
+            { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.midjourney.com/34c4733f-6b1d-410c-8d03-9876af25f324/0_3_640_N.webp" },
 
-            { "name": "comic", "caption": "漫画书",      "type":"cartoon", "alias": "comics, comic book,  comic style" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104431865097633832/prienie_A_thrilling_scene_featuring_a_young_boy_with_brown_hair_58da1917-a981-4a36-8b77-1c88c13e4a43.png" },
-            { "name": "marvel_comic", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.discordapp.com/attachments/989274756341706822/1109423426638184510/jagman702_a_gorilla_in_a_space_suit_with_rocket_back_pack_blast_09f1291d-d1c1-4d5a-af0c-f5fd15f218cc.png" },
-            
+            { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.midjourney.com/25cc6143-c0e5-4afe-a579-9eddf8d0f484/0_0_640_N.webp" },
+            { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.midjourney.com/bb7d8942-fb2a-425b-a694-db5cc6eca188/0_0_640_N.webp" },
+
+            { "name": "comic_book", "caption": "漫画书",      "type":"cartoon", "alias": "comic, comics,  comic style" , "image":"https://cdn.midjourney.com/71eaee5a-1441-4ece-ae3f-28f90e6a842c/0_1_640_N.webp" },
+
+            { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.midjourney.com/8884edf9-8d8a-46ef-8732-2d0c16ab9098/0_0_640_N.webp" },
+
             { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
-
-            { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
-            { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png" }
+            
+            { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.midjourney.com/9d4a87e1-ae7d-4017-b39f-866d195b4280/0_1_640_N.webp"  },
+            { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.midjourney.com/21882040-10e3-42d9-8301-c6fbba31088b/0_2_640_N.webp" },
+            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.midjourney.com/b6bb5eda-7ba8-495d-83a7-cfa2395fa649/0_3_640_N.webp" }
           
         ],
         "illustration" : [
-            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1108570996690124890/LauraP_realistic_portrait_of_female_rocker_headshot_illustratio_7054b694-4507-409a-99d9-b6b6eafac9a5.png" }, 
+            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.midjourney.com/49510805-b3cf-4531-86df-2762f639429e/0_1_640_N.webp" }, 
 
-            { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104246789315493918/luisD.TD_childrens_book_illustration_of_rabbit_with_brown_fur_m_b819127c-61b4-4c4a-9f61-fe3c530696e6.png" }, 
+            { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
+            { "name": "business_illustration", "caption": "商业插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/888412fa-ab14-4dab-b427-00c28a097dd4/0_0_640_N.webp" }, 
 
-            { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.discordapp.com/attachments/1008571102328541215/1087272705688080416/cychen_kudzu_plantrealistic_illustrationcolorfulinformation_vis_a717b859-a6ba-4f12-b327-140e5c9879cc.png" },  
+            { "name": "botanical_illustration", "caption": "植物插画",      "type":"illustration", "alias": "plant illustration" , "image": "https://cdn.midjourney.com/a1cc4779-c7a7-41a4-8640-24fae67fd7ca/0_2_384_N.webp" },  
             
+            { "name": "digital_illustration", "caption": "数字插画",     "type":"illustration", "alias":"", "image": "https://cdn.midjourney.com/283d084f-856d-49eb-b1f0-51887a9e768b/0_2_384_N.webp"},
+
             { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" },
 
             { "name": "scientific_illustration", "caption": "科学插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104703363699974214/Warden1999_Generate_a_scientific_illustration_of_bulky_tumor_ti_2a0c2fb9-2942-4239-a249-7e4ae41d1e62.png"},
 
-            { "name": "digital_illustration", "caption": "数字插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/968967076100325496/1102539088151707719/npnpnp000_Gothic_architecture_flying_in_the_sky_Radiolariafract_f3ed3079-da63-47c7-a700-1bbe631504b8.png"},
-
             { "name": "cartoon_illustration", "caption": "卡通插画",     "type":"illustration", "alias":"", "image":" https://cdn.discordapp.com/attachments/1054162799988834314/1104387014666768426/mangosago_vibrant_old_people_in_nursing_homegreen_plants_are_ev_dcafd6b5-7310-4489-b576-d31f92991bbb.png" }
            
-
           ],
         "painting_form": [
-            { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104443925470646453/Dikshit_Shetty_Decadent_Young_Woman_portrait_of_women_oil_paint_b18d2d4c-ff1d-4708-b7af-414a7c5cb07e.png" },
-            { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1097237429611675759/SwagQueen_watercolor_succulent_plants_and_Peony_flowers--no_tex_e319610f-c0db-4e8b-ace8-48c0df763f97.png" },
-            { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring book" , "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1104406853930192946/Westendorf_Coloring_book_black_and_white_kids_4-10_years._Unico_eecd4a49-9a7a-4a37-8479-3eb0b2a29285.png" },
-            { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106863026214281316/smoothAIoperator_extremely_simple_cartoon_colouring_page_plane_a5a005af-804e-43d5-a43d-bb2bef73ac0e.png" },
-            { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.discordapp.com/attachments/989265640869204028/1076278464396677180/navidahmadi155_efrain_malo_style_ultra-detailed_pencil_sketch_n_cf604140-bb27-48e1-876f-11f3556311d9.png"},
-            { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104422603818541198/anitoni6maiklaos829_line_drawing_fairy_fantasy_house_coloring_b_a3f650f5-c07b-44c5-8e96-a1aefa76f84f.png" },
+            { "name": "oil_painting",  "caption": "油画", "type":"painting_form", "alias": "oil paiting style" ,"image": "https://cdn.midjourney.com/61675ea9-dc48-4e52-924a-16b297ba5b4d/0_1_384_N.webp" },
+            { "name": "watercolor",    "caption": "水彩",       "type":"painting_form", "alias": "watercolor style"  ,"image": "https://cdn.midjourney.com/ba0c845a-0906-44f4-96a8-8ddfb561378e/0_2_384_N.webp" },
+
+            { "name": "gouache",        "caption": "水粉画",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.midjourney.com/98741975-5727-48f8-b30f-d5081d22f852/0_1_384_N.webp" },
+
+            { "name": "coloring_page",  "caption": "涂色线稿",  "type":"painting_form", "alias": "coloring book" , "image": "https://cdn.midjourney.com/cb03d9d9-5afa-42af-983f-584a78b2086d/0_2_384_N.webp" },
+
+            { "name": "extremely_simple_coloring_page",  "caption": "极简涂色线稿",  "type":"painting_form", "alias": "" , "image": "https://cdn.midjourney.com/2044de8d-e55c-442e-9c72-ceb6baf1679c/0_0_384_N.webp" },
+
+            { "name": "pencil_sketch",  "caption": "素描", "type":"painting_form", "alias": "pencil drawing","image":"https://cdn.midjourney.com/850ba52a-d34b-4784-966b-19b309f7c943/0_3_384_N.webp"},
+
+            { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.midjourney.com/f5d4b523-a410-41e2-8225-b6fe7ce6c4e8/0_0_384_N.webp" },
+
             { "name": "collage",  "caption": "拼接画", "type":"painting_form", "alias": "abstract collage","image":  "https://cdn.discordapp.com/attachments/1072899954525356072/1107047092951724162/loljoi_simple_cartoon_flower_and_leaf_collage_with_transparent__b79df701-85fe-4274-a518-e48157b438b4.png" },
             
 
@@ -192,65 +210,86 @@
             { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104424249952845874/Rehan_Anand_a_vector_illustration_art_of_people_practicing_Trau_4c21a5cf-6a20-413d-8efe-842eabc3f422.png" },
             { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
             { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png" },
-            { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" }
+            { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" },
+            
+           
+            
+            { "name": "ASCII_art",        "caption": "ASCII艺术",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1055259701408972911/NicoBellic_ASCII-Art_of_a_man_with_dreadlocks_european_with_bea_87e4267b-f795-4e53-983f-6577c6e222a0.png" },
+        
+            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
         ],
         "painting_style" : [
-            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.midjourney.com/903a5bea-1d09-4366-a25a-652e5b7eb422/0_2.png" },
+        
+            { "name": "impressionism ", "caption": "映像派", "type":"painting_style", "alias": "impressionist,impressionistic" ,"image": "https://cdn.midjourney.com/ba8a1793-282c-47f3-a2fc-77cb4610616b/0_2_640_N.webp" },
 
-            { "name": "realism",    "caption": "写实主义", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104500843832680478/Focus_realistic_image_painting_waterfall_with_a_big_drop_still__6c59f9ec-97e7-432b-9314-5e48567b230c.png" },
+            { "name": "realism",    "caption": "写实主义", "type":"painting_style", "alias": "" ,"image": "https://cdn.midjourney.com/c509e041-d961-4dff-b76e-372d88499abf/0_3_384_N.webp" },
            
-            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
-            { "name": "abstraction", "caption": "抽象", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1044046333033582693/1104150871362773142/xyzy_oil_painting_fine_art_beatiful_flowing_brushstrokes_contem_68f69f9f-a32b-4a49-ba5c-a146b7277b79.png" },
-            { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
-            { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104598213350129675/sillylittlegoose888_classical_style_painting_depicting_scene_of_b9e5b5f3-3869-435d-8dfb-bf24e783c984.png"},
+            { "name": "abstraction", "caption": "抽象", "type":"painting_style", "alias": "" ,"image": "https://cdn.midjourney.com/2e639081-8834-4023-8ee1-ae3d09cc54f0/0_0_640_N.webp" },
 
+            { "name": "classic", "caption": "古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.midjourney.com/76b764b3-6def-4ebb-9b72-e4668d8fd84a/0_1_640_N.webp"},
+
+            { "name": "neo-classicism", "caption": "新古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.midjourney.com/8680d9d1-3e53-4572-9c3f-04f37a31e2d9/0_2_640_N.webp"},
+
+
+            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
+         
+            { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
+          
             { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
+
+            { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "","image":"https://cdn.midjourney.com/aa374317-4d15-4d5f-b892-0892b3dfc472/0_1.png" },
 
             { "name": "cubism", "caption": "立体主义", "type":"painting_style", "alias": "cubist,cubistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1107209231997878332/coffeebuffed_trompe_loeil_orchid_cubism_origami_68741bf4-af04-42b0-97d0-d1502174e6dd.png" }
             
         ],
-       
-           "art_form" :  [
-                 { "name": "sculpture",   "caption": "雕塑", "type":"art_form", "alias": "sculpture art" ,"image": "https://cdn.discordapp.com/attachments/1008571120242409472/1106642733877170258/FirstLlama_a_one_color_flower_sculpture_designed_by_balenciaga__526e2df6-8104-4d33-ac7c-ab636b81ee44.png" },
-                 { "name": "patchwork",   "caption": "拼布", "type":"art_form", "alias": "patchwork" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106745506794852423/KinosJourney_patchwork_quilting_zydeco_kaleidoscope_spaghetti_s_de1ecc55-0002-452e-98b2-1e1d1d742931.png" },
-                 { "name": "origami",   "caption": "折纸", "type":"art_form", "alias": "paper origami" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106988879128580106/Fishcake_a_full_size_panda_made_from_paper_origami._Plain_backg_6720fbd1-c5df-4b0d-a967-d8007743e33d.png" },
-                 { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png" },
-                { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106558844429144255/GibroWalker_paper_quilling____in_a_japanese_garden_style_of_Ste_f515fc7b-a7bd-4bcd-bba1-e480bc84d1c8.png" },
-                { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" },
-                { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.discordapp.com/attachments/1065709974577233931/1105585486258512012/Krait72_vice_city_lego_paradise_987f6af8-7321-45e5-b319-faf64a6983e0.png" },
+        
+        "art_form" :  [
+            { "name": "statue",   "caption": "雕像", "type":"art_form", "alias": "sculpture art" ,"image": "https://cdn.midjourney.com/a3c1d11c-d649-4e31-84ee-c668755ae52f/0_2_640_N.webp" },
 
-                { "name": "miniature",   "caption": "微缩模型", "type":"art_form", "alias": "miniature art" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1106833515313635361/Sexy_Vegan_Madison_Wisconsin_capitol_building_tilt-shift_miniat_4408815f-4f52-46c8-9428-3bb671376230.png" }
-                
-         
-           ]
+            { "name": "sculpture",   "caption": "雕塑", "type":"art_form", "alias": "sculpture art" ,"image": "https://cdn.midjourney.com/1f4ca7a5-b74f-40f5-8ef8-cbcfe544200b/0_0_640_N.webp" },
+
+            { "name": "paper_quilling",   "caption": "卷边纸艺", "type":"art_form", "alias": "paper quilling art" ,"image": "https://cdn.midjourney.com/165ee28d-6ee7-4956-b83b-37a4190da1d8/0_1_640_N.webp" },
+
+            { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.midjourney.com/6a75206d-ba52-4f12-a17a-a76be484c09c/0_3_640_N.webp" },
+            
+            { "name": "origami",   "caption": "折纸", "type":"art_form", "alias": "paper origami" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106988879128580106/Fishcake_a_full_size_panda_made_from_paper_origami._Plain_backg_6720fbd1-c5df-4b0d-a967-d8007743e33d.png" },
+            { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png" },
+           
+            { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" },
+           
+
+            { "name": "miniature",   "caption": "微缩模型", "type":"art_form", "alias": "miniature art" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1106833515313635361/Sexy_Vegan_Madison_Wisconsin_capitol_building_tilt-shift_miniat_4408815f-4f52-46c8-9428-3bb671376230.png" },
+            
+            { "name": "patchwork",   "caption": "拼布", "type":"art_form", "alias": "patchwork" ,"image": "https://cdn.midjourney.com/e4a9a208-6275-4735-8bd5-3eee0c4649eb/0_3_640_N.webp" }
+        ]
     },
     "artist" : {
         "featureTypes" : [
-            { "name": "classic_artist", "caption":"古典艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/85cdafbe-c7a9-4633-8fc0-bc8f1431ceca/0_2.png" },
-            { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/ad758111-59b9-41ec-8e0e-c2bb5d8bd1b1/0_1.png" }
+            { "name": "classic_artist", "caption":"古典艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/85cdafbe-c7a9-4633-8fc0-bc8f1431ceca/0_2_640_N.webp" },
+            { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/b7d9f5f1-9516-4588-9d3e-e39b11f5e689/0_0_640_N.webp" }
         ],
         "classic_artist" : [
-                { "name": "Van_Gogh_style",    "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/993097574942777405/1104249297039540255/Rawlk395_Van_gogh_in_future_8648d89f-1d7e-4a7e-b9b6-aa33d873145f.png" },
+                { "name": "Van_Gogh_style",    "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp" },
  
-                { "name": "Claude_Monet_style", "caption": "莫奈风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/903a5bea-1d09-4366-a25a-652e5b7eb422/0_2.png" },
+                { "name": "Claude_Monet_style", "caption": "莫奈风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/7874977f-d3d1-48d1-88e2-7e9273667556/0_2_384_N.webp" },
                 
-                { "name": "Da_Vinci_style", "caption": "达芬奇风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/4f236f12-2ea6-4dbd-8aca-10d76224248a/0_2.png" },
+                { "name": "Da_Vinci_style", "caption": "达芬奇风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/4f236f12-2ea6-4dbd-8aca-10d76224248a/0_2_640_N.webp" },
  
-               
-                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" }
+                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/6aa0829f-088f-4df8-bca0-499bcfc64901/0_1_640_N.webp" }
         ],
         "modern_artist" : [
-            { "name": "Pablo_Picasso_style", "caption": "Picasso", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.discordapp.com/attachments/1026630987750322216/1106521253654827018/jezocoh_a_lof_of_human_faces_6fe0beae-099e-46d6-8153-b715abb3c412.png" },
+            { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.midjourney.com/8e3401d5-fd13-409e-9641-108c57bc0032/0_2_640_N.webp" },
+            { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/b6bb5eda-7ba8-495d-83a7-cfa2395fa649/0_3_640_N.webp"},
+            { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/94d8110f-acc3-4247-92dc-fb8f0faeaa48/0_3_640_N.webp" },
+            { "name": "Peaky_Blinders_style", "caption": "Peaky Blinders", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/a8af237e-9643-422e-b9ae-4ad0c27573ff/0_0_640_N.webp" },
 
-            { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
+            { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.midjourney.com/0f62861d-34fd-4c24-8999-69cee900621a/0_3_640_N.webp" },
                
-            { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png"},
-            { "name": "Peaky_Blinders_style", "caption": "Peaky Blinders", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1104053219094708224/Swissrock_Lion_in_Peaky_Blinders_Style_55e23fdb-b016-4815-88c7-a5c85dd272e1.png" },
-            { "name": "Tim_Burton_style", "caption": "Tim Burton", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1074181094229934140/1104707184035643392/Cassia_visualize_hand-draw_illustration_by_Tim_Burton_style_wit_fc8319dc-4616-45f7-8f40-2f0ba152780c.png" },
-            { "name": "Salvador_Dali_style", "caption": "Salvador Dali", "type":"artist", "alias": "by SalvadorDali" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106583801989169232/Vladimir_Badenov__painting_by_Salvador_Dali_db30d934-d7fd-4b60-9fda-5b7a25452b3d.png" },
-            { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1091823988558274710/Elster94_Maniacal_creepy_pirate_gold_prospector_fashion_218141e1-09e0-4f1e-b78b-abf23b64e566.png" },
-            { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106222778362896504/ierevan_a_street_kid_with_a_hood_a_sturdy_kid_with_a_baseball_h_2ebf3b5c-50fa-4375-8585-f252cd1e015a.png" },
-            { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1089250711621075104/Elster94__whimsy_luminosity_artefacts_8bbf9501-c2ee-4322-9b16-297d0bde24b1.png" }
+            { "name": "Hal_Foster_style", "caption": "Hal Foster", "type":"artist", "alias": "by Hal Foster" ,"image": "https://cdn.midjourney.com/191b4d16-23ea-4ce1-8b87-02972a55ee24/0_0_640_N.webp" },
+
+            { "name": "Jamie_Hewlett_Style", "caption": "Jamie Hewlett", "type":"artist", "alias": "by Jamie Hewlett" ,"image": "https://cdn.midjourney.com/a496672e-97c6-4382-b4b9-536fbd2b1ccd/0_0_640_N.webp" },
+
+            { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.midjourney.com/a17dc336-fc41-498a-9026-00c8eee61fcf/0_3_640_N.webp" }
         ]
     },
     "control" : {
