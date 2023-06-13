@@ -110,10 +110,8 @@
             { "name": "cartoon","caption": "卡通",  "alias": "cartoon style" , "image":"https://cdn.midjourney.com/958e4c7b-bfb0-4258-aaca-4d229772a879/0_0_640_N.webp" },
             { "name": "illustration","caption": "插画",  "alias": "illustration style", "image":"https://cdn.midjourney.com/888412fa-ab14-4dab-b427-00c28a097dd4/0_0_640_N.webp"  },
             { "name": "painting_form", "caption": "绘画形式", "alias": "painting", "image":"https://cdn.midjourney.com/ba0c845a-0906-44f4-96a8-8ddfb561378e/0_2_384_N.webp"  },
-            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104698337124417556/HuyIvan_starry_starry_night_modern_version_of_van_gogh_style_07b7802b-6687-4bd5-b004-47ef4908c89a.png"  },
-         
-
-            { "name": "art_form","caption": "艺术形式",  "alias": "artform", "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1106642733877170258/FirstLlama_a_one_color_flower_sculpture_designed_by_balenciaga__526e2df6-8104-4d33-ac7c-ab636b81ee44.png"  }
+            { "name": "painting_style","caption": "绘画风格",  "alias": "painting style", "image":"https://cdn.midjourney.com/ba8a1793-282c-47f3-a2fc-77cb4610616b/0_2_640_N.webp"  },
+            { "name": "art_form","caption": "艺术形式",  "alias": "artform", "image":"https://cdn.midjourney.com/1f4ca7a5-b74f-40f5-8ef8-cbcfe544200b/0_0_640_N.webp"  }
          
         ],
         "photo" : [
