@@ -42,14 +42,16 @@
         ],
         "design" : [
             { "name": "flat_design",    "caption": "平面设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571159043903509/1104412037142028299/drezz_flex_geometric_863e0583-aaf3-41c3-ba35-408dc3f1ee5d.png" },
-            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.discordapp.com/attachments/1072899954525356072/1107312119927558255/Fourloko.crypto_crossfit_sneakerslogo_stylewhite_backgroundflat_550e80a7-ea36-4dbd-a8f7-a895a8353ec2.png" },
-            { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1106802224253894666/DT_starfish_app_icon_logo_for_a_social_media_company_simple_har_164de9ff-5d01-4a75-9d5a-23c12ef15c6c.png" },
+            { "name": "product_design", "caption": "产品设计",  "type" : "design",  "alias": "" , "image":"https://cdn.midjourney.com/e2dcf591-3e2f-406e-812d-6421a25c3677/0_3_384_N.webp" },
+            { "name": "logo",           "caption": "LOGO",      "type" : "design",  "alias": "logo design" , "image":"https://cdn.midjourney.com/5bf24a85-1445-4bdf-b763-2da8d7784fc6/0_1_384_N.webp" },
             { "name":"creativity","caption": "创意", "type" : "design", "alias": "creative", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106918490826362910/hisoka9794_text_abm_creatives_5e93e89f-89b2-48d2-b70e-fdef984bd50f.png" },
             { "name": "t-shirt_design",         "caption": "T恤设计",      "type" : "design",  "alias": "t-shirt pattern" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416005226238052/Bam_Bam_paul_rand_style_t-shirt_2c619232-96a4-48d8-9a03-31db40ebb828.png" },
             { "name": "clothing_design",         "caption": "服装设计",      "type" : "design",  "alias": "clothes" , "image":"https://media.discordapp.net/attachments/945077390839787570/1109617615376240680/la_SHEIN_Model_moebius_strip_clothing_design_ef5390c4-eb06-44be-b624-3c935c4970ac.png" },
             { "name": "car",  "caption": "汽车", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1106862262037270549/smoothAIoperator_white_stylish_coupe_with_fancy_wheels_5b7ad2db-004f-4aaf-8580-bc2eb2deffc4.png"},
             { "name": "architecture",  "caption": "建筑设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104588741651222588/ibrahim203020302030_Modern_villa_facade_design_in_simple_colors_12446d69-1307-4b2c-a679-b89c4c13e0d9.png" },
-            { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1038329663187062804/1104544748489941112/Ailnoth_a_clean_and_modern_apartment_in_the_city_centre_in_the__cf5643c4-bcf7-4e8f-bc4a-4e060fea4433.png"},
+            { "name": "interior_design",  "caption": "室内设计", "type" : "design", "alias": "", "image":"https://cdn.midjourney.com/63dbb35a-ea3c-4d4f-ae4a-3b8eb0f8cc04/0_3_384_N.webp"},
+            { "name": "floor_plan",  "caption": "平面图", "type" : "design", "alias": "", "image": "https://cdn.midjourney.com/56687d9b-6da2-41eb-9ccd-40ca988b6996/0_1_384_N.webp" },
+            
             { "name": "icon",  "caption": "图标", "type" : "design", "alias": "", "image":"https://cdn.discordapp.com/attachments/1008571102328541215/1104617267876081735/YXY_durian_icon_pop_cute_5b51c0c1-8959-46c4-aa8b-f2cd217ba904.png" },
             { "name": "sticker",  "caption": "贴纸", "type" : "design", "alias": "", "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106266723180621948/ega_A_peeker_sticker_a_front_facing_headshot_portrait_of_a_fren_879945a9-0116-40ca-ab0f-0393cd8c3347.png" },
 
@@ -64,13 +66,13 @@
             
         ],
         "landscape" : [
-            { "name": "landscape",   "caption": "风景", "type" : "landscape",  "alias": "" ,  "image":"https://cdn.midjourney.com/00397ab6-ebbb-4727-85be-3a137c1ef88b/0_0.png" },
-            { "name": "countryside", "caption": "乡村", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/6b68a8a8-5f59-401e-b532-af399a3ba690/0_1.png" },
-            { "name": "mountains",   "caption": "山峰", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/19ca3d17-509a-4869-a39c-4c5e9e57cec0/0_0.png" },
-            { "name": "forest", "caption": "森林", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/32d7dfac-5769-4909-97a2-cdc1287528ac/0_1.png" },
+            { "name": "landscape",   "caption": "风景", "type" : "landscape",  "alias": "" ,  "image":"https://cdn.midjourney.com/1dd3191e-917d-47cf-a8a5-fb5534579ef6/0_3_384_N.webp" },
+            { "name": "countryside", "caption": "乡村", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/a39d03fa-3dad-4ca1-8407-aea1e16e4295/0_1_384_N.webp" },
+            { "name": "mountains",   "caption": "山峰", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/5de0a47b-4b6a-4590-923b-251ac0f90f25/0_2_384_N.webp" },
+            { "name": "forest", "caption": "森林", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/32d7dfac-5769-4909-97a2-cdc1287528ac/0_1_384_N.webp" },
 
-            { "name": "river",   "caption": "河流", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/8f0a66bc-c99e-4c32-8668-ff0fa1c3f4c6/0_2.png" },
-            { "name": "beach",  "caption": "海滩", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/a70ed2b7-fd09-4e44-9742-249068278748/0_0.png" },
+            { "name": "river",   "caption": "河流", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/b4191351-08e7-4253-ba10-ccb7c6198912/0_3_384_N.webp" },
+            { "name": "beach",  "caption": "海滩", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/70a33e7f-c20d-45e3-bfb3-e909f567ebfd/0_1_384_N.webp" },
             { "name": "lake",   "caption": "湖泊", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/508f7c41-0d16-4b41-bbb3-8e10acd05cca/0_2.png" },  
             { "name": "canyon",   "caption": "峡谷", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/c8f5a87a-a8a1-45db-8ad6-d9a1b21648a1/0_0.png" },
      
@@ -81,14 +83,16 @@
             { "name": "desert",   "caption": "沙漠", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/85f355c2-dbde-451b-bd9d-12d74fd135b5/0_1.png" }
         ],
         "scene" : [
-            { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/6be180ba-0946-4b64-9c0f-6cfed014cb85/0_0.png" },
-            { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/6a395965-8ee4-4bf9-8d29-911e082e59dc/0_3.png" },
-            { "name": "battle_scene",    "caption": "战斗场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/419e3a10-41b9-47b1-92bc-ba285ea6cc8d/0_1.png" },
-            { "name": "family_scene",   "caption": "家庭场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/41f9e835-1ccb-435d-a1a3-4394c322956b/0_3.png" },
-            
+            { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/d70890b5-79cb-470a-a172-3f2cbba5169b/0_2_384_N.webp" },
+            { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/8100cf14-1421-4002-aca3-76915fcd9c08/0_0_384_N.webp" },
+            { "name": "battle_scene",    "caption": "战斗场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp" },
+            { "name": "party_scene",   "caption": "聚会场景", "type" : "scene",  "alias": "" ,  "image": "https://cdn.midjourney.com/e7ad46ca-6e7d-40ad-900c-3e3bf4cec996/0_3_384_N.webp" }, 
+
+            { "name": "family_scene",   "caption": "家庭场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/87dae0ac-afc1-41c6-be1c-b537cd0d5c57/0_0_384_N.webp" },
             { "name": "romantic_scene",   "caption": "浪漫场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/f3dd619e-9bb5-41d2-84f8-69e1e55ea8be/0_0.png" },
             { "name": "dialogue_scene",   "caption": "对话场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/c7949249-05c6-4ac5-be29-c36263e2c85d/0_2.png" },          
             { "name": "adventure_scene",   "caption": "探险场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/acae1920-6fc2-4a41-a892-8a07bde826ce/0_0.png" },        
+            
             { "name": "mysterious_scene",   "caption": "神秘场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/3d43aaf3-bb82-4523-8384-0770f3a7f9a6/0_2.png" }
 
         ]
