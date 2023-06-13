@@ -158,7 +158,7 @@
             { "name": "cartoon", "caption": "卡通",   "type":"cartoon", "alias": "animation" , "image":"https://cdn.midjourney.com/675b8256-4f83-42b5-8047-def530eb13e6/0_2_640_N.webp" },
             { "name": "3d_cartoon", "caption": "3D卡通", "type":"cartoon", "alias": "3d cartoon style" , "image":"https://cdn.midjourney.com/958e4c7b-bfb0-4258-aaca-4d229772a879/0_0_640_N.webp" },
 
-            { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.discordapp.com/attachments/1008571120242409472/1110566134270406827/shochan_photography_from_Disney_Pixar_Studios_anime_babyface_ja_731c949d-4ecf-4681-b31d-362e44ee0bca.png" },
+            { "name": "animation", "caption": "动画片", "type":"cartoon", "alias": "animation style" , "image":"https://cdn.midjourney.com/34c4733f-6b1d-410c-8d03-9876af25f324/0_3_640_N.webp" },
 
             { "name": "disney_style",  "caption": "迪士尼",     "type":"cartoon", "alias": "disney cartoon style" , "image":"https://cdn.midjourney.com/25cc6143-c0e5-4afe-a579-9eddf8d0f484/0_0_640_N.webp" },
             { "name": "pixar_style",   "caption": "皮克斯",     "type":"cartoon", "alias": "pixar cartoon style" , "image":"https://cdn.midjourney.com/bb7d8942-fb2a-425b-a694-db5cc6eca188/0_0_640_N.webp" },
@@ -169,13 +169,13 @@
 
             { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
             
-            { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104374506962812938/Zincstreet_itachiuchiha_in_akatsuki_uniform_doing_mangekyoshari_1858190e-588b-477d-b9cc-7aa974ca7b5b.png"  },
-            { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.discordapp.com/attachments/1052532522677968896/1104409408152281159/viktorsmeral_pokemon_card_trainer_supporter_in_judo_gi_8505997b-9e1d-40ab-9184-b8a3488200ff.png" },
-            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.midjourney.com/6ba36b1a-1470-485f-8396-7921b2aa79f3/0_3.png" }
+            { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.midjourney.com/9d4a87e1-ae7d-4017-b39f-866d195b4280/0_1_640_N.webp"  },
+            { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.midjourney.com/21882040-10e3-42d9-8301-c6fbba31088b/0_2_640_N.webp" },
+            { "name": "Ghibli_studio",   "caption": "吉卜力工作室","type":"cartoon", "alias": "Ghibli,Ghibli film" , "image":"https://cdn.midjourney.com/b6bb5eda-7ba8-495d-83a7-cfa2395fa649/0_3_640_N.webp" }
           
         ],
         "illustration" : [
-            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
+            { "name": "illustration", "caption": "插画",   "type":"illustration", "alias": "illustration style" , "image": "https://cdn.midjourney.com/49510805-b3cf-4531-86df-2762f639429e/0_1_640_N.webp" }, 
 
             { "name": "children's_book_illustration", "caption": "儿童插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/cf58875a-4157-4f4b-98cf-e8a5c67e7de4/0_2_640_N.webp" }, 
             { "name": "business_illustration", "caption": "商业插画",   "type":"illustration", "alias": "children illustration style" , "image": "https://cdn.midjourney.com/888412fa-ab14-4dab-b427-00c28a097dd4/0_0_640_N.webp" }, 
