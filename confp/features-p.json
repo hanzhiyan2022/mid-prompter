@@ -278,13 +278,12 @@
  
                 { "name": "Claude_Monet_style", "caption": "莫奈风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/7874977f-d3d1-48d1-88e2-7e9273667556/0_2_384_N.webp" },
                 
-                { "name": "Da_Vinci_style", "caption": "达芬奇风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/4f236f12-2ea6-4dbd-8aca-10d76224248a/0_2.png" },
+                { "name": "Da_Vinci_style", "caption": "达芬奇风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/4f236f12-2ea6-4dbd-8aca-10d76224248a/0_2_640_N.webp" },
  
-             
-                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/945077390839787570/1103297561110007858/Carolyn_and_Jim_David_by_Michelangelo_butter_sculpture_ec20444a-8ab0-453e-8008-1251bbbd1a94.png" }
+                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/6aa0829f-088f-4df8-bca0-499bcfc64901/0_1_640_N.webp" }
         ],
         "modern_artist" : [
-            { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.discordapp.com/attachments/1026630987750322216/1106521253654827018/jezocoh_a_lof_of_human_faces_6fe0beae-099e-46d6-8153-b715abb3c412.png" },
+            { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.midjourney.com/8e3401d5-fd13-409e-9641-108c57bc0032/0_2_640_N.webp" },
 
             { "name": "Rayman_style",       "caption": "雷曼风格", "type":"artist", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1052532522677968896/1104386025456930836/Ferus_sky_clouds_background_art_anime_Rayman_style_5e8b4c96-db12-48f0-b845-2e4783f6eacd.png" },
                
