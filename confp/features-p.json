@@ -370,7 +370,7 @@
     },
     "camera" : {
         "featureTypes" : [ 
-            { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.discordapp.com/attachments/1008571240858009620/1107496742326382642/kareem.magdie.soliman_sunset_scene_over_a_mountain_man_climbing_d238cd89-d82e-4af4-bd20-cca76ca70fc3.png"},
+            { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.midjourney.com/fc16c72f-7a29-44dd-867f-129e50d41095/0_0.webp"},
             { "name": "lens",          "caption": "镜头" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "position",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "perspective",   "caption": "透视图" , "alias":"" , "image": "no"},
@@ -381,7 +381,7 @@
             { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
         "distance" : [
-            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.midjourney.com/fc16c72f-7a29-44dd-867f-129e50d41095/0_0.webp"  },
+            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.midjourney.com/a88aa0a7-ffb0-4ab5-993f-e0c2140d4464/0_0.webp"  },
             { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.midjourney.com/3454f101-09e3-4e00-9f3e-652d3ee705b5/0_0.webp"  },
             { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.midjourney.com/79e25980-03e0-4391-ad98-a24bfaa2c186/0_0.webp" },
 
