@@ -365,7 +365,7 @@
             { "name": "camera_product","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
         "distance" : [
-            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.midjourney.com/a88aa0a7-ffb0-4ab5-993f-e0c2140d4464/0_0.webp"  },
+            { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.midjourney.com/a88aa0a7-ffb0-4ab5-993f-e0c2140d4464/0_0.webp"   },
             { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.midjourney.com/3454f101-09e3-4e00-9f3e-652d3ee705b5/0_0.webp"  },
             { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.midjourney.com/79e25980-03e0-4391-ad98-a24bfaa2c186/0_0.webp" },
 
