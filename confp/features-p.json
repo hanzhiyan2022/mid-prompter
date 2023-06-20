@@ -9,8 +9,8 @@
         { "name": "subject",   "caption": "体裁",  "type":"" },
         { "name": "style",     "caption": "风格",  "type":"" },
         { "name": "artist",    "caption": "艺术家", "type":"" },
-        { "name": "control",   "caption": "控制",  "type":"" },
         { "name": "camera",    "caption": "相机",  "type":"" },
+        { "name": "control",   "caption": "控制",  "type":"" },
         { "name": "parameter", "caption": "参数",  "type":"" }
       ],
 
@@ -295,80 +295,6 @@
             { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.midjourney.com/a17dc336-fc41-498a-9026-00c8eee61fcf/0_3_640_N.webp" }
         ]
     },
-    "control" : {
-        "featureTypes" : [
-            { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
-            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
-            { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
-            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
-
-            { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"},
-            { "name": "engine","caption": "render engine", "description":"" , "alias": "", "image": "no"}
-          
-        ],
-        "background" :[
-            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
-            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
-            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
-            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
-            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" },
-            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" }
-            
-     
-        ],
-        "color_theme" : [
-            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
-            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
-            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" },
-            
-            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
-            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
-            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
-            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
-            { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
-            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
-            
-        ],
-
-        "detailed" : [
-            { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
-            { "name": "very_detailed",      "caption": "very detailed",  "prompt":"very detailed"   },
-            { "name": "highly_detailed",    "caption": "highly detailed", "prompt":"highly detailed"   },
-            { "name": "hyperdetailed",     "caption": "hyperdetailed", "prompt":"hyperdetailed"   },
-            { "name": "extremely_detailed", "caption": "extremely detailed", "prompt":"extremely detailed"   },
-            { "name": "low_detailed",       "caption": "low detailed", "prompt":"low detailed"   }
-         ],
-         "resolution" : [
-            { "name": "resolution_2k",   "caption": "2k",   "prompt":"2k resolution"   },
-            { "name": "resolution_4k",   "caption": "4k",   "prompt":"4k resolution"   },
-            { "name": "resolution_8k",   "caption": "8k",   "prompt":"8k resolution"   },
-            { "name": "resolution_16k",  "caption": "16k",  "prompt":"16k resolution"   },
-            { "name": "high_resolution", "caption": "high", "prompt":"high resolution" ,"alias":"HD,high definition"  },
-            { "name": "super_resolution",  "caption": "super",   "prompt":"super resolution"   }
-         ],
-         "lighting" : [
-            { "name": "sun_light",         "caption": "太阳光"    },
-            { "name": "nature_lighting",   "caption": "自然光"  },
-            { "name": "dramatic_lighting", "caption": "戏剧光"  },
-            { "name": "volumetric_lighting","caption": "立体光" },
-
-            { "name": "morning_light",     "caption": "晨光"   },
-            { "name": "evening_light ",    "caption": "晚光"    },
-            { "name": "fire_light",        "caption": "火光"    },
-            { "name": "dark_light ",       "caption": "暗光"    },
-
-            { "name": "accent_lighting",   "caption": "局部光"  },
-            { "name": "strong_light",      "caption": "强光"    },
-            { "name": "soft_light",        "caption": "柔光"    },
-            { "name": "moon_light",        "caption": "月光"    }
-            
-         ], 
-         "engine" : [
-            { "name": "octane_render",   "caption": "octane render" },
-            { "name": "unreal_engine",   "caption": "unreal engine" },
-            { "name": "c4d",             "caption": "C4D ", "description": "CINEMA 4D Render Engine" }
-         ]
-    },
     "camera" : {
         "featureTypes" : [ 
             { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.midjourney.com/fc16c72f-7a29-44dd-867f-129e50d41095/0_0.webp"},
@@ -478,6 +404,82 @@
            
         ]
     },
+    
+    "control" : {
+        "featureTypes" : [
+            { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
+            { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
+            { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
+
+            { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"},
+            { "name": "engine","caption": "render engine", "description":"" , "alias": "", "image": "no"}
+          
+        ],
+        "background" :[
+            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
+            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
+            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
+            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
+            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" },
+            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" }
+            
+     
+        ],
+        "color_theme" : [
+            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
+            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
+            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" },
+            
+            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
+            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
+            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
+            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
+            { "name": "neon_colors",  "caption": "霓虹色",  "image": "https://cdn.discordapp.com/attachments/1026630987750322216/1107354656121831495/guccidrap_pedro_pascal_portrait_joyful_vibrant_neon_colors_thic_3fa01a35-c9c1-477d-b3e6-77a5dadd4f43.png" },
+            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
+            
+        ],
+
+        "detailed" : [
+            { "name": "detailed",           "caption": "detailed",       "prompt":"detailed"   },
+            { "name": "very_detailed",      "caption": "very detailed",  "prompt":"very detailed"   },
+            { "name": "highly_detailed",    "caption": "highly detailed", "prompt":"highly detailed"   },
+            { "name": "hyperdetailed",     "caption": "hyperdetailed", "prompt":"hyperdetailed"   },
+            { "name": "extremely_detailed", "caption": "extremely detailed", "prompt":"extremely detailed"   },
+            { "name": "low_detailed",       "caption": "low detailed", "prompt":"low detailed"   }
+         ],
+         "resolution" : [
+            { "name": "resolution_2k",   "caption": "2k",   "prompt":"2k resolution"   },
+            { "name": "resolution_4k",   "caption": "4k",   "prompt":"4k resolution"   },
+            { "name": "resolution_8k",   "caption": "8k",   "prompt":"8k resolution"   },
+            { "name": "resolution_16k",  "caption": "16k",  "prompt":"16k resolution"   },
+            { "name": "high_resolution", "caption": "high", "prompt":"high resolution" ,"alias":"HD,high definition"  },
+            { "name": "super_resolution",  "caption": "super",   "prompt":"super resolution"   }
+         ],
+         "lighting" : [
+            { "name": "sun_light",         "caption": "太阳光"    },
+            { "name": "nature_lighting",   "caption": "自然光"  },
+            { "name": "dramatic_lighting", "caption": "戏剧光"  },
+            { "name": "volumetric_lighting","caption": "立体光" },
+
+            { "name": "morning_light",     "caption": "晨光"   },
+            { "name": "evening_light ",    "caption": "晚光"    },
+            { "name": "fire_light",        "caption": "火光"    },
+            { "name": "dark_light ",       "caption": "暗光"    },
+
+            { "name": "accent_lighting",   "caption": "局部光"  },
+            { "name": "strong_light",      "caption": "强光"    },
+            { "name": "soft_light",        "caption": "柔光"    },
+            { "name": "moon_light",        "caption": "月光"    }
+            
+         ], 
+         "engine" : [
+            { "name": "octane_render",   "caption": "octane render" },
+            { "name": "unreal_engine",   "caption": "unreal engine" },
+            { "name": "c4d",             "caption": "C4D ", "description": "CINEMA 4D Render Engine" }
+         ]
+    },
+    
     "parameter": {
         "featureTypes" : [
             { "name": "version",     "caption": "version" ,"prompt":"--v",         "description":"Rendering engine version","image": "no"  },
