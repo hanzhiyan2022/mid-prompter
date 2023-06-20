@@ -124,9 +124,6 @@
             { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/0021da50-87c5-43cd-9a4e-32d057ee71a6/0_3_384_N.webp" },
 
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.midjourney.com/60027e2b-5e07-4819-9d4f-e0e794288502/0_2_384_N.webp"  },
-
-            { "name": "film_still",   "caption": "电影定格", "type":"photo", "alias": "", "image":"https://cdn.midjourney.com/1f34919c-90e1-40d8-ae90-b82305ccae26/0_3_384_N.webp"  },
-
             { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104628756573859930/felipe77768_sci-fi_cyberpunk_city_market_cars_flying_cars_signs_e38265b5-2d73-498c-a5d1-9bbb8173e263.png" },
           
             { "name": "hyperrealistic",   "caption": "超写实主义", "type":"photo", "alias": "hyperreal,ultrareal,ultrarealistic", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104594313071054869/Arrietty_if_Mary_Cassatt_and_Beatrix_Potter_created_a_baby_capy_9ccd51ae-3376-479d-858d-a4eba89e94ca.png"  },
