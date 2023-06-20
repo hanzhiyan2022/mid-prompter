@@ -88,17 +88,19 @@
             { "name": "desert",   "caption": "沙漠", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/85f355c2-dbde-451b-bd9d-12d74fd135b5/0_1.png" }
         ],
         "scene" : [
+            { "name": "film_still",   "caption": "电影定格", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/cf4d3766-342d-4e0d-bf00-e5053119220a/0_1.webp" },
+
             { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/d70890b5-79cb-470a-a172-3f2cbba5169b/0_2_384_N.webp" },
             { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/8bfb3b22-874f-4d6a-b707-2b1f31472b88/0_0_640_N.webp" },
             { "name": "battle_scene",    "caption": "战斗场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp" },
             { "name": "party_scene",   "caption": "聚会场景", "type" : "scene",  "alias": "" ,  "image": "https://cdn.midjourney.com/e7ad46ca-6e7d-40ad-900c-3e3bf4cec996/0_3_384_N.webp" }, 
 
             { "name": "family_scene",   "caption": "家庭场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/65890e05-5872-42d1-b557-8f711cfb4907/0_3_384_N.webp" },
-            { "name": "romantic_scene",   "caption": "浪漫场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/f3dd619e-9bb5-41d2-84f8-69e1e55ea8be/0_0.png" },
-            { "name": "dialogue_scene",   "caption": "对话场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/c7949249-05c6-4ac5-be29-c36263e2c85d/0_2.png" },          
-            { "name": "adventure_scene",   "caption": "探险场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/acae1920-6fc2-4a41-a892-8a07bde826ce/0_0.png" },        
+            { "name": "romantic_scene",   "caption": "浪漫场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/61fe3932-8f02-4387-acbe-01b2e50486b0/0_3.webp" },
+            { "name": "dialogue_scene",   "caption": "对话场景", "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/34a18741-ce34-4ad0-90e0-b097bb76b0e6/0_2.webp" },          
+            { "name": "adventure_scene",   "caption": "探险场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/d95448d8-ae8d-4f1f-b34f-7ad03d49bc9a/0_3.webp" },        
 
-            { "name": "mysterious_scene",   "caption": "神秘场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/3d43aaf3-bb82-4523-8384-0770f3a7f9a6/0_2.png" }
+            { "name": "mysterious_scene",   "caption": "神秘场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/74f97218-2102-482c-a6fe-3fef1901926c/0_3.webp" }
 
         ]
        

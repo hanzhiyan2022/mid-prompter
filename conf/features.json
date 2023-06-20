@@ -87,6 +87,7 @@
             { "name": "desert",   "caption": "沙漠", "type" : "landscape",  "alias": "" ,  "image": "https://cdn.midjourney.com/85f355c2-dbde-451b-bd9d-12d74fd135b5/0_1.png" }
         ],
         "scene" : [
+            { "name": "film_still",   "caption": "电影定格", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/cf4d3766-342d-4e0d-bf00-e5053119220a/0_1.webp" },
             { "name": "cinematic_scene",   "caption": "电影场景", "type" : "scene",  "alias": "" ,  "image":"https://cdn.midjourney.com/d70890b5-79cb-470a-a172-3f2cbba5169b/0_2_384_N.webp" },
             { "name": "action_scene",    "caption": "动作场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/8bfb3b22-874f-4d6a-b707-2b1f31472b88/0_0_640_N.webp" },
             { "name": "battle_scene",    "caption": "战斗场景",  "type" : "scene",  "alias": "" , "image":"https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp" },
