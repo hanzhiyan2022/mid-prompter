@@ -9,6 +9,7 @@
         { "name": "subject",   "caption": "体裁",  "type":"" },
         { "name": "style",     "caption": "风格",  "type":"" },
         { "name": "artist",    "caption": "艺术家","type":"" },
+        { "name": "artwork",    "caption": "艺术作品", "type":"" },
         { "name": "camera",    "caption": "相机",  "type":"" },
         { "name": "control",   "caption": "控制",  "type":"" },
         { "name": "parameter", "caption": "参数",  "type":"" }
@@ -290,6 +291,15 @@
             { "name": "Max_Fleischer_Style", "caption": "Max Fleischer", "type":"artist", "alias": "Max Fleischer" ,"image": "https://cdn.midjourney.com/a17dc336-fc41-498a-9026-00c8eee61fcf/0_3_640_N.webp" }
         ]
     },
+    "artwork" : {
+        "featureTypes" : [
+            { "name": "cartoon_movie",      "caption": "卡通电影" , "alias":"" ,"image": "https://cdn.midjourney.com/658dc1e9-6b9a-4243-b17d-7c22d1395fbd/0_0_640_N.webp"}
+        ],
+        "cartoon_movie" : [
+            { "name": "Spirited_Away",      "caption": "千与千寻" , "alias":"" ,"image": "https://cdn.midjourney.com/658dc1e9-6b9a-4243-b17d-7c22d1395fbd/0_0_640_N.webp"}
+        ]
+    },
+
     "camera" : {
         "featureTypes" : [ 
             { "name": "distance",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.midjourney.com/b05b0b90-0b48-491d-8cab-ad7b35f2ba17/0_0.webp"},
