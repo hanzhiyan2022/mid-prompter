@@ -458,10 +458,11 @@
             { "name": "no",          "caption": "no elements" ,"prompt":"--no <element>" , "description":"Do not add some elements in the image" ,"image": "no"  }
         ],
         "version" : [
-            { "name": "version_3", "caption": "v3", "prompt":"--v 3"   },
-            { "name": "version_4", "caption": "v4", "prompt":"--v 4"   },
+            { "name": "version_5.2","caption": "v5.2", "prompt":"--v 5.2"   },
+            { "name": "version_5.1","caption": "v5.1", "prompt":"--v 5.1"   },
             { "name": "version_5", "caption": "v5", "prompt":"--v 5"   },
-            { "name": "version_5.1","caption": "v5.1", "prompt":"--v 5.1"   }
+            { "name": "version_4", "caption": "v4", "prompt":"--v 4"   },
+            { "name": "version_3", "caption": "v3", "prompt":"--v 3"   }
         ],
         "aspect_ratio" : [
             { "name": "ar_2_3", "caption": "2:3", "prompt":"--ar 2:3"   },
@@ -475,11 +476,11 @@
             { "name": "seed_value", "caption": "seed", "prompt":"--seed <number>"   }
          ],
          "style" : [
+            { "name": "style_raw",       "caption": "raw",   "prompt":"--style raw"     },
             { "name": "niji_5",   "caption": "niji 5",   "prompt":"--niji 5"     },
             { "name": "style_expressive","caption": "expressive",   "prompt":"--style expressive"     },
             { "name": "style_cute",     "caption": "cute",   "prompt":"--style cute"     },
             { "name": "style_scenic",   "caption": "scenic",   "prompt":"--style scenic"     },
-            { "name": "style_raw",       "caption": "raw",   "prompt":"--style raw"     },
             { "name": "style_default",   "caption": "default",   "prompt":"--style default"     }
         ],
         "chaos" : [
