@@ -308,16 +308,14 @@
 
             { "name": "style_of_The_Nightmare_Before_Christmas",      "caption": "圣诞惊魂夜风格" , "alias":"" ,"image": "https://cdn.midjourney.com/ffbb1250-663b-4ab3-81af-71d1cf998715/0_2_640_N.webp"}
         ],
-
+        "painting" : [
+            { "name": "style_of_Stary_Night",      "caption": "星空风格" , "alias":"" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp"}
+        ],
         "movie" : [
             { "name": "style_of_Jurassic_Park",      "caption": "侏罗纪公园风格" , "alias":"" ,"image": "https://cdn.midjourney.com/101819b1-b202-498e-ac91-510368056822/0_2_640_N.webp"},
 
-            { "name": "style_of_Star_War",      "caption": "星球大战风格" , "alias":"" ,"image": "https://cdn.midjourney.com/ffbb1250-663b-4ab3-81af-71d1cf998715/0_2_640_N.webp"}
+            { "name": "style_of_Star_War",      "caption": "星球大战风格" , "alias":"" ,"image": "https://cdn.midjourney.com/cbbf6b1c-ba21-4367-a61e-7fd3df222e44/0_2_640_N.webp"}
 
-        ],
-
-        "painting" : [
-            { "name": "style_of_Stary_Night",      "caption": "星空风格" , "alias":"" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp"}
         ]
     },
 
