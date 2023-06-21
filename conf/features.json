@@ -296,7 +296,7 @@
             { "name": "cartoon_movie",      "caption": "卡通电影" , "alias":"" ,"image": "https://cdn.midjourney.com/658dc1e9-6b9a-4243-b17d-7c22d1395fbd/0_0_640_N.webp"}
         ],
         "cartoon_movie" : [
-            { "name": "Spirited_Away",      "caption": "千与千寻" , "alias":"" ,"image": "https://cdn.midjourney.com/658dc1e9-6b9a-4243-b17d-7c22d1395fbd/0_0_640_N.webp"}
+            { "name": "Spirited_Away_style",      "caption": "千与千寻" , "alias":"" ,"image": "https://cdn.midjourney.com/658dc1e9-6b9a-4243-b17d-7c22d1395fbd/0_0_640_N.webp"}
         ]
     },
 
