@@ -273,20 +273,18 @@
             { "name": "modern_artist",  "caption":"现代艺术家",  "description":"" ,"image": "https://cdn.midjourney.com/b7d9f5f1-9516-4588-9d3e-e39b11f5e689/0_0_640_N.webp" }
         ],
         "classic_artist" : [
-                { "name": "Van_Gogh_style",    "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp" },
- 
-                { "name": "Claude_Monet_style", "caption": "莫奈风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/7874977f-d3d1-48d1-88e2-7e9273667556/0_2_384_N.webp" },
-                
-                { "name": "Da_Vinci_style", "caption": "达芬奇风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/4f236f12-2ea6-4dbd-8aca-10d76224248a/0_2_640_N.webp" },
- 
-                { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/6aa0829f-088f-4df8-bca0-499bcfc64901/0_1_640_N.webp" },
+            { "name": "Van_Gogh_style",    "caption": "梵高风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp" },
+            { "name": "Claude_Monet_style", "caption": "莫奈风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/7874977f-d3d1-48d1-88e2-7e9273667556/0_2_384_N.webp" },
+            { "name": "Da_Vinci_style", "caption": "达芬奇风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/4f236f12-2ea6-4dbd-8aca-10d76224248a/0_2_640_N.webp" },
+            { "name": "Michelangelo_style",       "caption": "米开朗基罗风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/6aa0829f-088f-4df8-bca0-499bcfc64901/0_1_640_N.webp" },
 
-                { "name": "Johannes_Vermeer_style",       "caption": "约翰尼斯维梅尔风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/d2071741-c1ce-48d4-b62c-8e4c4f15ffe6/0_1.webp" },
+            { "name": "Peter_Paul_Rubens_style",       "caption": "彼得鲁冰斯风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/e3f75006-f7d4-43cd-8a17-18420b19f8bd/0_0.webp" },
+            { "name": "Johannes_Vermeer_style",       "caption": "约翰尼斯维梅尔风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/d2071741-c1ce-48d4-b62c-8e4c4f15ffe6/0_1.webp" },
+            { "name": "William_Turner_style",       "caption": "威廉特纳风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/a2f86084-745c-418f-8a2b-ed483a4186bc/0_1.webp" },
+            { "name": "John_Constable_style",       "caption": "约翰康斯特布尔风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/d5de9525-d372-42a4-96af-0ab496d4485a/0_0.webp" },
 
-                { "name": "John_Constable_style",       "caption": "约翰康斯特布尔", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/426e3923-6737-4424-b4a0-ae454dd9bef1/0_2.webp" },
-
-                { "name": "Jean-François_Millet_style",       "caption": "约翰康斯特布尔", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/5b20fda1-2011-49e9-b0a2-92b2dcfd8f7e/0_3.webp" }
-        ],
+            { "name": "Jean-François_Millet_style",       "caption": "让弥勒风格", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/5b20fda1-2011-49e9-b0a2-92b2dcfd8f7e/0_3.webp" }
+         ],
         "modern_artist" : [
             { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.midjourney.com/8e3401d5-fd13-409e-9641-108c57bc0032/0_2_640_N.webp" },
             { "name": "Hayao_Miyazaki_style", "caption": "宫崎骏风格", "type":"artist", "alias": "" ,"image": "https://cdn.midjourney.com/b6bb5eda-7ba8-495d-83a7-cfa2395fa649/0_3_640_N.webp"},
