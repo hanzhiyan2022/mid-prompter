@@ -281,10 +281,6 @@
                 { "name": "John_Constable_style",       "caption": "约翰康斯特布尔", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/426e3923-6737-4424-b4a0-ae454dd9bef1/0_2.webp" },
 
                 { "name": "Jean-François_Millet_style",       "caption": "约翰康斯特布尔", "type":"artist", "alias": "" ,"image":"https://cdn.midjourney.com/5b20fda1-2011-49e9-b0a2-92b2dcfd8f7e/0_3.webp" }
-
-                
-
-                
         ],
         "modern_artist" : [
             { "name": "Pablo_Picasso_style", "caption": "毕加索", "type":"artist", "alias": "by Pablo Picasso" ,"image": "https://cdn.midjourney.com/8e3401d5-fd13-409e-9641-108c57bc0032/0_2_640_N.webp" },
@@ -303,12 +299,7 @@
     },
     "artwork" : {
         "featureTypes" : [
-        
-            
             { "name": "cartoon_movie",      "caption": "卡通电影" , "alias":"" ,"image": "https://cdn.midjourney.com/658dc1e9-6b9a-4243-b17d-7c22d1395fbd/0_0_640_N.webp"},
-
-            { "name": "movie",      "caption": "电影" , "alias":"" ,"image": "https://cdn.midjourney.com/101819b1-b202-498e-ac91-510368056822/0_2_640_N.webp"},
-            
             { "name": "painting",      "caption": "绘画" , "alias":"" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp"}
 
         ],
