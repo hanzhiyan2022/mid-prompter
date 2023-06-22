@@ -315,7 +315,7 @@
         ],
 
         "painting" : [
-            { "name": "style_of_Stary_Night",      "caption": "星空风格" , "alias":"" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp"}
+            { "name": "style_of_Starry_Night",      "caption": "星空风格" , "alias":"" ,"image": "https://cdn.midjourney.com/5b6c91c3-0755-4ab5-bae4-1ee91c1dab3d/0_0_640_N.webp"}
         ]
     },
     "camera" : {
