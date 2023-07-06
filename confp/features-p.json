@@ -436,7 +436,8 @@
             { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
 
             { "name": "lighting","caption": "lighting",    "description":"" , "alias": "", "image": "no"},
-            { "name": "engine","caption": "render engine", "description":"" , "alias": "", "image": "no"}
+            { "name": "engine","caption": "render engine", "description":"" , "alias": "", "image": "no"},
+            { "name": "element","caption": "element", "description":"" , "alias": "", "image": "no"}
           
         ],
         "background" :[
@@ -500,6 +501,9 @@
             { "name": "octane_render",   "caption": "octane render" },
             { "name": "unreal_engine",   "caption": "unreal engine" },
             { "name": "c4d",             "caption": "C4D ", "description": "CINEMA 4D Render Engine" }
+         ],
+         "element" : [
+            { "name": "pyrotechnic",   "caption": "pyrotechnic" , "image": "https://media.discordapp.net/attachments/989274728155992124/1115802565133738095/joeyborovicka_pyrotechnics_1990s_tv_series_drama_VHS_grain_VHS__67d76db6-3bd4-4fb3-b7b3-c337f19909f7.png?width=1225&height=922" }
          ]
     },
     
