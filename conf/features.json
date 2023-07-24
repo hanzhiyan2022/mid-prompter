@@ -330,7 +330,7 @@
             { "name": "焦距",  "caption": "焦距" , "alias":"" ,"image": "no"},
             { "name": "光圈",      "caption": "光圈" , "alias":"" ,"image": "no"},
             { "name": "感光",           "caption": "感光" , "alias":"" ,"image": "no"},
-            { "name": "c相机产品","caption": "相机产品" , "alias":"" , "image": "no"}
+            { "name": "相机产品","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
         "距离（景别）" : [
             { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.midjourney.com/a88aa0a7-ffb0-4ab5-993f-e0c2140d4464/0_0.webp"  },
