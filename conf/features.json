@@ -6,29 +6,29 @@
     "date" : "2023-6-1",
     "email" : "raykkncc@gmail.com",
     "dimension": [
-        { "name": "subject",   "caption": "体裁",  "type":"" },
-        { "name": "style",     "caption": "风格",  "type":"" },
-        { "name": "artist",    "caption": "艺术家","type":"" },
-        { "name": "artwork",    "caption": "艺术作品", "type":"" },
-        { "name": "camera",    "caption": "相机",  "type":"" },
-        { "name": "control",   "caption": "控制",  "type":"" },
-        { "name": "parameter", "caption": "参数",  "type":"" }
+        { "name": "体裁",   "caption": "体裁",  "type":"" },
+        { "name": "风格",     "caption": "风格",  "type":"" },
+        { "name": "艺术家",    "caption": "艺术家","type":"" },
+        { "name": "艺术作品",    "caption": "艺术作品", "type":"" },
+        { "name": "相机",    "caption": "相机",  "type":"" },
+        { "name": "控制",   "caption": "控制",  "type":"" },
+        { "name": "参数", "caption": "参数",  "type":"" }
       ],
-      "subject": {
+      "体裁": {
         "featureTypes" : [
-            { "name": "figure", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/825149a9-3aba-452b-a0fe-1171329f1d07/0_1_384_N.webp" },  
-            { "name": "design", "caption": "设计",   "alias": "business design", "image": "https://cdn.midjourney.com/f9f4992f-c862-4baf-a468-d41fb32a7979/0_2_640_N.webp"  },   
-            { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.midjourney.com/70a33e7f-c20d-45e3-bfb3-e909f567ebfd/0_1_384_N.webp" },   
-            { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp"  },
+            { "name": "人物", "caption": "人物",   "alias": "figure", "image": "https://cdn.midjourney.com/825149a9-3aba-452b-a0fe-1171329f1d07/0_1_384_N.webp" },  
+            { "name": "设计", "caption": "设计",   "alias": "business design", "image": "https://cdn.midjourney.com/f9f4992f-c862-4baf-a468-d41fb32a7979/0_2_640_N.webp"  },   
+            { "name": "风景", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.midjourney.com/70a33e7f-c20d-45e3-bfb3-e909f567ebfd/0_1_384_N.webp" },   
+            { "name": "场景", "caption": "场景",  "alias": "scene","image": "https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp"  },
 
-            { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
-            { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
+            { "name": "物体", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
+            { "name": "自然", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
         ],
-        "figure" : [
-            { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" }, 
-            { "name": "personal_avatar",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/825149a9-3aba-452b-a0fe-1171329f1d07/0_1_384_N.webp" },
-            { "name": "selfie", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.midjourney.com/981d20fd-cfec-4913-9272-21b084b4e3c6/0_1_384_N.webp" },
-            { "name": "headshot",   "caption": "头像照",   "type" : "figure",  "alias": "","image": "https://cdn.midjourney.com/44f703d8-2292-4314-ba50-c8d3fe50d5ea/0_0_640_N.webp" },
+        "人物" : [
+            { "name": "肖像",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" }, 
+            { "name": "虚拟形象",   "caption": "虚拟形象",   "type" : "figure",  "alias": "" ,"image": "https://cdn.midjourney.com/825149a9-3aba-452b-a0fe-1171329f1d07/0_1_384_N.webp" },
+            { "name": "自拍", "caption": "自拍", "type" : "figure",  "alias": "selfie shot", "image": "https://cdn.midjourney.com/981d20fd-cfec-4913-9272-21b084b4e3c6/0_1_384_N.webp" },
+            { "name": "头像照",   "caption": "头像照",   "type" : "figure",  "alias": "","image": "https://cdn.midjourney.com/44f703d8-2292-4314-ba50-c8d3fe50d5ea/0_0_640_N.webp" },
 
             { "name": "full_body_shot", "caption": "全身像", "type" : "figure",  "alias": "full body shot", "image":"https://cdn.midjourney.com/68527a32-1b19-45ac-8cde-2c8d046f5057/0_2_384_N.webp"}, 
             { "name": "profile",   "caption": "侧面像",   "type" : "figure",  "alias": "side view","image":"https://cdn.midjourney.com/f1504c76-26d1-4d40-9290-c9c719889beb/0_0_384_N.webp" },  
