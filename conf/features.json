@@ -322,7 +322,7 @@
 
     "相机" : {
         "featureTypes" : [ 
-            { "name": "距离(景别)",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.midjourney.com/b05b0b90-0b48-491d-8cab-ad7b35f2ba17/0_0.webp"},
+            { "name": "焦距",      "caption": "距离(景别)" , "alias":"" ,"image": "https://cdn.midjourney.com/b05b0b90-0b48-491d-8cab-ad7b35f2ba17/0_0.webp"},
             { "name": "镜头",          "caption": "镜头" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "镜头位置",      "caption": "镜头位置" , "alias":"angle of view, field of view" , "image": "no"},
             { "name": "透视图",   "caption": "透视图" , "alias":"" , "image": "no"},
@@ -332,7 +332,7 @@
             { "name": "感光",           "caption": "感光" , "alias":"" ,"image": "no"},
             { "name": "相机产品","caption": "相机产品" , "alias":"" , "image": "no"}
         ],
-        "距离（景别）" : [
+        "焦距" : [
             { "name": "long_shot", "caption": "远景(长焦)" , "alias":"far shot,far view,far distance","image": "https://cdn.midjourney.com/a88aa0a7-ffb0-4ab5-993f-e0c2140d4464/0_0.webp"  },
             { "name": "extreme_long_shot", "caption": "超远景(超长焦)" , "alias":"","image": "https://cdn.midjourney.com/3454f101-09e3-4e00-9f3e-652d3ee705b5/0_0.webp"  },
             { "name": "depth_of_field",  "caption": "景深" , "alias":"DOF" ,  "image": "https://cdn.midjourney.com/79e25980-03e0-4391-ad98-a24bfaa2c186/0_0.webp" },
